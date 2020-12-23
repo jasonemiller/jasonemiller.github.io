@@ -9,7 +9,7 @@ On Wednesday evening, the University responded to public health concerns about t
 
 First, let me review the new University calendar.
 
-##Our Next Few Weeks##
+## Our Next Few Weeks ##
 
 The President announced the following change to the University teaching calendar.
 
@@ -21,13 +21,13 @@ The President announced the following change to the University teaching calendar
 
 I’d like to address some of the natural questions student might have about all this, but instead I’ll point them to the University’s [COVID–19 Information](https://www.csuci.edu/news/campus-updates/covid19.htm)</a> webpage and its [COVID–19 FAQ](https://www.csuci.edu/news/campus-updates/covid19-faqs.htm) webpage. If you have other questions, feel free to [email me](mailto:jason.miller@csuci.edu?subject=[COVID-19]%20Student%20Question).
 
-##My Classes Next Week##
+## My Classes Next Week ##
 
 Starting immediately, I’m adopting an extreme social distancing policy. I will work from home when I can. I will work in my office when I must. I will attend meetings only virtually. By reducing contact with colleagues, students, and the public, I am reducing the chance that I spread the virus. (I am <a href="http://flattenthecurve.com">flattening the curve</a>. For the public good, I encourage you to adopt the same policy.
 
 Here’s what I’m planning to do with my courses for the remainder of the semester.
 
-###Real Analysis (MATH 351)###
+### Real Analysis (MATH 351) ###
 
 In class last Thursday (12 March), we had the benefit of talking about these changes because we met after the University declaration. I’ll repeat it here for everyone’s benefit (including mine). Starting Monday, we are going to:
 
@@ -48,7 +48,7 @@ I will review the syllabus to see what revisions must be made in the light of th
 
 If we continue in this way, I think we’ll be able to get through all the course content by the end of the term.
 
-##Calculus I (MATH 150)##
+## Calculus I (MATH 150) ##
 
 Starting Monday, we are going to:
 
@@ -68,6 +68,6 @@ I will review the syllabus to see what revisions must be made in the light of th
 
 If we continue in this way, I think we’ll be able to get through all the course content by the end of the term and everyone will be ready for Calculus II.
 
-##Conclusion##
+## Conclusion ##
 
 Starting on 6 April, I’m going to try to keep our calendar marching forward at a constant and ambitious pace. If you’re like me, you’re more than a little upset about these changes to classes, and it’s hard to imaging what things will be like on 6 April. All of these changes are out of our hands. It’s a global phenomena. All we can do is practice flexibility, adapt, adopt habits that slow the spread of COVID–19, and make the best of it. We’re all coming at this from different places, so let’s help one another and be understanding.
