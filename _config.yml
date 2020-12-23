@@ -35,6 +35,13 @@ theme: minima
 plugins:
   - jekyll-feed
 
+# from https://github.com/jekyll/minima/blob/master/README.md, 'Customize navigation Links'
+header_pages:
+  - teaching.md
+  - research.md
+  - links.md
+  - about.md
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

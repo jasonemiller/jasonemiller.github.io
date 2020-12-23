@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+This is the web home of Jason E. Miller, Ph.D.  The pages and links share information for Miller and those people with similar interests.
