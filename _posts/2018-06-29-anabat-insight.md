@@ -1,7 +1,7 @@
 ---
 title:  Trouble with Anabat Insight
 author: miller
-date: 2020-05-01
+date: 2018-06-29
 categories: bats
 ---
 
