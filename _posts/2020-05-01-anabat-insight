@@ -1,0 +1,21 @@
+---
+title:  Trouble with Anabat Insight
+author: miller
+date: 2020-05-01
+---
+<p>I'm experiencing some 'bad behavior' from Analook Insight, a program I'm using to clean call files recorded with an Anabat Swift.</p>
+<p>My goal is to remove extraneous data from a call file. Here's a call with extraneous (low frequency) noise.</p>
+[caption id="attachment_153" align="alignnone" width="840"]<img class="size-large wp-image-153" src="http://jasonemiller.cikeys.com/wp-content/uploads/2018/06/Screenshot-2018-06-29-12.59.49-1024x519.png" alt="" width="840" height="426" /> Original call file[/caption]
+<p>Read about my troubles after the jump. <!---more---></p>
+<p>I can select some noise for deletion.</p>
+[caption id="attachment_154" align="alignnone" width="840"]<img class="size-large wp-image-154" src="http://jasonemiller.cikeys.com/wp-content/uploads/2018/06/Screenshot-2018-06-29-13.00.03-1024x511.png" alt="" width="840" height="419" /> Noise that I want to delete[/caption]
+<p>And I can delete it using a contextual menu that appears when I right-click on the screen and select 'Hide ZC Dots'.</p>
+[caption id="attachment_155" align="alignnone" width="840"]<img class="size-large wp-image-155" src="http://jasonemiller.cikeys.com/wp-content/uploads/2018/06/Screenshot-2018-06-29-13.00.13-1024x564.png" alt="" width="840" height="463" /> Deleted noise[/caption]
+<p>When I make this selection, the dots I want to delete disappear.</p>
+[caption id="attachment_155" align="alignnone" width="840"]<img class="size-large wp-image-155" src="http://jasonemiller.cikeys.com/wp-content/uploads/2018/06/Screenshot-2018-06-29-13.00.13-1024x564.png" alt="" width="840" height="463" /> Deleted noise[/caption]
+<p>Then I tell Insight that I want to save the file. This dialog box appears and I choose 'Save As' and name the file. (Or I can choose an existing file, the end result is the same.)</p>
+[caption id="attachment_156" align="alignnone" width="858"]<img class="size-full wp-image-156" src="http://jasonemiller.cikeys.com/wp-content/uploads/2018/06/Screenshot-2018-06-29-13.00.25.png" alt="" width="858" height="582" /> Save the cleaned call file[/caption]
+<p>When I save the file, Insight redraws the call file, and noise reappears.</p>
+[caption id="attachment_157" align="alignnone" width="858"]<img class="size-full wp-image-157" src="http://jasonemiller.cikeys.com/wp-content/uploads/2018/06/Screenshot-2018-06-29-13.00.39.png" alt="" width="858" /> Noise reappears[/caption]
+<p>This suggests to me that the file I save (for teaching and analysis in the future) is not the 'cleaned' file I had been working to create but a file with some noise.</p>
+<p>Am I doing something wrong? I've tried with with Auto ZC on and with it off. Same results.</p>
