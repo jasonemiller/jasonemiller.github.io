@@ -20,9 +20,9 @@
 
 title: Home Page of Jason E. Miller, Ph.D.
 email: jason.miller@csuci.edu
-description: >- # this means to ignore newlines until "baseurl:"
+description: 
   This is the web home for Prof. Jason E. Miller, containing links and information relating 
-  to professional intersts.  All content on this site represents the personal and professional 
+  to professional interests.  All content on this site represents the personal and professional 
   opinions of the author alone, and they are not meant to represent those of California State 
   University Channel Islands or its associated legal entities.
 baseurl: "" # the subpath of your site, e.g. /blog
