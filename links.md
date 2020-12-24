@@ -8,16 +8,20 @@ This page is for a list of links to interesting information.
 
 Below are some links that I find useful, and you may, too.
 
-## Links for CI Folks ##
+## Links for CI  ##
 
 * [Canvas](https://cilearn.csuci.edu), our campus Learning Management System that we've branded [CI Learn](https://cilearn.csuci.edu)
 * Undergraduate Research resources
 * [Student Research](http://www.cistudentresearch.com) at CI
+* the [Doreen J. Putrah Travel Fellowship](https://www.csuci.edu/rsp/research-at-ci/students/putrah/)
+
+## Undergraduate Research Linkes ##
+
 * the [Council on Undergraduate Research](http://www.cur.org), the national organization providing leadership in the pedagogy and practice of undergraduate research
 * the [National Conference for Undergraduate Research](www.ncur.org) (NCUR)
 * the [Southern California Conference for Undergraduate Research](http://www.sccur.org) (SCCUR)
 * NSF [Research Experiences for Undergraduates](https://www.nsf.gov/crssprgm/reu/)
-* the [Doreen J. Putrah Travel Fellowship](https://www.csuci.edu/rsp/research-at-ci/students/putrah/)
+
 
 ## Professional Links ##
 
@@ -44,6 +48,7 @@ None of these account are work-related social networking accounts. All are priva
 
 
 * [Twitter](http://www.twitter.com): I am @jasonemiller
+* pinboard
 * [SlideShare](https://www.slideshare.net): I am [millerj870](https://www.slideshare.net/millerj870)
 * [LinkedIn](http://www.linkedin.com): I am [jasonearlmiller](https://www.linkedin.com/in/jasonearlmiller/)
 * I miss Google+ and FriendFeed
