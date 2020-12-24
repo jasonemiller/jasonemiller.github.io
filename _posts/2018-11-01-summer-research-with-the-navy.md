@@ -3,7 +3,7 @@ title: Research Opportunity with the U.S. Navy
 author: miller
 date: 2018-11-01
 category: post
-tags: [faculty,research,navy]
+tags: faculty research navy
 ---
 
 If you're a member of the CI faculty, and you're interested in work being done at one (or more) of the commands at Naval Base Ventura County, then you should consider applying to participate in the ONR's [Summer Faculty Research Program](summer-faculty-research-program). The application is not onerous, and you don't even have to line up a collaborator, first. (Though I imagine that would help.)

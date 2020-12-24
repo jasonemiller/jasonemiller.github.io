@@ -3,7 +3,7 @@ title: Problem with the Anabat Swift
 author: miller
 date: 2018-06-30
 category: post
-tags: [bats]
+tags: bats
 ---
 The purpose of this post is to describe an error we're experiencing with two of our Anabat Swifts.  The third Swift in our stable works perfectly well, we think.  In this post, I'll summarize our problem.  Then I will give a detailed report on our last encounter with the problem.  If we solve the problem, I will edit this post to include an explanation of the source of the problem (as I understand it) and the solution to the problem.
 

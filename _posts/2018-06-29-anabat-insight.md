@@ -3,7 +3,7 @@ title:  Trouble with Anabat Insight
 author: miller
 date: 2018-06-29
 category: post
-tags: [bats]
+tags: bats
 ---
 
 I'm experiencing some 'bad behavior' from Analook Insight, a program I'm using to clean call files recorded with an Anabat Swift.

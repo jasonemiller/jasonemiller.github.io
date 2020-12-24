@@ -3,7 +3,7 @@ title: Adjusting My Teaching During Our Public Health Emergency
 author: miller
 date: 2020-03-15
 category: post
-tags: [teaching,covid19]
+tags: teaching covid19
 ---
 
 On Wednesday evening, the University responded to public health concerns about the novel coronavirus (SAR-CoV–2) by transitioning all face-to-face lecture classes to virtual instruction. This change affects all my courses. I’m writing about my plans here so my students know what to expect.

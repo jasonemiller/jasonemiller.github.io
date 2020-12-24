@@ -3,6 +3,7 @@ title: Adding post tagging to jekyll's Minima theme
 author: miller
 date:  2020-12-23
 tags: jekyll coding
+render_with_liquid: false
 ---
 
 It's almost Christmas Eve and I'm fiddling with a web page.  I moved my content from a Wordpress site to a jekyll installation that can be hosted freely by GitHub.  The 'minima' theme seems to scratch most of my itches, but there are a couple I want to address in the next couple days.  Today's is tagging.
@@ -28,49 +29,57 @@ tags: jekyll coding
 
 Next, I made a file called `collecttags.html` and saved it in my `_includes` directory.  The contents of this file (liquid commands) are shared below.
 
-```r
-{% assign rawtags = "" %}
-{% for post in site.posts %}
-  {% assign ttags = post.tags | join:'|' | append:'|' %}
-  {% assign rawtags = rawtags | append:ttags %}
-{% endfor %}
-{% assign rawtags = rawtags | split:'|' | sort %}
+{% raw %}
 
-{% assign site.tags = "" %}
-{% for tag in rawtags %}
-  {% if tag != "" %}
-    {% if tags == "" %}
-      {% assign tags = tag | split:'|' %}
-    {% endif %}
-    {% unless tags contains tag %}
-      {% assign tags = tags | join:'|' | append:'|' | append:tag | split:'|' %}
-    {% endunless %}
-  {% endif %}
-{% endfor %}
-```
+    {% assign rawtags = "" %}
+    {% for post in site.posts %}
+      {% assign ttags = post.tags | join:'|' | append:'|' %}
+      {% assign rawtags = rawtags | append:ttags %}
+    {% endfor %}
+    {% assign rawtags = rawtags | split:'|' | sort %}
+    
+    {% assign site.tags = "" %}
+    {% for tag in rawtags %}
+      {% if tag != "" %}
+        {% if tags == "" %}
+          {% assign tags = tag | split:'|' %}
+        {% endif %}
+        {% unless tags contains tag %}
+          {% assign tags = tags | join:'|' | append:'|' | append:tag | split:'|' %}
+        {% endunless %}
+      {% endif %}
+    {% endfor %}
+
+{% endraw %}
+
 
 This makes a list `site.tags`.
 
 I then added
 
-```
-{% if site.tags != "" %}
-    {% include collecttags.html %}
-  {% endif %}
-```
+{% raw %}
+
+    {% if site.tags != "" %}
+        {% include collecttags.html %}
+      {% endif %}
+
+{% endraw %}
 
 to `_include/head.html` below the line that reads `{%- include custom-head.html -%}`.  Qian writes that this allows jekyll to load the new HTML file (that creates the `site.tags` list) before the `site.tags` list needs to be used.
 
 The have the tags of a post displayed on the post, you need to modify the post layout.  I insterted
 
-```
-<span>[
-  {% for tag in page.tags %}
-    {% capture tag_name %}{{ tag }}{% endcapture %}
-    <a href="/tag/{{ tag_name }}"><code class="highligher-rouge"><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
-  {% endfor %}
-]</span>
-```
+{% raw %}
+
+    <span>[
+      {% for tag in page.tags %}
+        {% capture tag_name %}{{ tag }}{% endcapture %}
+        <a href="/tag/{{ tag_name }}"><code class="highligher-rouge"><nobr>{{     tag_name }}</nobr></code>&nbsp;</a>
+      {% endfor %}
+    ]</span>
+
+{% endraw %}
+
 in `_layouts/post.html` starting at line 6.  This seemed like what Qian did for his site.  I'll probably mess with some of the styling later (e.g., bacground color).
 
 At this point in his instructions, Qian says
@@ -81,22 +90,24 @@ I don't know what that means, yet.
 
 Next, we make a layout for a new kind of page that will display for each tag all the posts for that tag.  Here's the text for a `_layouts/tagpage.html` file:
 
-```r
----
-layout: default
----
-<div class="post">
-<h1>Tag: {{ page.tag }}</h1>
-<ul>
-{% for post in site.tags[page.tag] %}
-  <li><a href="{{ post.url }}">{{ post.title }}</a> ({{ post.date | date_to_string }})<br>
-    {{ post.description }}
-  </li>
-{% endfor %}
-</ul>
-</div>
-<hr>
-```
+{% raw %}
+
+    ---
+    layout: default
+    ---
+    <div class="post">
+    <h1>Tag: {{ page.tag }}</h1>
+    <ul>
+    {% for post in site.tags[page.tag] %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a> ({{ post.date |     date_to_string }})<br>
+        {{ post.description }}
+      </li>
+    {% endfor %}
+    </ul>
+    </div>
+    <hr>
+
+{% endraw %}
 
 I'll probably want to go play with that some, too.
 
@@ -135,20 +146,25 @@ Tags generated, count 5
 ```
 
 Qian ends his great write-up with code that will create a clickable 'cloud' of tags on ths site.  He creates a file `archives.html` in the `_includes` folder of the site that has the following content:
-```
-<h2>Archive</h2>
-{% capture temptags %}
-  {% for tag in site.tags %}
-    {{ tag[1].size | plus: 1000 }}#{{ tag[0] }}#{{ tag[1].size }}
-  {% endfor %}
-{% endcapture %}
-{% assign sortedtemptags = temptags | split:' ' | sort | reverse %}
-{% for temptag in sortedtemptags %}
-  {% assign tagitems = temptag | split: '#' %}
-  {% capture tagname %}{{ tagitems[1] }}{% endcapture %}
-  <a href="/tag/{{ tagname }}"><code class="highligher-rouge"><nobr>{{ tagname }}</nobr></code></a>
-{% endfor %}
-```
+
+{% raw %}
+
+    <h2>Archive</h2>
+    {% capture temptags %}
+      {% for tag in site.tags %}
+        {{ tag[1].size | plus: 1000 }}#{{ tag[0] }}#{{ tag[1].size }}
+      {% endfor %}
+    {% endcapture %}
+    {% assign sortedtemptags = temptags | split:' ' | sort | reverse %}
+    {% for temptag in sortedtemptags %}
+      {% assign tagitems = temptag | split: '#' %}
+      {% capture tagname %}{{ tagitems[1] }}{% endcapture %}
+      <a href="/tag/{{ tagname }}"><code class="highligher-rouge"><nobr>{{ tagname    }}</nobr></code></a>
+    {% endfor %}
+
+{% endraw %}
+
+
 
 Qian writes the following about this chunk of liquid code:
 
@@ -156,9 +172,15 @@ Qian writes the following about this chunk of liquid code:
 
 The following line should display the 'cloud' of tags:
 
-```
-{% include archive.html %}
-```
+{% raw %}
+
+    {% include archive.html %}
+
+{% endraw %}
+
+I added this to the end of the `tagpage.html` file I created, above, according to Qian's directions.
+
+And I gotta tell you.  This just works.  And it looks great.  Thanks [Long Qian](http://longqian.me)!
 
 ## Python Script
 
