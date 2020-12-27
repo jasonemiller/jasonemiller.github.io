@@ -10,9 +10,9 @@ On Christmas Eve, a letter from a member of the Mathematical Association of Amer
 
 Dear Richard,
 
-Thank you for making the time and the effort to share your cheating experience with the MAA community.  Academic integrity is important to everyone in higher education (or should be), and I think it's valuable to have conversations about how we handle it in our classrooms.
+Thank you for making the time and the effort to share your experience student dishonesty with the MAA community.  Academic integrity is important to everyone in higher education (or should be), and I think it's valuable to have conversations about how we handle it in our classrooms.
 
-I earned my B.A. in mathematics at St. Olaf College, one of many schools in the U.S. that have a strict and respected honor code for its students.  I'll never forget when I was a freshman, my Calc II prof told us that while we were taking an exam *he'd be in his office*, not the classroom.  The honor code allowed him to trust us.  This trusting approach to exams was formative for me as an educator, and it has shaped the way I run my classrooms.
+I earned my B.A. in mathematics at St. Olaf College, one of many schools in the U.S. that have a strict and respected honor code for its students.  I'll never forget when I was a freshman, my Calc II prof told us that while we were taking an exam *he'd be in his office*, not the classroom.  The honor code allowed him to trust us.  This trusting approach to exams was formative for me as an educator, and it shapes the way I run my classrooms.
 
 Each course I teach has a syllabus that lays out for students how important integrity is to me and the foundational role it plays in higher education.  I then make it clear that **I trust them** to do the right thing during exams and on homework, leaving the room (and sitting in the hallway) during exams to make it clear how much I trust them.
 
