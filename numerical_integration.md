@@ -1,6 +1,5 @@
 <!-- originally from http://www.sfu.ca/~jtmulhol/calculus-applets/html/sagemath-cell-approximate-integration.html -->
 
-<html>
 <head>
 		<meta charset="utf-8">
 		<meta name="generator" content="pandoc">
@@ -232,13 +231,8 @@ Try to cut-and-paste this code to replace the function \(f\) in Simpson's Rule a
 <p>The original version of this page by Dr. Jamie Mulholland (Simon Frasier University) can be found at <a href="http://www.sfu.ca/~jtmulhol/calculus-applets/html/sagemath-cell-approximate-integration.html">http://www.sfu.ca/~jtmulhol/calculus-applets/html/sagemath-cell-approximate-integration.html</a>.
 <br /><br />
 
-</div>
-</div>
-</article>
 
 </div>
 <!-- Javascript placed at the end of the document so the pages load faster -->
 <!--<script src="http://software-carpentry.org/v5/js/jquery-1.9.1.min.js"></script>-->
 <script src="css/bootstrap/bootstrap-js/bootstrap.js"></script>
-</body>
-</html>
