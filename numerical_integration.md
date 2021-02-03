@@ -230,12 +230,13 @@ Try to cut-and-paste this code to replace the function \(f\) in Simpson's Rule a
 
 Use this cell for other calculating needs.
 
-<div id="sagecell6"><script type="text/code">
+<div class="compute" id="sagecell6"><script type="text/code">
 #Example
 x=55;
 y=pi;
 (x-y).n();
-				</script></div>
+</script></div>
+
 
 <hr>
 
