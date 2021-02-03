@@ -226,6 +226,17 @@ We can replace the line "f(x) = ..." in the code above with a python function de
 
 Try to cut-and-paste this code to replace the function \(f\) in Simpson's Rule above.
 
+<h4>Bonus calculation SageMath cell</h4>
+
+Use this cell for other calculating needs.
+
+<div id="sagecell6"><script type="text/code">
+#Example
+x=55;
+y=pi;
+(x-y).n();
+				</script></div>
+
 <hr>
 
 <p>The original version of this page by Dr. Jamie Mulholland (Simon Frasier University) can be found at <a href="http://www.sfu.ca/~jtmulhol/calculus-applets/html/sagemath-cell-approximate-integration.html">http://www.sfu.ca/~jtmulhol/calculus-applets/html/sagemath-cell-approximate-integration.html</a>.
