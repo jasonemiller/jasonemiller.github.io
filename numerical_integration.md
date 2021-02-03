@@ -149,7 +149,7 @@ n=10;
 a=0
 b=1
 f(x)=sin(x)
-print midpoint_rule(f,a,b,n).n();
+midpoint_rule(f,a,b,n).n();
 				</script></div>
 
 
