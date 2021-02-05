@@ -28,6 +28,15 @@ Below are some links that I find useful, and you may, too.
 * An [AMS](http://www.ams.org) blog on [Getting Started with Mastery Grading in Math](https://blogs.ams.org/matheducation/2015/11/20/a-beginners-guide-to-standards-based-grading/) by Kate Owens
 * a [collection](https://drive.google.com/drive/folders/1GNSqfOb0LZS6BeAuc1tqPDZWKkPk11KT?usp=sharing) of Mastery Grading materials (e.g., syllabi) for college mathematics (Google Drive)
 
+
+## Modeling and Applied Mathematics ##
+
+* the [Society for Industrial and Applied Mathematics](http://www.siam.org) (SIAM)
+* the annual COMAP contest in [Mathematical Modeling](https://www.comap.com/undergraduate/contests/)
+* the annual [SIMIODE Challenge Using
+Differential Equations Modeling](https://www.simiode.org/scudem)
+
+
 ## Professional Links ##
 
 * the [Mathematical Association of America](http://www.maa.org) (MAA)
