@@ -56,9 +56,9 @@ This course replaces <a href="https://catalog.csuci.edu/preview_course_nopop.php
 
 ## Substitutions ##
 
-Students who complete the course can substitution this course for <a href="https://catalog.csuci.edu/preview_program.php?catoid=53&poid=12408&returnto=3950#">Advanced Data Analysis</a> (MATH 408) requirement for the statistics emphasis.  Doing this is as simple as emailing the <a href="mathto:geoffry.buhl@csuci.edu&subject="Request%20substitution%20of%20MATH%20490%20for%20MATH%20408&body="Dear%20Dr.%20Buhl,%0AI%20am%20taking%20MATH%20490%20this%20spring%20and%20I%20would%20like%20it%20to%20substitute%20for%20MATH%20108%20and%20understand%20that%20you%20can%20submit%20that%20substitution%20approval%20for%20me.%20%20I%20would%20like%20you%20to%20do%20so.%20%20%0AThank%20you,%20A%20Grateful%20Student.">Mathematics Chair</a>.
+Students who complete the course can substitution this course for <a href="https://catalog.csuci.edu/preview_program.php?catoid=53&poid=12408&returnto=3950#">Advanced Data Analysis</a> (MATH 408) requirement for the statistics emphasis.  Doing this is as simple as emailing the <a href="mailto:geoffry.buhl@csuci.edu&subject="Request%20substitution%20of%20MATH%20490%20for%20MATH%20408&body="Dear%20Dr.%20Buhl,%0AI%20am%20taking%20MATH%20490%20this%20spring%20and%20I%20would%20like%20it%20to%20substitute%20for%20MATH%20108%20and%20understand%20that%20you%20can%20submit%20that%20substitution%20approval%20for%20me.%20%20I%20would%20like%20you%20to%20do%20so.%20%20%0AThank%20you,%20A%20Grateful%20Student.">Mathematics Chair</a>.
 
-This course also substitutes for the '<a href="">Advanced Research Investigations</a>' requirement for the mathematics major's emphasis in applied mathematics and the emphasis in statistics.
+This course also substitutes for the <a href="">Advanced Research Investigations</a> requirement for the mathematics major's emphasis in applied mathematics and the emphasis in statistics.
 
 <!--
 SYNTAX FOR IMAGES
