@@ -8,6 +8,14 @@ This page is for information about my teaching since 1998.
 
 ## Mathematics at CSU Channel Islands
 
+|Fall 2021 | Spring 2022|
+|-----|-----|
+| Calculus II (MATH 151) |Calculus II (MATH 151)|
+| Linear Algebra (MATH 240) | Intro to Math Modelins (MATH 490)|
+| Transitions to Higher Math (MATH 310) | |
+|-----|-----|
+
+
 |Fall 2020 | Spring 2021|
 |-----|-----|
 | Calculus I (MATH 150), two sections |Calculus II (MATH 151)|
