@@ -11,7 +11,7 @@ This page is for information about my teaching since 1998.
 |Fall 2021 | Spring 2022|
 |-----|-----|
 | Calculus II (MATH 151) |Calculus II (MATH 151)|
-| Linear Algebra (MATH 240) | Intro to Math Modelins (MATH 490)|
+| Linear Algebra (MATH 240) | Intro to Math Modeling (MATH 490)|
 | Transitions to Higher Math (MATH 310) | |
 |-----|-----|
 
