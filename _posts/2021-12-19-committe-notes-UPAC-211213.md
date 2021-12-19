@@ -18,7 +18,7 @@ The Channel Islands University Police Department has acquired mobile data terima
 
 Members of UPAC had several concerns about RIPA and the data that officers were collecting.  Many of those concerns stemmed from the [categories of informaiton each office must collect](https://oag.ca.gov/ab953/regulations#categories) and the limited reporting options available to the officers.  It was also unclear what measures the officers would take to insure that their memory of their 'perceptions' at the start of an encounter (which must be reported) would not be contaminated by the information they get during the stop from government issued identification.  Relying on a desk sergeant to know when an officer is reporting honestly or dishonestly (for whatever reason) did not reassure the committee.
 
-RIPA data is suppoed to help the public identify law enforcement agencies that profile individuals based on race and, perhaps, gender expression or secual orientation.  The extent to which capturing an officer's 'perception' of an individual at a stop is important.  But how this will work in proactice is not clear.  The campus community should monitor this process and see how the 2022 RIPA report describes our campus police force.
+RIPA data is suppoed to help the public identify law enforcement agencies that profile individuals based on race and, perhaps, gender expression or sexual orientation.  The extent to which capturing an officer's 'perception' of an individual at a stop is important.  But how this will work in practice is not clear.  The campus community should monitor this process and see how the 2022 RIPA report describes our campus police force.
 
 
 
