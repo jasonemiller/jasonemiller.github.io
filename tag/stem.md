@@ -1,12 +1,12 @@
 ---
 layout: tagpage
-title: "Tag: stem"
-tag: stem
+title: "Tag: STEM"
+tag: STEM
 robots: noindex
 ---
 ---
 layout: tagpage
-title: "Tag: STEM"
-tag: STEM
+title: "Tag: stem"
+tag: stem
 robots: noindex
 ---
