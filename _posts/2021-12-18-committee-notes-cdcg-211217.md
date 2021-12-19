@@ -1,5 +1,5 @@
 ---
-title: Committee Notes:  Cross-divisional Communications Group, Friday, December 17, 2021
+title: Committee Notes for *Cross-divisional Communications Group*, Friday, December 17, 2021
 author: Jason
 layout: post
 date: 2021-12-18
