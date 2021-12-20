@@ -3,7 +3,7 @@ title: Committee Notes for UNIVERSITY POLICE ADVISORY COMMITTEE, Monday, Decembe
 author: Jason
 layout: post
 date: 2021-12-19
-tags: committee-notes, upac
+tags: committee-notes upac
 ---
 
 The meeting focused on the University Police Department's implementation reporting requirements of the [Racial and Identify Profiling Act](https://oag.ca.gov/ab953) (CA Senate Bill 953 from 2015).  Information was presented by Interim Chief Drake Massey and Officer Hector Gomez.

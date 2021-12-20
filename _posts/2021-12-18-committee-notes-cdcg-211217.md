@@ -3,7 +3,7 @@ title: Committee Notes for CROSS-DIVISIONAL COMMUNICATIONS GROUP, Friday, Decemb
 author: Jason
 layout: post
 date: 2021-12-18
-tags: committee-notes, covid19
+tags: committee-notes covid19
 ---
 
 The agenda was light.  The report on campus COVID number showed that numbers were very low; the campus's first 'outbreak' was behind us.  Looking back on the term, there was a feeling of contentment and ease with how things were going.  But then conversation turned in two different directions.
