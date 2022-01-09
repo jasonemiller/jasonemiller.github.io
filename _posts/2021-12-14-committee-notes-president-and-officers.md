@@ -6,7 +6,7 @@ date: 2021-12-20
 tags: committee-notes
 ---
 
-On Tuedsay, Decembe 14th, the Officers of the Academic Senate had a regular meeting with Interim President Yao.  Topics of conversations included a report on the dire enrollment numbers for Spring, a mention of a HERD-funded effort to support students, an effort to get seniors the classes they need to graduate, low-income housing effort,  a joint-plan with community college leaders to help everyone's enrollment, and some conversation about the campus budget process.  This note will summarize some of this.
+On Tuesday, December 14th, the Officers of the Academic Senate had a regular meeting with Interim President Yao.  Topics of conversations included a report on the dire enrollment numbers for Spring, a mention of a HERD-funded effort to support students, an effort to get seniors the classes they need to graduate, low-income housing effort,  a joint-plan with community college leaders to help everyone's enrollment, and some conversation about the campus budget process.  This note will summarize some of this.
 
 ## Enrollment
 
@@ -46,7 +46,7 @@ Yao continues to try to find ways to support the Mission Centers on campus.   He
 
 There was discussion about the campus budget process, how it is improving, but how it continues to be somewhat opaque to internal stakeholders.  Yao has always insisted that his VPs have the agency to work with their units to prioritize new budget requests that get put forward at the campus level.  The officers have consistently pointed out that there are mission critical efforts on campus (*e.g.*, tutoring, the writing center, computer refresh, student research, learning communities and team teaching) that have continually been partially funded by one-time funds (*e.g.*, IRA, MSFT, salary-savings).  Every year, requests are made for support for these efforts, and every year other efforts are prioritized.  This year the pattern appears to continue.   Yao continued to be sympathetic, and shares that he plans to ask VPs to share with him both the ideas that their divisions prioritized for funding and those that were put forward but the division did not prioritize.
 
-The officers felt this would be helpful; it would add a way to hold VPs accountabile for the agency they were given in prioritizing proposals.
+The officers felt this would be helpful; it would add a way to hold VPs accountable for the agency they were given in prioritizing proposals.
 
 
 <!--
