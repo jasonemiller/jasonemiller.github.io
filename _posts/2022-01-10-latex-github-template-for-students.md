@@ -10,7 +10,7 @@ I'm teaching mathematical modeling in the spring.  This is an upper-level (senio
 
 Some of my colleagues have students learn LaTeX in mid-level mathematics major courses like *Transitions to Higher Mathematics* and *Modern Algebra*, I think.  Some might even ask students in *Linear Algebra*, a course for minors, to use LaTeX.  I share this for two reasons.  First, it makes my thought of requiring my modeling students to do some LaTeX-ing seem reasonable.  Second, I want to make it clear that I *do not* make students LaTeX in any course I've taught.  LaTeX is beautiful, but I feel the pain-to-pleasure ratio for new learners is too high for me to add it to a course requirement for mid-level or lower classes.
 
-Twitter colleaguesSteven Clontz (@StevenXClontz) and Drew Lewis (@siewlwerd) have shared how they use [Overleaf](https://www.overleaf.com) to deliver LaTeX templates to students, and I think this is something I'm going to try in my modeling class.
+Twitter colleaguesSteven Clontz (@StevenXClontz) and Drew Lewis (@siewlwerd) [have shared](https://twitter.com/StevenXClontz/status/1479860622955356162) how they use [Overleaf](https://www.overleaf.com) to deliver LaTeX templates to students, and I think this is something I'm going to try in my modeling class.
 
 Drew sets up a git repository of LaTeX templates on [GitHub](https://github.com).  Then in Overleaf, they create a `Open in Overleaf` link that points to the files on GitHub.  A student clicks on the link and a copy of the templates opens for the student in Overleaf!  Easy peasy!
 
