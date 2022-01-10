@@ -2,7 +2,7 @@
 title: Notes for SENATE OFFICERS AND INTERIM PRESIDENT YAO, Tuesday, December 14th
 author: Jason
 layout: post
-date: 2021-12-20
+date: 2022-01-03
 tags: committee-notes
 ---
 
