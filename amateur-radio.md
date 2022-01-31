@@ -22,7 +22,7 @@ There is an email list for those interested in staying up-to-date with this inte
 subscribe amateur-radio FName LName
 ```
 
-where `FName` is your first name and `LName` is your surname or family name.  
+where `FName` is your first name and `LName` is your surname or family name.  (If you're name doesn't conform to this pattern, we apologize.  You're welcome to try something or to leave both blank.)
 
 When the list serve software received this email, it will reply to you with information about the list.  You can find an archive of past messages to the list at [this website](https://rolodex.csuci.edu/sympa/arc/amateur-radio/).  Emails you send to this will also appear in this achive.
 
