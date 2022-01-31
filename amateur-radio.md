@@ -26,4 +26,4 @@ where `FName` is your first name and `LName` is your surname or family name.
 
 When the list serve software received this email, it will reply to you with information about the list.  You can find an archive of past messages to the list at [this website](https://rolodex.csuci.edu/sympa/arc/amateur-radio/).  Emails you send to this will also appear in this achive.
 
-If you have questions about this email list, please feel free to email them to <a href="mailto:jason.miller@csuci.edu?subject=amateur-radio%20email%20list%20question">Dr. Jason Miller</a>)
+If you have questions about this email list, please feel free to email them to <a href="mailto:jason.miller@csuci.edu?subject=amateur-radio%20email%20list%20question">Dr. Jason Miller</a>.
