@@ -27,3 +27,21 @@ where `FName` is your first name and `LName` is your surname or family name.  (I
 When the list serve software received this email, it will reply to you with information about the list.  You can find an archive of past messages to the list at [this website](https://rolodex.csuci.edu/sympa/arc/amateur-radio/).  Emails you send to this will also appear in this achive.
 
 If you have questions about this email list, please feel free to email them to <a href="mailto:jason.miller@csuci.edu?subject=amateur-radio%20email%20list%20question">Dr. Jason Miller</a>.
+
+## Links
+
+There are many sources of information on amateur radio online.  Here are a few links of regional interest:
+
+1. Amateur Radio Emergency Service/Auxiliary Communications Service (ARES/ACE) in Ventura County:  [http://www.vcomm.org](http://www.vcomm.org)
+
+2. Conejo Valley Amateur Radio Club: [http://www.cvarc.org](http://www.cvarc.org)
+
+3. Pleasant Valley Amateur Radio Club: [https://www.pvarc.club](https://www.pvarc.club)
+
+4. Radio Licensure [Examination Information](https://www.fcc.gov/wireless/bureau-divisions/mobility-division/amateur-radio-service/examinations) from the Federal Communications Commission
+
+5. Question pool for amateur radio license exams:  [http://ncvec.org](http://ncvec.org)
+
+## Poster Information (Spring 2022)
+
+The [poster](/assets/images/smallposter_amateurradiomeetingswQRv2.png) for the Amateur Radio Interest Group has several pictures that were shared under a Creative Commons license.
