@@ -1,5 +1,5 @@
 ---
-title:  things-our-campus-radio-group-could-do
+title:  Activities our Amateur Radio Group Might Consider
 author: Jason
 layout: post
 date: 2022-05-04
