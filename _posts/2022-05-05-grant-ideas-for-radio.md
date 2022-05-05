@@ -1,12 +1,11 @@
 ---
-title:  grant-ideas-for-radio
+title:  Grant Ideas for our Amateur Radio Group
 author: Jason
 layout: post
 date: 2022-05-05
 tags: amateur-radio
 ---
 
-# Thoughts on an ARRL Grant
 Tonight I participated in the ARRL Zoom-inar where three leaders described a new grant program where ARRL will be giving away grants in amounts between $5000 and $25000 to amateur radio clubs.
 
 This gave me a little more time to think about what we at CI could do (and what we might need to do) to submit a competitive grant proposal.  This document captures some of the ideas that were kicking around my cranium.
