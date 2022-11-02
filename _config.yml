@@ -39,6 +39,7 @@ plugins:
 header_pages:
   - teaching.md
   - research.md
+  - amateur-radio.md
   - links.md
   - about.md
 
