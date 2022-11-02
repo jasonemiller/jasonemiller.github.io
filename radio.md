@@ -8,7 +8,7 @@ This page is for information about Amateur Radio at CI.
 
 ## Interest Group Meetings
 
-Starting in Spring 2022, we will have meetings at 1:30pm in **Bell Tower Eat 2810**, the Mathematics Department conference room.
+UPDATE:  It's Fall 2022, and we have a radio room in **Del Norte 3512**.  So we're goint to start meeting there on Fridays at 1pm.
 
 Meetings will be informal.  We will use the time to talk about what we can do with amateur radio at CI, how individuals can earn a license to become an amateur radio operator, and other topics related to amateur radio.
 
