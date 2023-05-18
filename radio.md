@@ -4,15 +4,27 @@ title: Amateur Radio
 permalink: /amateur-radio/
 ---
 
-This page is for information about Amateur Radio at CI.
+This page is for information about the _CSUCI Amateur Radio Interest Group_.
 
 ## Interest Group Meetings
 
-UPDATE:  It's Fall 2022, and we have a radio room in **Del Norte 3512**.  So we're goint to start meeting there on Fridays at 1pm.
+Starting in Fall 2023, the group will meet on **Thursdays at noon in Del Norte 3550**.  The first meeting will be on Thursday, 24 August.  (We will not meet every week.  Watch here for a schedule of meeting.)
 
-Meetings will be informal.  We will use the time to talk about what we can do with amateur radio at CI, how individuals can earn a license to become an amateur radio operator, and other topics related to amateur radio.
+Come bring a lunch and enjoy a conversation or presentation on some topic of interest to the group.  A schedule of meetings will be linked to this page in early August.
 
-Once we have an idea of what the group of interested people want to do, we will identify meeting topics in advance and announcement them to the `amateur-radio` email list.
+Email your suggestions for topics to the `amateur-radio` email distribution list.  (See below.)
+
+## Radio Room
+
+Our Radio Room in Del Norte 3512 is alive and kicking.  We have four transcievers (three dual band UHF/VHF, and one HF/UHF/VHF, all Yaesu made).  We have six runs of LMR-400 between the room and the roof along with two runs of CAT6 cable.  But we only have one dual band antenna on Del Norte's roof, right now.  We're working on getting more antennas up there.  Stay tuned. 
+
+The room also has a few PCs with radio-related software installed (along with the standard campus software suite) ready to be used creatively.
+
+All this is here and it wants to be used by members of this interest group.  To be a member of this group, you need to be part of the University community (employee or student).  To be given independent access to the room (_i.e._, keycode access), you need to be a member with an amateur radio license.  You will also need to sign an agreement that outlines how the room should be used, etc.
+
+If you have keycode access, please *remember* to sign in on the clipboard so we have a record of who is using the room, when it's being used, and for what.  This record is important because it gives us data that shows the room is a campus asset.
+
+Note that it's OK to use the room to do homework or hangout between classes to listen to the dual band on scan.  Even that use should get recorded on the clipboard.  But please give priority to those folks who want to use the space for doing radio-related work.
 
 ## Email List
 
