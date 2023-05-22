@@ -3,7 +3,7 @@ title:  My Commencement Remarks, May 2023
 author: Jason
 layout: post
 date: 2023-05-22
-tags: faculty, campus
+tags: faculty campus
 ---
 
 One duty of the Chair of the Academic Senate is to deliver brief remarks to the graduates at commencement.  Below is a copy of the remarks that I delivered to the Office of the President for inclusion in the ceremony.  
