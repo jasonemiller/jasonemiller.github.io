@@ -48,7 +48,7 @@ Miller is going to be a ‘band captain’ with the CVARC club for the 40m band 
 
 Here are some ideas we’ve been kicking around for fall.
 
-*	Remember that weather that the US military shot out of the sky?  Let’s make and fly a couple of those 
+*	Remember that weather baloon that the US military shot out of the sky?  Let’s make and fly a couple of those 
 *	Playing with LORA for remote sensors and whatever.
 *	Using amateur radio frequencies with drone-based research and applications. 
 *	Getting involved in the activities like ‘Parks on the Air’, and ‘Summits on the Air’.
