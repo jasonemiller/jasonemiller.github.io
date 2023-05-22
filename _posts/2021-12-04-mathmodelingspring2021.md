@@ -3,7 +3,7 @@ title: Sign-up for Intro to Math Modeling in Spring 2021
 author: Jason
 layout: post
 date: 2021-12-04
-tags: course, modeling
+tags: course modeling
 ---
 
 In Spring 2021, the Mathematics Department will be offering a topics course (MATH 490) on `Introduction to Mathematical Modeling`.  This describes this course and what students can expect from it.
