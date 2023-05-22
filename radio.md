@@ -4,7 +4,7 @@ title: Amateur Radio
 permalink: /amateur-radio/
 ---
 
-This page is for information about the _CSUCI Amateur Radio Interest Group_.
+This page is for information about the _CSUCI Amateur Radio Interest Group_ (KN6ZYB).
 
 ## Interest Group Meetings
 
