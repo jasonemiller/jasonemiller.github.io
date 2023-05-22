@@ -1,5 +1,5 @@
 ---
-title:  newsletter-for-radio-club
+title:  CalState Channel Islands Amateur Radio Interest Group Newsletter, May 2023
 author: Jason
 layout: post
 date: 2023-05-18
