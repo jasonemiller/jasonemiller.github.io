@@ -26,6 +26,23 @@ If you have keycode access, please *remember* to sign in on the clipboard so we 
 
 Note that it's OK to use the room to do homework or hangout between classes to listen to the dual band on scan.  Even that use should get recorded on the clipboard.  But please give priority to those folks who want to use the space for doing radio-related work.
 
+## Licensed Members
+
+At present (18 August 2023), we have the following active licensed members:
+
+Geoff Buhl (KK6NLR, group vice president, 2023-2024), geoffrey.buhl@csuci.edu
+Matthew Furmanski (KN6LTW), matthew.furmanski@csuci.edu
+Matthew Gone (KN6QMZ), mattgone242@gmail.com
+Jason Isaacs (KI6CDJ), jason.isaacs@csuci.edu
+Alan Jaeger(KJ6VZG), alan.jaeger@csuci.edu
+Ben Kuo (AI6YR), Benjamin.kuo@csuci.edu
+Jason Miller (KM6PSZ, group president 2023-2024), jason.miller@csuci.edu
+Max Seligman (KM6WMZ), maximilian.seligman@csuci.edu
+
+Our email distribution list includes fifteen other students, staff, and faculty.  
+
+We want to support others in their pursuit of a license, so let us know how we can support YOU.
+
 ## Email List
 
 There is an email list for those interested in staying up-to-date with this interest group.  To subscribe to the email list, send an empty email to `sympa@lists.csuci.edu` with the subject line
