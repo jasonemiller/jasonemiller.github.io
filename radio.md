@@ -30,14 +30,15 @@ Note that it's OK to use the room to do homework or hangout between classes to l
 
 At present (18 August 2023), we have the following active licensed members:
 
-Geoff Buhl (KK6NLR, group vice president, 2023-2024), geoffrey.buhl@csuci.edu
-Matthew Furmanski (KN6LTW), matthew.furmanski@csuci.edu
-Matthew Gone (KN6QMZ), mattgone242@gmail.com
-Jason Isaacs (KI6CDJ), jason.isaacs@csuci.edu
-Alan Jaeger(KJ6VZG), alan.jaeger@csuci.edu
-Ben Kuo (AI6YR), Benjamin.kuo@csuci.edu
-Jason Miller (KM6PSZ, group president 2023-2024), jason.miller@csuci.edu
-Max Seligman (KM6WMZ), maximilian.seligman@csuci.edu
+	Geoff Buhl (KK6NLR, group vice president, 2023-2024), geoffrey.buhl@csuci.edu
+	Matthew Furmanski (KN6LTW), matthew.furmanski@csuci.edu
+	Matthew Gone (KN6QMZ), mattgone242@gmail.com
+	Jason Isaacs (KI6CDJ), jason.isaacs@csuci.edu
+	Alan Jaeger(KJ6VZG), alan.jaeger@csuci.edu
+	Ben Kuo (AI6YR), Benjamin.kuo@csuci.edu
+	Jason Miller (KM6PSZ, group president 2023-2024), jason.miller@csuci.edu
+	Max Seligman (KM6WMZ), maximilian.seligman@csuci.edu
+	Todd Van Epps (KN6SHK), t.vanepps@yahoo.com
 
 Our email distribution list includes fifteen other students, staff, and faculty.  
 
