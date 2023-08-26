@@ -38,6 +38,7 @@ At present (18 August 2023), we have the following active licensed members:
 	Ben Kuo (AI6YR), Benjamin.kuo@csuci.edu
 	Jason Miller (KM6PSZ, group president 2023-2024), jason.miller@csuci.edu
 	Max Seligman (KM6WMZ), maximilian.seligman@csuci.edu
+	Michael Spencer (KM6EDQ), michael.spencer443@myci.csuci.edu
 	Todd Van Epps (KN6SHK), t.vanepps@yahoo.com
 
 Our email distribution list includes fifteen other students, staff, and faculty.  
