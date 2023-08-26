@@ -1,5 +1,5 @@
 ---
-title: Fun activity today - CVARC one the air from Anacapa Island
+title: Fun activity today - CVARC on the air from Anacapa Island
 author: Jason
 layout: post
 date: 2023-08-25
