@@ -8,7 +8,9 @@ This page is for information about the _CSUCI Amateur Radio Interest Group_ (KN6
 
 ## Interest Group Meetings
 
-Starting in Fall 2023, the group will meet on **Thursdays at noon in Del Norte 3550**.  The first meeting will be on Thursday, 24 August.  (We will not meet every week.  Watch here for a schedule of meeting.)
+Starting in Fall 2023, the group will meet on **Thursdays at noon in Del Norte 3550**.  The first meeting was on Thursday, 24 August.  We will not meet every week.  
+
+**NEXT MEETING** is on Thursday, 7 September.
 
 Come bring a lunch and enjoy a conversation or presentation on some topic of interest to the group.  A schedule of meetings will be linked to this page in early August.
 
