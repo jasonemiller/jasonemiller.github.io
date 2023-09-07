@@ -16,6 +16,8 @@ Come bring a lunch and enjoy a conversation or presentation on some topic of int
 
 Email your suggestions for topics to the `amateur-radio` email distribution list.  (See below.)
 
+TEST
+
 ## Radio Room
 
 Our Radio Room in Del Norte 3512 is alive and kicking.  We have four transcievers (three dual band UHF/VHF, and one HF/UHF/VHF, all Yaesu made).  We have six runs of LMR-400 between the room and the roof along with two runs of CAT6 cable.  But we only have one dual band antenna on Del Norte's roof, right now.  We're working on getting more antennas up there.  Stay tuned. 
