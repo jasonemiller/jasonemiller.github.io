@@ -16,7 +16,6 @@ Come bring a lunch and enjoy a conversation or presentation on some topic of int
 
 Email your suggestions for topics to the `amateur-radio` email distribution list.  (See below.)
 
-TEST
 
 ## Radio Room
 
