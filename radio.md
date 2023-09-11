@@ -12,10 +12,18 @@ Starting in Fall 2023, the group will meet on **Thursdays at noon in Del Norte 3
 
 **NEXT MEETING** is on Thursday, 28 September.
 
-Come bring a lunch and enjoy a conversation or presentation on some topic of interest to the group.  A schedule of meetings will be linked to this page in early August.
+Come bring a lunch and enjoy a conversation or presentation on some topic of interest to the group.
 
 Email your suggestions for topics to the `amateur-radio` email distribution list.  (See below.)
 
+Here's a draft calendar of our meetings this semester and our meeting topics:
+
+* August 24th:  introductions, interests
+* September 7th:  propogation of radio waves, the coverage of the campus 2m radio
+* September 28th:  To be determined
+* October 19th:  To be determined
+* Novermber 9th:  To be determined
+* November 30th:  To be determined
 
 ## Radio Room
 
