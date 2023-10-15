@@ -10,7 +10,7 @@ Today, the [Conejo Valley Amateur Radio Club](http://www.cvarc.org) is organizin
 
 (In full disclosure, I am a POTA and IOTA learner, so this event is going to be a learning experience for me.  If anyone else in the club knows more than me about this, please feel free to weigh in to correct my errors, give better advice, etc.)
 
-## THE CONTEXT ##
+## THE CONTEXT
 
 The idea behind POTA (and IOTA and SOTA) is that someone with a radio goes to the park and gets on the air.  They are an 'activator'.  They want to get a minimum of 10 contacts from the park (without using a land repeater - satellite repeaters are allowed) within a single day.
 
@@ -18,9 +18,9 @@ An activator makes contacts (aka QSOs) with 'hunters'.  At the end of the day, t
 
 To help facilitate this activity, a station can 'spot' an activator.  This means the station has observed an activator in a park, and they announce that observation (that 'spot') to the community by posting at pota.app.  (Yes, a hunter can 'self-spot'.)  Spotting includes the frequency and mode that the activator is using.
 
-I've been getting info about today's trip from Andy Ludlum (K6AGL).  He says that club members will spot or self-spot sometime today.  Spots appear at this website:  [https://pota.app/#/](https://pota.app/#/).
+I've been getting info about today's trip from Andy Ludlum (K6AGL).  He says that club members will spot or self-spot sometime today.  Spots appear at [this website](https://pota.app/#/).
 
-## WE ARE HUNTERS TODAY ##
+##WE ARE HUNTERS TODAY
 
 If you have time today, consider getting on the air to act as a hunter for CVARC's outing.  We can help one another by monitoring the POTA spot page for information about the frequencies they will be using; if you see this, please share the info with everyone using this email listserv.
 
@@ -30,11 +30,15 @@ The club announced that they will be activating on the 20 meter band (a high fre
 
 If you don't have a license but want to see how this works, send an email to the list.  I'm more than happy to come to campus and open the radio room (which doesn't yet have a working high frequency radio antenna) to fire up the UHF/VHF radios to let unlicensed students do some 'hunting' with the club call sign.
 
-## CONCLUSION ##
+##CONCLUSION
 
 That's it.  Hopefully, this will be a fun activity for our campus club.  Someday, we will plan a similar trip of our own to Santa Rosa Island.
 
+##EPILOGUE
 
+I'm dumb.  I was so excited about this adventure that I didn't notice it was scheduled for September 17th!  So I spent the day listening on VHF for the group's activations, but (of course) it never came.  Only found out later in the day (thanks to an email from AI6YR, who was probaby shaking his head as he compased it) about my mistake.
+
+Then, when September 17th rolls around, I'd completely forgotten about teh CVARV DXpedition.  I'm such a bad radio booster.  Hopefully I'll do better next time.
 
 <!--
 SYNTAX FOR IMAGES
