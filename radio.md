@@ -10,7 +10,7 @@ This page is for information about the _CSUCI Amateur Radio Interest Group_ (KN6
 
 Starting in Fall 2023, the group will meet on **Thursdays at noon in Del Norte 3550**.  The first meeting was on Thursday, 24 August.  We're thinking of having a large group meeting every three weeks. 
 
-**NEXT MEETING** is on Thursday, 28 September.
+**NEXT MEETING** is on Thursday, 19 October.
 
 Come bring a lunch and enjoy a conversation or presentation on some topic of interest to the group.
 
@@ -20,9 +20,9 @@ Here's a draft calendar of our meetings this semester and our meeting topics:
 
 * August 24th:  introductions, interests
 * September 7th:  propogation of radio waves, the coverage of the campus 2m radio
-* September 28th:  To be determined
-* October 19th:  To be determined
-* Novermber 9th:  To be determined
+* September 28th:  Sushi Net (12:05-12:15) followed by an update on club opportunities
+* October 19th:  Amateur Radio and the Great Shakeout:  Disaster Preparedness
+* November 9th:  Getting Outdoors with Radio:  Summits on the Air (Martin Hickey, AJ6CL)
 * November 30th:  To be determined
 
 ## Radio Room
