@@ -2,7 +2,7 @@
 title: Some project for CI students interested in amateur radio
 author: Jason
 layout: post
-date: 2024-06026
+date: 2024-06-26
 tags: amateur-radio
 ---
 
