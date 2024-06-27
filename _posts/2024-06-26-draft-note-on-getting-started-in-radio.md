@@ -6,7 +6,7 @@ date: 2024-06-26
 tags: amateur-radio, gear
 ---
 
-## New Tech Equipment List#
+## New Tech Equipment List
 
 What follows is a recommendation for gear you should consider once you’ve passed the Technician class license exam.
 
