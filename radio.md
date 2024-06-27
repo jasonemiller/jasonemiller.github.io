@@ -8,28 +8,15 @@ This page is for information about the _CSUCI Amateur Radio Interest Group_ (KN6
 
 ## Interest Group Meetings
 
-Starting in Fall 2023, the group will meet on **Thursdays at noon in Del Norte 3550**.  The first meeting was on Thursday, 24 August.  We're thinking of having a large group meeting every three weeks. 
-
-**NEXT MEETING** is on Thursday, 19 October.
-
-Come bring a lunch and enjoy a conversation or presentation on some topic of interest to the group.
-
-Email your suggestions for topics to the `amateur-radio` email distribution list.  (See below.)
-
-Here's a draft calendar of our meetings this semester and our meeting topics:
-
-* August 24th:  introductions, interests
-* September 7th:  propogation of radio waves, the coverage of the campus 2m radio
-* September 28th:  Sushi Net (12:05-12:15) followed by an update on club opportunities
-* October 19th:  Amateur Radio and the Great Shakeout:  Disaster Preparedness
-* November 9th:  Getting Outdoors with Radio:  Summits on the Air (Martin Hickey, AJ6CL)
-* November 30th:  To be determined
+Meeting dates for Fall 2024 have not been set.
 
 ## Radio Room
 
-Our Radio Room in Del Norte 3512 is alive and kicking.  We have four transcievers (three dual band UHF/VHF, and one HF/UHF/VHF, all Yaesu made).  We have six runs of LMR-400 between the room and the roof along with two runs of CAT6 cable.  But we only have one dual band antenna on Del Norte's roof, right now.  We're working on getting more antennas up there.  Stay tuned. 
+Our Radio Room in Del Norte 3512 is alive and kicking.  We have five transcievers (three dual band UHF/VHF, one HF/UHF/VHF, all Yaesu made; and we have one 220MHz transceiver that isn't connected yet).  We have six runs of LMR-400 between the room and the roof along with two runs of CAT6 cable.  On the roof, we have five Comet CX-333 antennas and one wire loop antenna for 40m.  
 
-The room also has a few PCs with radio-related software installed (along with the standard campus software suite) ready to be used creatively.
+We also have a GOTA box with a power supply, a Yaesu 991, and a Yaesu FT500DM.  The GOTA box also has antennas - a buddipole and a CS-333 with tripod and mast.
+
+The radio room also has a few PCs with radio-related software installed (along with the standard campus software suite) ready to be used creatively.
 
 All this is here and it wants to be used by members of this interest group.  To be a member of this group, you need to be part of the University community (employee or student).  To be given independent access to the room (_i.e._, keycode access), you need to be a member with an amateur radio license.  You will also need to sign an agreement that outlines how the room should be used, etc.
 
@@ -42,17 +29,19 @@ Note that it's OK to use the room to do homework or hangout between classes to l
 At present (18 August 2023), we have the following active licensed members:
 
 	Geoff Buhl (KK6NLR, group vice president, 2023-2024), geoffrey.buhl@csuci.edu
+	Todd Van Epps (KN6SHK), t.vanepps@yahoo.com
 	Matthew Furmanski (KN6LTW), matthew.furmanski@csuci.edu
 	Matthew Gone (KN6QMZ), mattgone242@gmail.com
 	Jason Isaacs (KI6CDJ), jason.isaacs@csuci.edu
 	Alan Jaeger(KJ6VZG), alan.jaeger@csuci.edu
 	Ben Kuo (AI6YR), Benjamin.kuo@csuci.edu
 	Jason Miller (KM6PSZ, group president 2023-2024), jason.miller@csuci.edu
+	Neysi Reyes (KO6FDD), neysi.reyes6632@myci.csuci.edu
 	Max Seligman (KM6WMZ), maximilian.seligman@csuci.edu
 	Michael Spencer (KM6EDQ), michael.spencer443@myci.csuci.edu
-	Todd Van Epps (KN6SHK), t.vanepps@yahoo.com
+	Adam Wilson (K06FCR), adam.wilson001@myci.csuci.edu
 
-Our email distribution list includes fifteen other students, staff, and faculty.  
+Our email distribution list includes forty-six (46) other students, staff, and faculty.  
 
 We want to support others in their pursuit of a license, so let us know how we can support YOU.
 
