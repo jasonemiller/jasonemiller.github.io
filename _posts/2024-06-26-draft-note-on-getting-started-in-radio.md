@@ -6,8 +6,7 @@ date: 2024-06-26
 tags: amateur-radio, gear
 ---
 
-My summer radio course is having success with students getting their Tech license, so I get an up-close look at the confusion in their faces when they start thiking about what's next. 
-Building on ideas in the [article](https://www.arrl.org/files/file/QST/This%20Month%20in%20QST/2021/02%20February%202021/Jackson.pdf)  "New Ham Kit: A Way for Clubs to Help Get New Hams on the Air" (ARRL, Feb 2021), I watned to create a *Equipment for a new Tech* guide.  Here's what I came up with.
+My summer radio course is having success with students getting their Tech license, so I get an up-close look at the confusion in their faces when they start thinking about what's next.  Building on ideas in the [article](https://www.arrl.org/files/file/QST/This%20Month%20in%20QST/2021/02%20February%202021/Jackson.pdf)  "New Ham Kit: A Way for Clubs to Help Get New Hams on the Air" (ARRL, Feb 2021), I watned to create a *Equipment for a new Tech* guide.  Here's what I came up with.
 
 ## 'New Tech' Equipment List
 
