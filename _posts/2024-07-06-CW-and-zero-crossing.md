@@ -20,7 +20,7 @@ It was then off to the races.
 
 I pulled together the below python script which kicks out a visualization that doesn't look half back, merely 25% bad.  Here's the frequency-time plot I was able to create.
 
-![image](assets/Figure1-final.png)
+![image](/assets/images/Figure1-final.png)
 
 It looks like there's some spurrious (?) doubling or halving happening in the code.   But I'll leave that for smarter people to track down.
 
