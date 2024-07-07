@@ -6,6 +6,8 @@ date: 2024-07-6
 tags: code, python, signal  processing, data
 ---
 
+EDIT:  cleaned up the script a tiny bit.
+
 The other day an amateur radio guy, @MW1CFN@mastodon.radio, poster to Mastodon a question.
 
 > Anybody know of a straightforward way to analyse the sound recordings from SAQ transmissions and plot how the frequency varies over time?
@@ -60,15 +62,10 @@ L=len(yd)
 
 # array of sampling times
 time = [ deltat*i for i in range( L )]
-# array of sampling times for the zero crossing vector
-time2=[time[i] for i in range (L-1)]
 
 # grab a portion of the audio file for analysis (to keep the size managable as I
 # work to pull together some code)
 #
-# Here we take the portion of data starting from the 20,000 index and going to the 20400 index.
-time1=np.split(time, [20000,20400],axis=0)
-yd1=np.split(yd, [20000,20400],axis=0)
 # Here we determine which of the entries are zero crossings
 logicyd=librosa.zero_crossings(yd)
 logicyd1=np.split(logicyd, [20000,20400],axis=0)
@@ -81,30 +78,11 @@ yds=[yd[i] for i in zeros[0]]
 yds=[yds[i] for i in range(len(yds)-1)]
 
 freq=[1/dtimes[i] for i in range( len(dtimes) )]
-#freqdata=librosa.util.stack([time2, freq1], axis=-1)
 
+#for debugging
 print(freq)
 
-# 
-# # visualize the data - note that all the values are binary (either 0 or 1)
-# print(logicyd1)
-# 
-# # what follow is from
-# # https://librosa.org/doc/latest/generated/librosa.zero_crossings.html#librosa.zero_crossings
-# 
-# # here is the time-amplitude data
-# data=librosa.util.stack([time1, yd1], axis=-1)
-# # here are the times of the zero crossings
-# time2=time1[zeros1]
-# # here are the time-amplitude pairs at the zero crossings
-# yd2 = data[zeros1]
-# # because time for one oscillation is twice the time between two zero crossings
-# # the frequency is the inverse of this
-# deltazc=2*diff(time2)
-# freq1=[1/deltazc[i] for i in range( len(deltazc) )]
-# freqdata=librosa.util.stack([time2, freq1], axis=-1)
-# 
-# 
+# visualizing the data
 
 plt.figure(figsize=(20, 4))
 plt.plot(freq)
@@ -113,6 +91,12 @@ plt.title('frequencies')
 plt.xlabel('time')
 plt.ylabel('text')
 plt.show()
+
+# NOTE:  it is my undertstanding that the zero crossing analysis can be improved by 
+# filtering the raw data with a mean filter.  That should be easy to implement with
+# by replacing `yd` with something like
+#   ydM=[1/3*(yd[i-1]+yd[i]+yd[i+1]) for i in range(len(yd)-1)]
+# so long as you set ydM[0] as 1/2(yd[0]+yd[1])
 ```
 
 
