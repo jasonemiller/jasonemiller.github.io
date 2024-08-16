@@ -26,9 +26,10 @@ Note that it's OK to use the room to do homework or hangout between classes to l
 
 ## Licensed Members
 
-At present (18 August 2023), we have the following active licensed members:
+At present (16 August 2024), we have the following active licensed members:
 
 	Geoff Buhl (KK6NLR, group vice president, 2023-2024), geoffrey.buhl@csuci.edu
+	Carlos Enriquez (KO6FNP) carlos.enriquez637@myci.csuci.edu
 	Todd Van Epps (KN6SHK), t.vanepps@yahoo.com
 	Matthew Furmanski (KN6LTW), matthew.furmanski@csuci.edu
 	Matthew Gone (KN6QMZ), mattgone242@gmail.com
@@ -41,7 +42,7 @@ At present (18 August 2023), we have the following active licensed members:
 	Michael Spencer (KM6EDQ), michael.spencer443@myci.csuci.edu
 	Adam Wilson (K06FCR), adam.wilson001@myci.csuci.edu
 
-Our email distribution list includes forty-six (46) other students, staff, and faculty.  
+Our email distribution list includes fifty-eight (58) other students, staff, and faculty along with some community supporters.
 
 We want to support others in their pursuit of a license, so let us know how we can support YOU.
 
@@ -65,11 +66,13 @@ There are many sources of information on amateur radio online.  Here are a few l
 
 1. Miller's posts about amateur radio on campus:  [Campus amateur radio](http://www.jasonemiller.org/tag/amateur-radio)
 
-2. 1. Amateur Radio Emergency Service/Auxiliary Communications Service (ARES/ACE) in Ventura County:  [http://www.vcomm.org](http://www.vcomm.org)
+2. Amateur Radio Emergency Service/Auxiliary Communications Service (ARES/ACE) in Ventura County:  [http://www.vcomm.org](http://www.vcomm.org)
 
 2. Conejo Valley Amateur Radio Club: [http://www.cvarc.org](http://www.cvarc.org)
 
 3. Pleasant Valley Amateur Radio Club: [https://www.pvarc.club](https://www.pvarc.club)
+
+4. Ventura County Amateur Radio Club: [http://www.k6mep.org](http://www.k6mep.org)
 
 4. Radio Licensure [Examination Information](https://www.fcc.gov/wireless/bureau-divisions/mobility-division/amateur-radio-service/examinations) from the Federal Communications Commission
 
