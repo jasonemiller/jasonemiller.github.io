@@ -66,7 +66,7 @@ There are many sources of information on amateur radio online.  Here are a few l
 
 1. Miller's posts about amateur radio on campus:  [Campus amateur radio](http://www.jasonemiller.org/tag/amateur-radio)
 
-2. Amateur Radio Emergency Service/Auxiliary Communications Service (ARES/ACE) in Ventura County:  [http://www.vcomm.org](http://www.vcomm.org)
+2. Amateur Radio Emergency Service/Auxiliary Communications Service (ARES/ACS) in Ventura County:  [http://www.vcomm.org](http://www.vcomm.org)
 
 2. Conejo Valley Amateur Radio Club: [http://www.cvarc.org](http://www.cvarc.org)
 
