@@ -3,7 +3,7 @@ title: Calculating CW frequencies from Audio
 author: Jason
 layout: post
 date: 2024-07-6
-tags: code, python, signal  processing, data
+tags: code python signal-processing data
 ---
 
 EDIT:  cleaned up the script a tiny bit.
