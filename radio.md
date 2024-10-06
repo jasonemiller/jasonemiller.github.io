@@ -8,13 +8,15 @@ This page is for information about the _CSUCI Amateur Radio Interest Group_ (KN6
 
 ## Interest Group Meetings
 
-Meeting dates for Fall 2024 have not been set.
+The campus amateur radio clubs will meet **at noon on the first Tuesday of every month**.  Locations tBA, but when in doubt, show up at the Radio Room (Del Norte 3512).  
+
+Watch for additional meetings on Tuesdays at noon or in the radio room.
 
 ## Radio Room
 
-Our Radio Room in Del Norte 3512 is alive and kicking.  We have five transcievers (three dual band UHF/VHF, one HF/UHF/VHF, all Yaesu made; and we have one 220MHz transceiver that isn't connected yet).  We have six runs of LMR-400 between the room and the roof along with two runs of CAT6 cable.  On the roof, we have five Comet CX-333 antennas and one wire loop antenna for 40m.  
+Our Radio Room in Del Norte 3512 is alive and kicking.  We have fice transcievers (three dual band UHF/VHF, one HF/UHF/VHF, all Yaesu made; and we have one 220MHz transceiver).  We have six runs of LMR-400 between the room and the roof along with two runs of CAT6 cable.  On the roof, we have five Comet CX-333 antennas and one wire loop antenna for 40m.  
 
-We also have a GOTA box with a power supply, a Yaesu 991, and a Yaesu FT500DM.  The GOTA box also has antennas - a buddipole and a CS-333 with tripod and mast.
+We also have three GOTA boxes with a power supply, a Yaesu 991, and a Yaesu FT500DM.  The GOTA box also has antennas - a buddipole and a CS-333 with tripod and mast.
 
 The radio room also has a few PCs with radio-related software installed (along with the standard campus software suite) ready to be used creatively.
 
