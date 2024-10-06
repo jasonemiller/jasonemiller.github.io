@@ -3,7 +3,7 @@ title: How To Get Your Amateur Radio License
 author: Geoffrey Buhl
 layout: post
 date: 2024-10-05
-tags: amateur radio
+tags: amateur-radio
 ---
 
 This is a short write-up on how to get your first amateur radio license.
