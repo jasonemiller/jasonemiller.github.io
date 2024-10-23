@@ -8,8 +8,11 @@ tags: landcruiser
 
 Change of plans.  You know how, when you hear something you agree with and want to believe, it makes it easier for you to overlook flaws in what you're hearing?  That happened to me last week.  I wanted to add a front winch to my rig, and [this post](https://forum.ih8mud.com/threads/hidden-winch-mount-behind-factory-bumper-100-series.1126527/) at ih8mud.com told me what I wanted to hear:  it would be easy peasy to mount a winch.  It would only take a couple cuts of some steel and a little welding.
 
-<!-- template -->
+<!-- template 
 {{ /assets/images/image-LCfrontwinch.png:img?width=250 alt='Winch on front of LC without bumper or bumper cover' }}
+-->
+
+![image](/assets/images/image-LCfrontwinch.png)
 
 
 I bought the winch, the mounting plate, and some recovery gear.  That Harbor Freight winch plate (pictured below at the bottom of the picture) is hefty!  "I'll need something beefy to cut that," I thought.
@@ -18,10 +21,11 @@ Then I took off the bumper cover to take a look at how the plate would mount.  W
 
 Under the bumper cover is the truck's front bumper.  This is one of the elements of the landcruiser that makes it such a safe vehicle.  In a collision, it will either deflect an oncoming body or spread out the force of impact.
 
-<!-- template -->
+<!-- template
 {{ /assets/images/image-LCwithoutfrontbumpercover.jpeg:img?width=250 alt='Winch on front of LC without bumper cover' }}
+-->
 
-<!-- ![image](/assets/images/image-LCwithoutfrontbumpercover.jpeg)-->
+![image](/assets/images/image-LCwithoutfrontbumpercover.jpeg)
 
 What I was seeing on ih8mud (above and [here](https://forum.ih8mud.com/threads/100-series-hidden-winch-mount-another-one.1228166/#post-13412456)) are guys who are removing the bumper to mount a winch.  Once they mount their winch, there's no way to replace the bumper.
 
