@@ -22,7 +22,7 @@ This posting memorializes this work.
 
 First, it's worth making the problem statement more precise.  Given two points and a line through each point, find the equation of an ellipse passing through the points with the lines tangent at those points.  There will be an infinite number of such ellipses, so we are interested in finding the ellipse with minimal eccentricity.
 
-Let $P_1$ and $P_2$ be points in $\mathbb{R}^2$.
+Let <span>$P_1$</span> and $P_2$ be points in <span>$\mathbb{R}^2$</span>.
 
 
 
