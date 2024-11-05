@@ -6,7 +6,7 @@ date: 2024-11-05
 tags: mathematics
 ---
 
-Lat month, Karen Kikuchi, a matheamtics teacher at Rancho Campana High School in Camarillo, CA, reached out to the Mathematics Department at CI to ask if there were a mathematician who could advise a group of students on a mathematics problem they were wrestling with.  The students were working on submitting an entry to [NASA's App Development Challenge](https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.nasa.gov%2Flearning-resources%2Fapp-development-challenge%2Fabout-nasa-app-development-challenge-adc%2F&data=05%7C02%7Cjason.miller%40csuci.edu%7C46461cf286f74c89323508dcf3a65672%7Ce30f5bdb7f18435b84369d84aa7b96dd%7C1%7C0%7C638653142967418118%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=pVZ0n4RxcrdRaPYMP7BoGCyXVLN7vic954Z0ZS%2BrHDs%3D&reserved=0).
+Last month, Karen Kikuchi, a matheamtics teacher at Rancho Campana High School in Camarillo, CA, reached out to the Mathematics Department at CI to ask if there were a mathematician who could advise a group of students on a mathematics problem they were wrestling with.  The students were working on submitting an entry to [NASA's App Development Challenge](https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.nasa.gov%2Flearning-resources%2Fapp-development-challenge%2Fabout-nasa-app-development-challenge-adc%2F&data=05%7C02%7Cjason.miller%40csuci.edu%7C46461cf286f74c89323508dcf3a65672%7Ce30f5bdb7f18435b84369d84aa7b96dd%7C1%7C0%7C638653142967418118%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=pVZ0n4RxcrdRaPYMP7BoGCyXVLN7vic954Z0ZS%2BrHDs%3D&reserved=0).
 
 Here's the problem statement as she shared it with me.
 
@@ -41,3 +41,5 @@ SYNTAX FOR VIDEO
   <source src="/assets/media/filename.m4v" type="video/mp4">
 </video>
 -->
+
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
