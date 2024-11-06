@@ -27,7 +27,26 @@ Let $P_1$ and $P_2$ be points in $\mathbb{R}^2$ and let $\ell_i$ be a line throu
 
 There are two cases to consider:  first, the case where the $\ell_i$ intersect and, second, the case that the $\ell_i$ are parallel.  We will consider the former.
 
-Denote the point of intersection of the $\ell_i$ as $O$.  Without loss of generality, we can assume $O$ sits at the origin.  Define vectors $\vec{p}_i=\overrightarrow{OP_i}$.
+Denote the point of intersection of the $\ell_i$ as $O$.  Without loss of generality, we can assume $O$ sits at the origin.  Define vectors $\vec{p}_i=\overrightarrow{OP_i}$, the vector from the origin to the point $\P_i$.  Since the $\ell_i$ are not parallel lines, the cevtors $\vec{p}_i$ are linearly independent, so they form a basis for the plane.  This means each point $\vec{x}$ in the plane has a coordinate representation with respect to $\{\vec{p}_1,\vec{p}_2\}$, written $\vec{x}=[u,v]^T$ meaning $u$ and $v$ are real numbers such that $\vec{x}=u\vec{p}_1+v\vec{p}_2$.
+
+In this coordinate system, our ellipses have the form
+\[ (u-1)^2+(v-1)^2+2 \alpha u v =1 \]
+where $\alpha$ is a real number with $|\alpha|<1$.  You can see a model of such a family of ellipses rendered in Desmos [here](https://www.desmos.com/3d/9rnkptnxx0).  (Ignore the 'center' for now.  Where it comes from will become clear.)
+
+Next, we locate the center of the ellipse.  Let $\vec{q}_1$ and $\vec{q}_2$ be the basis dual to our basis $\{\vec{p}_1,\vec{p}_2\}$ for the plane.  This means that 
+\[
+\vec{p}_i \cdot \vec{q}_j = \delta_{ij} = \left\{
+  \begin{align*}
+  0 & \, \mbox{if } i \neq j \\
+  1 & \, \mbox{if } i=j
+  \end{align*}
+\]
+
+\[ \begin{cases} 
+      0 & \, \mbox{if } i \neq j \\
+      1 & \, \mbox{if } i=j 
+   \end{cases}
+\]
 
 
 
