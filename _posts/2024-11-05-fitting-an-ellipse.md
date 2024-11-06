@@ -36,20 +36,45 @@ where $\alpha$ is a real number with $|\alpha|<1$.  You can see a model of such 
 Next, we locate the center of the ellipse.  Let $\vec{q}_1$ and $\vec{q}_2$ be the basis dual to our basis $\{\vec{p}_1,\vec{p}_2\}$ for the plane.  This means that 
 
 $$
-\vec{p}_i \cdot \vec{q}_j = \delta_{ij} = \left\{
-  \begin{align*}
-  0 & \, \mbox{if } i \neq j \\
-  1 & \, \mbox{if } i=j
-  \end{align*}
-$$
-
-$$
- \begin{cases} 
+\vec{p}_i \cdot \vec{q}_j = \delta_{ij} = 
+  \begin{cases} 
       0 & \, \mbox{if } i \neq j \\
-      1 & \, \mbox{if } i=j 
+      1 & \, \mbox{if } i=j. 
    \end{cases}
 $$
 
+Consequently, if $\vec{x}=u\vec{p}_1+v\vec{p}_2$, then 
+
+$$
+u=\vec{x} \cdot \vec{q}_1 \mbox{ and } v=\vec{x} \cdot \vec{q}_2.
+$$
+
+Using this, our equation for the ellipses becomes
+
+$$
+(\vec{x} \cdot \vec{q}_1-1)^2+(\vec{x} \cdot \vec{q}_2)^2 + 2 \alpha (\vec{x} \cdot \vec{q}_1)(\vec{x} \cdot \vec{1}_1) =1.
+$$
+
+Next, we use the fact that the center of such an ellipse is the critical point of the expression on the left-hand side (LHS) of the above.  The gradient of the LHS is
+
+$$
+\vec{q}_1 (\vec{x} \cdot \vec{q}_1+\alpha \vec{x} \cdot \vec{q}_2-1)+\vec{q}_2 (\vec{x} \cdot \vec{q}_2+\alpha \vec{x} \cdot \vec{q}_1-1).
+$$
+Since $\{\vec{q}_1,\vec{q}_2\}$ form a basis, they are linearly independent.  Therefore the above expression vanishes if and only if
+
+$$
+\vec{x} \cdot \vec{q}_i+\alpha \vec{x} \cdot \vec{q}_j-1=0
+$$
+
+for $i\neq j$.  Notice that $\vec{x} \cdot \vec{q}_1=\vec{x} \cdot \vec{q}_2 =\frac{1}{1+\alpha}$ solves both equations.  This means the critical point of the ellipse equation is 
+
+$$
+\begin{align*} \vec{x} & = \frac{1}{1+\alpha} \vec{p}_1 + \frac{1}{1+\alpha} \vec{p}_2 \\
+& = [\frac{1}{1+\alpha},\frac{1}{1+\alpha}]
+\end{align*}
+$$
+
+where the latter is the expression of the former in $\vec{p}_1\vec{p}_2-$coordinates.  This gives is the center of the ellipse described by our first equation, above.  (And this explains that addition in the Desmos notebook shared above.)
 
 
 <!--
