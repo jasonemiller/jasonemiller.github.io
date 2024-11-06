@@ -1,5 +1,5 @@
 <!--
-"head" section and contents from https://benlansdell.github.io/computing/mathjax/
+"head" section and contents from https://stackoverflow.com/questions/34347818/using-mathjax-on-a-github-page
 -->
 
 <!DOCTYPE html>
@@ -8,9 +8,16 @@
   {%- include head.html -%}
 
   <head>
-    {% if page.use_math %}
-    {% include mathjax_support.html %}
-    {% endif %}
+    <script type="text/javascript" id="MathJax-script" async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+    </script>
+    <script>
+  MathJax = {
+    tex: {
+      inlineMath: [['$', '$']]
+    }
+  };
+    </script>
   </head>
 
   <body>
