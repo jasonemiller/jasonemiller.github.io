@@ -23,7 +23,11 @@ This posting memorializes this work.
 
 First, it's worth making the problem statement more precise.  Given two points and a line through each point, find the equation of an ellipse passing through the points with the lines tangent at those points.  There will be an infinite number of such ellipses, so we are interested in finding the ellipse with minimal eccentricity.
 
-Let <span>$P_1$</span> and $P_2$ be points in <span>$\mathbb{R}^2$</span>.
+Let $P_1$ and $P_2$ be points in $\mathbb{R}^2$ and let $\ell_i$ be a line through $\P_i$.  We are interested in finding the equation of the ellipses that pass through these points and have the $\ell_i$ as tangent line at $P_i$.  There are infinitely many such ellipses, so we will conclude with an observation on finding that ellipse with least eccentricity.
+
+There are two cases to consider:  first, the case where the $\ell_i$ intersect and, second, the case that the $\ell_i$ are parallel.  We will consider the former.
+
+Denote the point of intersection of the $\ell_i$ as $O$.  Without loss of generality, we can assume $O$ sits at the origin.  Define vectors $\vec{p}_i=\overrightarrow{OP_i}$.
 
 
 
