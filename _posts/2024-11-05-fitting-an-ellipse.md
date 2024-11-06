@@ -34,19 +34,21 @@ In this coordinate system, our ellipses have the form
 where $\alpha$ is a real number with $|\alpha|<1$.  You can see a model of such a family of ellipses rendered in Desmos [here](https://www.desmos.com/3d/9rnkptnxx0).  (Ignore the 'center' for now.  Where it comes from will become clear.)
 
 Next, we locate the center of the ellipse.  Let $\vec{q}_1$ and $\vec{q}_2$ be the basis dual to our basis $\{\vec{p}_1,\vec{p}_2\}$ for the plane.  This means that 
-\[
+
+$$
 \vec{p}_i \cdot \vec{q}_j = \delta_{ij} = \left\{
   \begin{align*}
   0 & \, \mbox{if } i \neq j \\
   1 & \, \mbox{if } i=j
   \end{align*}
-\]
+$$
 
-\[ \begin{cases} 
+$$
+ \begin{cases} 
       0 & \, \mbox{if } i \neq j \\
       1 & \, \mbox{if } i=j 
    \end{cases}
-\]
+$$
 
 
 
