@@ -3,6 +3,7 @@ title: How To Fit An Ellipse to Data
 author: Jason
 layout: post
 date: 2024-11-05
+use_math: true
 tags: mathematics
 ---
 
