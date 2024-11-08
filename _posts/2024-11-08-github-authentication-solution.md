@@ -3,7 +3,7 @@ title: GitHub Authentication Solution
 author: Jason
 layout: post
 date: 2024-11-08
-tags: version-control, git, writing, tower 
+tags: version-control git writing tower 
 ---
 
 I write in Markdown and LaTeX.  These flat file formats allow me to use version control, which I first learned from my Computer Science colleagues at Truman State.  Thanks, dudes!  Some time ago, I adopted the [Tower application](https://www.git-tower.com/windows) as my git environment of choice.  While I can manage git at the command line, I liked the way Tower displays information, and I like its UI with its buttons and menus.
