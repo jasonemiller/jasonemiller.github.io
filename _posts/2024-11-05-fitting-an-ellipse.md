@@ -7,7 +7,7 @@ use_math: true
 tags: mathematics
 ---
 
-Last month, Karen Kikuchi, a matheamtics teacher at Rancho Campana High School in Camarillo, CA, reached out to the Mathematics Department at CI to ask if there were a mathematician who could advise a group of students on a mathematics problem they were wrestling with.  The students were working on submitting an entry to [NASA's App Development Challenge](https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.nasa.gov%2Flearning-resources%2Fapp-development-challenge%2Fabout-nasa-app-development-challenge-adc%2F&data=05%7C02%7Cjason.miller%40csuci.edu%7C46461cf286f74c89323508dcf3a65672%7Ce30f5bdb7f18435b84369d84aa7b96dd%7C1%7C0%7C638653142967418118%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=pVZ0n4RxcrdRaPYMP7BoGCyXVLN7vic954Z0ZS%2BrHDs%3D&reserved=0).
+Last month, Karen Kikuchi, a mathematics teacher at Rancho Campana High School in Camarillo, CA, reached out to the Mathematics Department at CI to ask if there were a mathematician who could advise a group of students on a mathematics problem they were wrestling with.  The students were working on submitting an entry to [NASA's App Development Challenge](https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.nasa.gov%2Flearning-resources%2Fapp-development-challenge%2Fabout-nasa-app-development-challenge-adc%2F&data=05%7C02%7Cjason.miller%40csuci.edu%7C46461cf286f74c89323508dcf3a65672%7Ce30f5bdb7f18435b84369d84aa7b96dd%7C1%7C0%7C638653142967418118%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=pVZ0n4RxcrdRaPYMP7BoGCyXVLN7vic954Z0ZS%2BrHDs%3D&reserved=0).
 
 Here's the problem statement as she shared it with me.
 
@@ -15,7 +15,9 @@ Here's the problem statement as she shared it with me.
   We know that given two points with attached velocity vectors iin space, the smooth curve that connects the two will be an arc of an ellipse.  The question is, what is the equation of this ellipse?  (Note:  there are infinitely many such ellipses, we desire the ellipse with the lowest ecentricity/)
 </quote>
 
-She also referenced [a post](https://math.stackexchange.com/questions/109890/how-to-find-an-ellipse-given-2-passing-points-and-the-tangents-at-them/109927#109927) in Math StackExchange that answers the question, but the students were having trouble understanding the answer.  She also shared a [Desmos rendering](https://www.desmos.com/3d/win32s4luf) of the data they are working with.
+I responded that I'd be willing to help.  I like space curves!  And I'm on sabbatical, so I can do Good Deeds like this.
+
+Ms. Kikuchi also referenced [a post](https://math.stackexchange.com/questions/109890/how-to-find-an-ellipse-given-2-passing-points-and-the-tangents-at-them/109927#109927) in Math StackExchange that answers the question, but the students were having trouble understanding the answer.  She also shared a [Desmos rendering](https://www.desmos.com/3d/win32s4luf) of the data they are working with.
 
 Reviewing the problem and the links confused me; I didn't see the obvious question between what they were asking and the NASA challenge.  So I did my best, starting with translating the StackExchange post into a narrative that I thought the students (who had completed an AP Calculus BC course) could understand.  I also built a couple Desmos models to demonstrate the utility of the mathematics from a coding perspective.
 
@@ -199,7 +201,7 @@ $$
 
 ## Eccentricity
 
-The last bit of business is finding the ellipse that has minimal eccentricity.  I'm not going to review what eccentricity is because there are ample references for that.  I'm not even goingn to derive the $\alpha$-value that gives the ellipse with the least eccentricity.  [This Math Stack Exchange article](https://math.stackexchange.com/questions/109890/how-to-find-an-ellipse-given-2-passing-points-and-the-tangents-at-them/109927#109927) does that.  It's author says that the $\alpha$-valye that minimizes the ellipse is
+The last bit of business is finding the ellipse that has minimal eccentricity.  I'm not going to review what eccentricity is because there are ample references for that.  (See [here](*https://en.wikipedia.org/wiki/Eccentricity_(mathematics)) or [here](https://www.mathopenref.com/ellipseeccentricity.html), for example.)  I'm not even going to derive the $\alpha$-value that gives the ellipse with the least eccentricity.  [This Math Stack Exchange article](https://math.stackexchange.com/questions/109890/how-to-find-an-ellipse-given-2-passing-points-and-the-tangents-at-them/109927#109927) does that.  It's author says that the $\alpha$-valye that minimizes the ellipse is
 
 $$
 \begin{align*}
@@ -215,6 +217,12 @@ This value is expressed entirely in terms of data given at the start of the prob
 The astute reader will notice that I have not written up what we do in the event that $\ell_1$ and $\ell_2$ are parallel.  You can do this yourself, using the narrative in the [Math Stack Exchange article as a guide](https://math.stackexchange.com/questions/109890/how-to-find-an-ellipse-given-2-passing-points-and-the-tangents-at-them/109927#109927).
 
 Happy computing!
+
+
+## Coda
+
+The above wasn't helpful to the students.  As it turns out, they were given points in 3-space that lie on the path of a moon orbiter, and they wanted to fit a differentiable curve to those points.    That's a very different problem.  They ended up using cubic splines to get a differentiable path.
+
 
 <!--
 SYNTAX FOR IMAGES
