@@ -18,9 +18,9 @@ GitHub's 2FA authentication doesn't effect version control.  In my experience, i
 
 Yesterday, in Tower I tried to push a change to a project hosted on GitHub and I received a dialog box titled 'Connection to Remote Failed' Error.  The Git Error message is
 
-Pushing to https://github.com/millerj870/millerj870.github.io.git
-remote: Invalid username or password.
-fatal: Authentication failed for 'https://github.com/millerj870/millerj870.github.io.git/'
+    Pushing to https://github.com/millerj870/millerj870.github.io.git
+    remote: Invalid username or password.
+    fatal: Authentication failed for 'https://github.com/millerj870/millerj870.github.io.git/'
 
 My heart sunk.  My PAT had probably expired and I needed to reinvent a way to fix the problem.  Indeed, a look at GitHub showed that my PAT had expired.  So I made another and tried to remember what to do with it.
 
