@@ -1,6 +1,6 @@
 ---
 title: GitHub Authentication Solution
-author: me
+author: Jason
 layout: post
 date: 2024-11-08
 tags: version-control git writing tower 
