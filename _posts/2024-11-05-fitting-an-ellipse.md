@@ -86,6 +86,7 @@ $$
 \frac{1}{D} \begin{bmatrix}
 b_2 \\ -a_2 
 \end{bmatrix}
+\end{align*}
 $$
 
 and
@@ -100,6 +101,7 @@ $$
 \frac{1}{D} \begin{bmatrix}
 -b_1 \\ a_1 
 \end{bmatrix}.
+\end{align*}
 $$
 
 This gives us the formulas
@@ -179,7 +181,10 @@ $$
 in $xy$-coordinates and
 
 $$
- (\frac{1}{D}((\tilde{x}-a_0)b_2-(\tilde{y}-b_0))a_2)-1)^2+(\frac{1}{D}(-(\tilde{x}-a_0)b_1+(\tilde{y}-b_0)a_1)-1)^2+2 \alpha \frac{1}{D}((\tilde{x}-a_0)b_2-(\tilde{y}-b_0)a_2) \frac{1}{D}(-(\tilde{x}-a_0)b_1+(\tilde{y}-b_0)a_1)=1.
+\begin{multline}
+ (\frac{1}{D}((\tilde{x}-a_0)b_2-(\tilde{y}-b_0))a_2)-1)^2+(\frac{1}{D}(-(\tilde{x}-a_0)b_1+(\tilde{y}-b_0)a_1)-1)^2+ \\
+ 2 \alpha \frac{1}{D}((\tilde{x}-a_0)b_2-(\tilde{y}-b_0)a_2) \frac{1}{D}(-(\tilde{x}-a_0)b_1+(\tilde{y}-b_0)a_1)=1.
+\end{multline}
 $$
 
 These ellispes have a center at
@@ -187,18 +192,18 @@ These ellispes have a center at
 $$
 \begin{align*}
 \vec{x} & =\frac{1}{1+\alpha}\vec{p}_1+\frac{1}{1+\alpha}\vec{p}_2 \\
-& = \frac{1}{1+\alpha}[a_1,b_1]+\frac{1}{1+\alpha}[a_2,b_2]
+& = \frac{1}{1+\alpha}[a_1,b_1]+\frac{1}{1+\alpha}[a_2,b_2]\\
 & = [\frac{a_1+a_2}{1+\alpha},\frac{b_1+b_2}{1+\alpha}]
 \end{align*}
 $$
 
 ## Eccentricity
 
-The last bit of business is finding the ellipse that has minimal eccentricity.  I'm not going to review what eccentricity is because there are ample references for that.  I'm not even goingn to derive the $\alpha$-value that gives the ellipse with the least eccentricity.  This Math StackExchange article does that.  it's author says that the $\alpha$-valye that minimizes the ellipse is
+The last bit of business is finding the ellipse that has minimal eccentricity.  I'm not going to review what eccentricity is because there are ample references for that.  I'm not even goingn to derive the $\alpha$-value that gives the ellipse with the least eccentricity.  [This Math Stack Exchange article](https://math.stackexchange.com/questions/109890/how-to-find-an-ellipse-given-2-passing-points-and-the-tangents-at-them/109927#109927) does that.  It's author says that the $\alpha$-valye that minimizes the ellipse is
 
 $$
 \begin{align*}
-\alpha_{min} & = \frac{2 \vec{p}_1 \cdot \vec{p}_2}{|\vec{p}_1|^2+|\vec{p}_2|^2}
+\alpha_{min} & = \frac{2 \vec{p}_1 \cdot \vec{p}_2}{|\vec{p}_1|^2+|\vec{p}_2|^2} \\
  & = \frac{2 a_1 1_2 + b_1 b_2}{a_1^2+a_2^2+b_1^2+b_2^2}.
 \end{align*}
 $$
