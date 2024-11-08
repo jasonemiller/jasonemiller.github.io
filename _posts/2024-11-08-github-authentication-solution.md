@@ -1,6 +1,6 @@
 ---
 title: GitHub Authentication Solution
-author: Jason
+author: me
 layout: post
 date: 2024-11-08
 tags: version-control git writing tower 
@@ -18,9 +18,9 @@ GitHub's 2FA authentication doesn't effect version control.  In my experience, i
 
 Yesterday, in Tower I tried to push a change to a project hosted on GitHub and I received a dialog box titled 'Connection to Remote Failed' Error.  The Git Error message is
 
-    Pushing to https://github.com/millerj870/millerj870.github.io.git
+    Pushing to https://github.com/USERNAME/USERNAME.github.io.git
     remote: Invalid username or password.
-    fatal: Authentication failed for 'https://github.com/millerj870/millerj870.github.io.git/'
+    fatal: Authentication failed for 'https://github.com/USERNAME/USERNAME.github.io.git/'
 
 My heart sunk.  My PAT had probably expired and I needed to reinvent a way to fix the problem.  Indeed, a look at GitHub showed that my PAT had expired.  So I made another and tried to remember what to do with it.
 
@@ -34,15 +34,15 @@ But all that happened outside Tower.  Attempting to push a repo change a couple 
 
 Screw it, I said to myself, I'm just going to do my versioning with git at the command line.  So I opened up the Terminal, changed my working directory to be the folder containing my repo, and typed `git push`.  I was asked for my password.  I provided it.  To my disappointment, I got an authentication error.
 
-    Password for 'https://millerj870@github.com': 
+    Password for 'https://USERNAME@github.com': 
     remote: Support for password authentication was removed on August 13, 2021.
     remote: Please see https://docs.github.com/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls for information on currently recommended modes of authentication.
 
 I tried again, substituting my PAT for my password.  
 
-    Password for 'https://millerj870@github.com': 
+    Password for 'https://USERNAME@github.com': 
     remote: Invalid username or password.
-    fatal: Authentication failed for 'https://github.com/millerj870/millerj870.github.io.git/'
+    fatal: Authentication failed for 'https://github.com/USERNAME/USERNAME.github.io.git/'
 
 After giving a couple more tries with the same result, I gave up and turned to Google for help.  One search result reminded me that [GitHub has a Command Line Interface](https://cli.github.com).  I installed that with Homebrew, and ran `gh auth login' as directed.  I answered some questions in the Terminal (see below) and was informed my PAT didn't include the permissions GitHub CLI needed, so I made a new PAT with the correct permissions.  
 
@@ -64,7 +64,7 @@ Executing 'gh auth login' again and providing an eligible PAT seemed to go smoot
     ? Paste your authentication token: ****************************************
     - gh config set -h github.com git_protocol https
     ✓ Configured git protocol
-    ✓ Logged in as millerj870
+    ✓ Logged in as USERNAME
 
 In fact, when I exectued the vanilla `git push` command, it seemed to work!  When I pushed from within the Tower app, that also worked.
 
