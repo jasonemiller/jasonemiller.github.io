@@ -22,9 +22,9 @@ title: Home Page of Jason E. Miller, Ph.D.
 email: jason.miller@csuci.edu
 description: 
   This is the web home for Jason E. Miller, Ph.D., containing links and information relating 
-  to personal interestsand work.  All content on this site represents the personal 
-  opinions and perspective of the author alone, and they do not represent those of California State 
-  University Channel Islands or its associated legal entities.
+  to personal interestsand work.  All content on this site are the personal 
+  opinions of the author (me) alone, and they do not represent those of my employers 
+  or legal entities associated with my employers.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.jasonemiller.org" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: jasonemiller
