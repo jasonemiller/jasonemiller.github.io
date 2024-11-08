@@ -37,7 +37,9 @@ Denote the point of intersection of the $\ell_i$ as $O$.  Without loss of genera
 In this coordinate system, our ellipses have the form
 
 $$
- (u-1)^2+(v-1)^2+2 \alpha u v =1
+\begin{align*}
+ (u-1)^2+(v-1)^2+2 \alpha u v & = 1
+\end{align*}
 $$
 
 where $\alpha$ is a real number with $|\alpha|<1$.  You can see a model of such a family of ellipses rendered in Desmos [here](https://www.desmos.com/3d/9rnkptnxx0).  (Ignore the 'center' for now.  Where it comes from will become clear.)
@@ -187,7 +189,7 @@ $$
 \end{multline}
 $$
 
-These ellispes have a center at
+in our very original coordinates.  Note that these ellispes have a center at
 
 $$
 \begin{align*}
@@ -204,7 +206,7 @@ The last bit of business is finding the ellipse that has minimal eccentricity.  
 $$
 \begin{align*}
 \alpha_{min} & = \frac{2 \vec{p}_1 \cdot \vec{p}_2}{|\vec{p}_1|^2+|\vec{p}_2|^2} \\
- & = \frac{2 a_1 1_2 + b_1 b_2}{a_1^2+a_2^2+b_1^2+b_2^2}.
+ & = \frac{2 a_1 a_2 + b_1 b_2}{a_1^2+a_2^2+b_1^2+b_2^2}.
 \end{align*}
 $$
 
