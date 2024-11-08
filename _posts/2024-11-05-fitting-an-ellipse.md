@@ -37,12 +37,10 @@ Denote the point of intersection of the $\ell_i$ as $O$.  Without loss of genera
 In this coordinate system, our ellipses have the form
 
 $$
-\begin{align*}
- (u-1)^2+(v-1)^2+2 \alpha u v & = 1
-\end{align*}
+ (u-1)^2+(v-1)^2+2 \alpha u v & = 1.
 $$
 
-where $\alpha$ is a real number with $|\alpha|<1$.  You can see a model of such a family of ellipses rendered in Desmos [here](https://www.desmos.com/3d/9rnkptnxx0).  (Ignore the 'center' for now.  Where it comes from will become clear.)
+Here $\alpha$ is a real number with $|\alpha|<1$.  You can see a model of such a family of ellipses rendered in Desmos [here](https://www.desmos.com/3d/9rnkptnxx0).  (Ignore the 'center' for now.  Where it comes from will become clear, below.)
 
 Next, we locate the center of the ellipse.  Let $\vec{q}_1$ and $\vec{q}_2$ be the basis dual to our basis $\{\vec{p}_1,\vec{p}_2\}$ for the plane.  This means that 
 
