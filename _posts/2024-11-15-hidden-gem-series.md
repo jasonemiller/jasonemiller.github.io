@@ -14,7 +14,7 @@ The first gem I'm going to describe is the new Coast Guard Air Base in the Count
 
 #ventura-county #santa-barbara-county #san-luis-obispo-county #economicdevelopment #didyouknow 
 
-(Note:  these will be posted to LinkedIn,, Mastodon, and BlueSky with a link back here.)
+(Note:  these will be posted to [LinkedIn](https://www.linkedin.com/in/jasonearlmiller/), [Mastodon](https://c.im/@jasonemiller), and [BlueSky](https://bsky.app/profile/jasonemiller.bsky.social) with a link back here.)
 
 
 <!--
