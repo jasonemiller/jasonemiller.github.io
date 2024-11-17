@@ -1,9 +1,9 @@
 ---
-title: Hidden gem:  Goast Guard Air Station Ventura County
+title: Hidden gems - Coast Guard Air Station Ventura County
 author: Jason
 layout: post
 date: 2024-11-17
-tags: gem nbvc goast-guard
+tags: hidden-gem nbvc coast-guard institute economic-development ventura-county
 ---
 
 Today, the 'hidden gem' I'm writing about is the Coast Guard Air Station at Naval Base Ventura County.    Like the other 'gems' I'm writing about, this Coast Guard Air Station is a community asset that has value to us.  It is evidence of economic, geographic, and cultural strengths of the region.  
