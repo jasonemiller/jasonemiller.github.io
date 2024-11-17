@@ -1,5 +1,5 @@
 ---
-title: Hidden gems - Coast Guard Air Station Ventura County
+title: Hidden gems Coast Guard Air Station Ventura County
 author: Jason
 layout: post
 date: 2024-11-17
