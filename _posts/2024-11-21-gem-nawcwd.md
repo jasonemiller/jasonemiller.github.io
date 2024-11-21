@@ -6,8 +6,6 @@ date: 2024-11-21
 tags: hidden-gem nbvc institute economic-development ventura-county nawcwd drones
 ---
 
-## Hidden Gem:  Naval Air Warfare Center - Weapons Division
-
 A recent post in my 'hidden gems' series highlighted Naval Base Ventura County, the Navy organization (and property) that takes care of over 75 tenant organizations that include the Coast Guard Air Station Ventura.  My next three 'gems' posts pick three tenants that are both Navy commands and federal laboratories.  The first of these is the Naval Air Warfare Center - Weapons Division (NAWC-WD).
 
 I was at Fathomwerx last week for a meeting where a civilian engineer from NAWC-WD was introducing her command to the group.  She opened and closed her presentation with the fact that NAWC-WD is a command that's responsible for the things that 'go boom'.   She said that with pride and some excitement because this is sophisticated, dangerous, and impactful work.  It's also work that requires assets and expertise that generates technology that has value outside the defense industry.  But more on that, later.
