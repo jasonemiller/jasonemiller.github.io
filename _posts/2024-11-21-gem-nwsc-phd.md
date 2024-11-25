@@ -3,7 +3,7 @@ title: Hidden Gems - Naval Surface Warfare Center - Port Hueneme Division
 author: Jason
 layout: post
 date: 2024-11-24
-tags: hidden-gem NWSC-PHD institute economic-development ventura-county nbvc drones post-of-hueneme
+tags: hidden-gem NWSC-PHD institute economic-development ventura-county nbvc drones port-of-hueneme
 ---
 
 This episode of 'hidden gems' shines the spotlight on the [Naval Surface Warfare Center, Port Hueneme Division](https://en.wikipedia.org/wiki/Naval_Surface_Warfare_Center_Port_Hueneme) (NWSC-PHD), part of the U.S. Navy's Naval Sea Systems Command (NAVSEA).  Located at [Naval Base Ventura County](https://www.jasonemiller.org/2024/11/19/gem-nbvc.html), NWSC-PHD is charged with providing the surface fleet with state-of-the art in-service engineering support.  Just as [NAWC-WD](http://www.jasonemiller.org/2024/11/21/gem-nawcwd.html) is the primary command for naval air weapons testing and evaluation (see my previous 'gems' note), NWSC-PHD is the primary testing and evaluation command for (sea) surface systems and system integration.
