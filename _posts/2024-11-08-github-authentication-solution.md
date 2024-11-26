@@ -2,17 +2,19 @@
 title: GitHub Authentication Solution
 author: Jason
 layout: post
-date: 2024-11-08
+date: 2024-11-26
 tags: version-control git writing tower 
 ---
 
-I write in Markdown and LaTeX.  These flat file formats allow me to use version control, which I first learned from my Computer Science colleagues at Truman State.  Thanks, dudes!  Some time ago, I adopted the [Tower application](https://www.git-tower.com/windows) as my git environment of choice.  While I can manage git at the command line, I liked the way Tower displays information, and I like its UI with its buttons and menus.
+I write using Markdown and LaTeX.  These flat file formats allow me to use version control, which I first learned from my Computer Science colleagues at Truman State.  Thanks, dudes!  Some time ago, I adopted the [Tower application](https://www.git-tower.com/windows) as my `git` environment of choice.  While I can manage git at the command line, I liked the way Tower displays information, and I like its UI with its buttons and menus.
 
-In this age of computer mobility (I have two Macs at home, a Mac laptop, an iPad, and a Mac descktop in my work office), I use GitHub to host my few git repositories.  As long as I have an internet connection, this allows me to work on my writing from wherever I am.  I love it.  It's part of my work method that has become indisensible to me.  Sure, Dropbox and iCloud sync across machines, but that Black Box is too big for me to trust 100% of the time.  When I write, especially for myself, I like to be closer to the metal.
+In this age of computer mobility (I have two Macs at home, a Mac laptop, an iPad, and a Mac descktop in my work office), I use GitHub to host my few git repositories.  As long as I have an internet connection, this allows me to work on my writing from wherever I am.  I love it.  It's part of my workflow that has become indisensible.  Sure, Dropbox and iCloud and OneDrive sync across machines, but they are Black Boxed that I cannot trust 100% of the time.  When I write, especially for myself, I like to be closer to the metal.
 
-GitHub requires a use account, and over the years GitHub has changed the way a person (or computer) authenticates to an account or project.  Since I started using GitHub, the service has asked me to start using 2-Factor Authentication (2FA).  it's also asked me to use Personal Access Tokens (PAT).  The Tower application doesn't play so well with either of those.  But I'm a good soldier.  I have my DUO app set up for GitHub 2FA, and I've learned how to generate my PATs and set their expiration.
+GitHub requires a user account, and over the years GitHub has changed the way a person (or computer) authenticates to an account or project.  When I started using GitHub, authentication only required a simple password.  Now, the service has asked me to start using 2-Factor Authentication (2FA).  It has also asked me to use [Personal Access Tokens](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens) (PAT).  The Tower application doesn't play so well with either of those.  But I'm a good soldier.  I have my DUO app set up for GitHub 2FA, and I've learned how to generate my PATs and set their expiration.
 
-GitHub's 2FA authentication doesn't effect version control.  In my experience, it comes to play when I want to log in to the web page.  Those PATs are what screw me up.  They have some role in authenticating to make changes to a repository, and it tends to drive me crazy.  This post is meant to describe my latest attempt at describing Tower's crazy-making and how I solved that problem (this time) so next time (and there will be a next time) I **remember** how to solve it and don't have to reinvent this wheel for the twntieth time.
+I'm confused about why GitHub uses F2A and PAT.  GitHub's 2FA authentication doesn't effect version control.  In my experience, it comes to play when I want to log in to the web page or change my PAT.  Those PATs are what screw me up.  They have some role in authenticating to make changes to a repository.  And they expire.  A PAT comes with an expiration date, and that date is just far enough in the future to allow me for forget how to set up GitHub with a PAT!  
+
+This post is meant to describe my latest attempt at describing Tower's crazy-making and how I solved that problem (this time) so next time I **remember** how to solve it and don't have to reinvent this wheel for the twntieth time.
 
 ## Authentication Error
 
@@ -22,13 +24,13 @@ Yesterday, in Tower I tried to push a change to a project hosted on GitHub and I
     remote: Invalid username or password.
     fatal: Authentication failed for 'https://github.com/USERNAME/USERNAME.github.io.git/'
 
-My heart sunk.  My PAT had probably expired and I needed to reinvent a way to fix the problem.  Indeed, a look at GitHub showed that my PAT had expired.  So I made another and tried to remember what to do with it.
+My heart sunk.  My PAT had probably expired and I needed to reinvent a way to fix the problem.  Indeed, a look at GitHub showed that my PAT had expired.  I [made another classic PAT](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens) and tried to remember what to do with it.
 
-Oddly enough, there's no place in Tower to save a PAT.  Looking in Settings > User Profiles, there is a field dedicated to `signing keys` but that's different.  Mine was blank.  After searching around the application, I could find no place to record the PAT associated with my GitHub account!  (I know that I go through this every time I recreate a solution to this authentication problem.)
+Oddly enough, there's no place in Tower to save a PAT.  Looking in `Settings > User Profiles`, there is a field dedicated to `signing keys` but that's different.  Mine was blank.  After searching around the application, I could find no place to record the PAT associated with my GitHub account!  (I know that I go through this every time I recreate a solution to this authentication problem.)
 
-Something else I always do is create a new token.  Walking through the instructions for [creating a personal access token (classic)](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens) felt very familiar to me.  After creating it, and giving it a descriptive name, I copied the new PAT to my password manager for safe keeping and future reference.
+Something else I always do at this point in the reinvention walk is create a new PAT.  Walking through the instructions for [creating a personal access token (classic)](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens) felt very familiar to me.  After creating it, and giving it a descriptive name, I copied the new PAT to my password manager for safe keeping and future reference.
 
-But all that happened outside Tower.  Attempting to push a repo change a couple times revealed no way to notify tower of this change in authentication information.  No dialog box appeared.  No CLI opened asking for the token.  Nothing.
+But all that happens outside Tower.  Attempting to push a repo change a couple times after making the new PAT revealed no way to notify Tower of this change in authentication information.  No dialog box appears.  No CLI opened asking for the token.  Nothing.
 
 ## Command Line Git
 
@@ -44,7 +46,9 @@ I tried again, substituting my PAT for my password.
     remote: Invalid username or password.
     fatal: Authentication failed for 'https://github.com/USERNAME/USERNAME.github.io.git/'
 
-After giving a couple more tries with the same result, I gave up and turned to Google for help.  One search result reminded me that [GitHub has a Command Line Interface](https://cli.github.com).  I installed that with Homebrew, and ran `gh auth login' as directed.  I answered some questions in the Terminal (see below) and was informed my PAT didn't include the permissions GitHub CLI needed, so I made a new PAT with the correct permissions.  
+After giving a couple more tries with the same result, I gave up and turned to Google for help.  One search result reminded me [GitHub has a Command Line Interface](https://cli.github.com).  
+
+I installed that with Homebrew, and ran `gh auth login' as directed.  I answered some questions in the Terminal (see below) and was informed my PAT didn't include the permissions GitHub CLI needed, so I made a new PAT with the correct permissions.  
 
     ? Where do you use GitHub? GitHub.com
     ? What is your preferred protocol for Git operations on this host? HTTPS
@@ -70,7 +74,15 @@ In fact, when I exectued the vanilla `git push` command, it seemed to work!  Whe
 
 So it looks like I found a solution to my authentication problem on MacOS.  Hallelujah!
 
+## Follow-up on November 26, 2024
 
+As predicted, my PAT expired and I had to go through this whole process again.  Thank you, past me, for thinking about your future me and writing this up.  It was super helpful.  And I discovered a couple wrinkles that are worth noting.
+
+First, when it's time to change the PAT in the Github CLI, a system variable needs to be cleared.  At the CLI, I had to run both `export GH_TOKEN=` and `export GITHUB_TOKEN=` to clear it out.  Once that was done, running `gh auth login` and providing my new PAT worked the same way I did this for the first time.
+
+I also learned that running `gh auth token` will output the PAT that the GitHub CLI is using.  It's a nice way to check if you're using the correct one.
+
+(Hat tip to [this issue ticket](https://github.com/cli/cli/issues/3799) which helped me understand some of what was going on with the PAT and the GitHub CLI.)
 
 
 
