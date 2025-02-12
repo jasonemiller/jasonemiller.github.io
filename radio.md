@@ -10,26 +10,28 @@ This page is for information about the _CSUCI Amateur Radio Interest Group_ (KN6
 
 Meetings for Spring 2025 are at noon on the first and third Thursdays of the month, except where noted (e.g., Spring Break), in Del Norte 3550:
 
-6 Feb:
-: Prof. Ben Kuo will present on 'Come Learn How Radio Can Save Your Life.'
+<dl>
+<dt>6 Feb:</dt>
+<dd>Prof. Ben Kuo will present on 'Come Learn How Radio Can Save Your Life.'</dd>
 
-20 Feb:
-: Prof. Miller will tell you how to prepare for, take, and pass the Technician's licensing exam.  He'll also talk about types of radios available to folks like us.
+<dt>20 Feb:</dt>
+<dd>Prof. Miller will tell you how to prepare for, take, and pass the Technician's licensing exam.  He'll also talk about types of radios available to folks like us.</dd>
 
-6 Mar:
-: ``How to talk on the radio.'' We'll have an hands-on activity that will show everyone how to use a hand-held amateur radio.  If you have a hand-held of your own, bring it to the meeting.  (Consider bringing its manual, too, if you can put your hands on it.)  If you don't have your own radio, the club can lend you one to use for the activities.  No amateur radio license is required for these activities.  We'll talk about the parts of a hand-held radio, how to change its frequency, setting squelch, how to send a message, and how you should hold the radio when you talk into it.  Then we'll practice what we learned by simulating what is called a radio net (or network) that is moderated by a net controller.  It's gonna be great.
+<dt>6 Mar:</dt>
+<dd>``How to talk on the radio.'' We'll have an hands-on activity that will show everyone how to use a hand-held amateur radio.  If you have a hand-held of your own, bring it to the meeting.  (Consider bringing its manual, too, if you can put your hands on it.)  If you don't have your own radio, the club can lend you one to use for the activities.  No amateur radio license is required for these activities.  We'll talk about the parts of a hand-held radio, how to change its frequency, setting squelch, how to send a message, and how you should hold the radio when you talk into it.  Then we'll practice what we learned by simulating what is called a radio net (or network) that is moderated by a net controller.  It's gonna be great.</dd>
 
-20 Mar:
-: Topic is to be determined.  If you have ideas or requests, email <a href="mailto:neysi.reyes662@myci.csuci.edu">Neysi</a>, the club president.  (Note:  this is likely a Spring Break day, so we plan to shift the meeting up or back a week.)
+<dt>20 Mar:</dt>
+<dd>Topic is to be determined.  If you have ideas or requests, email <a href="mailto:neysi.reyes662@myci.csuci.edu">Neysi</a>, the club president.  (Note:  this is likely a Spring Break day, so we plan to shift the meeting up or back a week.)</dd>
 
-3 April:
-: Topic is to be determined.  If you have ideas or requests, email <a href="mailto:neysi.reyes662@myci.csuci.edu">Neysi</a>, the club president.
+<dt>3 April:</dt>
+<dd>Topic is to be determined.  If you have ideas or requests, email <a href="mailto:neysi.reyes662@myci.csuci.edu">Neysi</a>, the club president.</dd>
 
-17 April:
-: Topic is to be determined.  If you have ideas or requests, email <a href="mailto:neysi.reyes662@myci.csuci.edu">Neysi</a>, the club president.
+<dt>17 April:</dt>
+<dd>Topic is to be determined.  If you have ideas or requests, email <a href="mailto:neysi.reyes662@myci.csuci.edu">Neysi</a>, the club president.</dd>
 
-1 May:
-: Topic is to be determined.  If you have ideas or requests, email <a href="mailto:neysi.reyes662@myci.csuci.edu">Neysi</a>, the club president.
+<dt>1 May:</dt>
+<dd>Topic is to be determined.  If you have ideas or requests, email <a href="mailto:neysi.reyes662@myci.csuci.edu">Neysi</a>, the club president.</dd>
+</dl>
 
 ## Other Meetings
 
