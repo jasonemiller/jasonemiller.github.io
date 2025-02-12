@@ -4,19 +4,45 @@ title: Amateur Radio
 permalink: /amateur-radio/
 ---
 
-This page is for information about the _CSUCI Amateur Radio Interest Group_ (KN6ZYB).
+This page is for information about the _CSUCI Amateur Radio Interest Group_ (KN6ZYB) and the <a href="https://csuci.campuslabs.com/engage/organization/studentamatureradio">_CSUCI Student Amateur Radio Club_</a>.
 
-## Interest Group Meetings
+## Club Meetings
 
-The campus amateur radio clubs will meet **at noon on the first Tuesday of every month**.  Locations tBA, but when in doubt, show up at the Radio Room (Del Norte 3512).  
+Meetings for Spring 2025 are at noon on the first and third Thursdays of the month, except where noted (e.g., Spring Break), in Del Norte 3550:
 
-Watch for additional meetings on Tuesdays at noon or in the radio room.
+6 Feb:
+: Prof. Ben Kuo will present on 'Come Learn How Radio Can Save Your Life.'
+
+20 Feb:
+: Prof. Miller will tell you how to prepare for, take, and pass the Technician's licensing exam.  He'll also talk about types of radios available to folks like us.
+
+6 Mar:
+: ``How to talk on the radio.'' We'll have an hands-on activity that will show everyone how to use a hand-held amateur radio.  If you have a hand-held of your own, bring it to the meeting.  (Consider bringing its manual, too, if you can put your hands on it.)  If you don't have your own radio, the club can lend you one to use for the activities.  No amateur radio license is required for these activities.  We'll talk about the parts of a hand-held radio, how to change its frequency, setting squelch, how to send a message, and how you should hold the radio when you talk into it.  Then we'll practice what we learned by simulating what is called a radio net (or network) that is moderated by a net controller.  It's gonna be great.
+
+20 Mar:
+: Topic is to be determined.  If you have ideas or requests, email <a href="mailto:neysi.reyes662@myci.csuci.edu">Neysi</a>, the club president.  (Note:  this is likely a Spring Break day, so we plan to shift the meeting up or back a week.)
+
+3 April:
+: Topic is to be determined.  If you have ideas or requests, email <a href="mailto:neysi.reyes662@myci.csuci.edu">Neysi</a>, the club president.
+
+17 April:
+: Topic is to be determined.  If you have ideas or requests, email <a href="mailto:neysi.reyes662@myci.csuci.edu">Neysi</a>, the club president.
+
+1 May:
+: Topic is to be determined.  If you have ideas or requests, email <a href="mailto:neysi.reyes662@myci.csuci.edu">Neysi</a>, the club president.
+
+## Other Meetings
+
+Officers of the student club plan to meet at noon on the Tuesdays before a club meeting.  They will generally convene at the Radio Room.
+
+We also hope to schedule some Get On The Air activities outside where we set up radios, batteries, and antennas for all to see.  If you want to be involved in that, email <a href="mailto:neysi.reyes662@myci.csuci.edu">Neysi</a>, the club president.
+
 
 ## Radio Room
 
-Our Radio Room in Del Norte 3512 is alive and kicking.  We have fice transcievers (three dual band UHF/VHF, one HF/UHF/VHF, all Yaesu made; and we have one 220MHz transceiver).  We have six runs of LMR-400 between the room and the roof along with two runs of CAT6 cable.  On the roof, we have five Comet CX-333 antennas and one wire loop antenna for 40m.  
+Our Radio Room in Del Norte 3512 is alive and kicking.  We have five transcievers (three dual band UHF/VHF, one HF/UHF/VHF, all Yaesu made; and we have one 220MHz transceiver that isn't connected yet).  We have six runs of LMR-400 between the room and the roof along with two runs of CAT6 cable.  On the roof, we have five Comet CX-333 antennas and one wire loop antenna for 40m.  
 
-We also have three GOTA boxes with a power supply, a Yaesu 991, and a Yaesu FT500DM.  The GOTA box also has antennas - a buddipole and a CS-333 with tripod and mast.
+We also have a GOTA box with a power supply, a Yaesu 991, and a Yaesu FT500DM.  The GOTA box also has antennas - a buddipole and a CS-333 with tripod and mast.
 
 The radio room also has a few PCs with radio-related software installed (along with the standard campus software suite) ready to be used creatively.
 
@@ -30,7 +56,7 @@ Note that it's OK to use the room to do homework or hangout between classes to l
 
 At present (16 August 2024), we have the following active licensed members:
 
-	Geoff Buhl (N6GWB, group vice president, 2023-2024), geoffrey.buhl@csuci.edu
+	Geoff Buhl (KK6NLR, group vice president, 2023-2024), geoffrey.buhl@csuci.edu
 	Carlos Enriquez (KO6FNP) carlos.enriquez637@myci.csuci.edu
 	Todd Van Epps (KN6SHK), t.vanepps@yahoo.com
 	Matthew Furmanski (KN6LTW), matthew.furmanski@csuci.edu
