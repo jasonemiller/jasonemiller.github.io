@@ -12,14 +12,14 @@ The Getting Things Done (TM) ecosystem has a rich marketplace of doodads and daw
 |:--:|
 | A picture of the top of the GTD calendar page.|
 
-Last year, I found those pages useful as I tried to find a consistent way of organizing my daily and weekly work.  From time to time, though, I’d look at these two-page, GTD week-at-a-glance sheets and asked myself if I could use my meager coding skills to save &dollar;19.	Could I do it in LaTeX?  Using AppleScript?  In HTML with some CSS and PHP?  Could I do it for less than &dollar;19 of my time?
+Last year, I found those pages useful as I tried to find a consistent way of organizing my daily and weekly work.  From time to time, though, I’d look at these two-page, GTD week-at-a-glance sheets and asked myself if I could use my meager coding skills to save &#36;19.	Could I do it in LaTeX?  Using AppleScript?  In HTML with some CSS and PHP?  Could I do it for less than &#36;19 of my time?
 
 
 | ![https://xkcd.com/1205/](/assets/images/image-is_it_worth_the_time.png)|
 | :--------------------------------------------------------------------------------: |
 |                         XKCD Comic 'Is it Worth the Time?'                         |
 
-When it came to springing \$19 for a second year of these pages, my thoughts again turned to rolling my own calendar.  To my surprise, the tools for making these week-based two-page calendars is actually baked into Apple’s spreadsheet app [Numbers](https://www.apple.com/in/numbers/).  In this post, I’ll describe how I used Numbers to create a semi-automated process for generating my two-page week calendars.
+When it came to springing &#36;19 for a second year of these pages, my thoughts again turned to rolling my own calendar.  To my surprise, the tools for making these week-based two-page calendars is actually baked into Apple’s spreadsheet app [Numbers](https://www.apple.com/in/numbers/).  In this post, I’ll describe how I used Numbers to create a semi-automated process for generating my two-page week calendars.
 
 My description will be organized according to the parts of the pages:  mini-calendars, the recording spaces for the days, and the date range label at the top of the first page.  I’ll start with some comments on a frameworks that supports all these elements.
 
