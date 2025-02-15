@@ -8,11 +8,13 @@ tags: apple scripts
 
 The Getting Things Done (TM) ecosystem has a rich marketplace of doodads and dawdles that help support their productivity regime.  Last year, I paid them $19 for a [PDF that consisted of 52+ two-sided sheets](https://store.gettingthingsdone.com/product/2025-gtd-calendar/), each a week-at-a-glance in the style of GTD.  Each page has the page's date range displayed at the top left, two mini-month calendars in the top right, one for last month and one for the following month, and then space for you to record what’s going to happen on each of the days, again in GTD style.
 
-![[/assets/images/image-GTDsheettop.png]]
+![image](/assets/images/image-LCfrontwinch.png)
+
+![image](/assets/images/image-GTDsheettop.png)
 
 Last year, I found those pages useful as I tried to find a consistent way of organizing my daily and weekly work.  From time to time, though, I’d look at these two-page, GTD week-at-a-glance sheets and asked myself if I could use my meager coding skills to save \$19.  Could I do it in LaTeX?  Using AppleScript?  In HTML with some CSS and PHP?  Could I do it for less than \$19 of my time?  
 
-| ![/assets/images/image-is_it_worth_the_time.png]([https://xkcd.com/1205/](https://xkcd.com/1205)) |
+| ![https://xkcd.com/1205/](/assets/images/image-is_it_worth_the_time.png)(https://xkcd.com/1205)) |
 | :--------------------------------------------------------------------------------: |
 |                         XKCD Comic 'Is it Worth the Time?'                         |
 
