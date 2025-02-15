@@ -6,7 +6,7 @@ title: Automating the creation of a two-page weekly calendar
 tags: apple scripts
 ---
 
-The Getting Things Done (TM) ecosystem has a rich marketplace of doodads and dawdles that help support their productivity regime.  Last year, I paid them $19 for a [PDF that consisted of 52+ two-sided sheets](https://store.gettingthingsdone.com/product/2025-gtd-calendar/), each a week-at-a-glance in the style of GTD.  Each page has the page's date range displayed at the top left, two mini-month calendars in the top right, one for last month and one for the following month, and then space for you to record what’s going to happen on each of the days, again in GTD style.
+The Getting Things Done (TM) ecosystem has a rich marketplace of doodads and dawdles that help support their productivity regime.  Last year, I paid them \$19 for a [PDF that consisted of 52+ two-sided sheets](https://store.gettingthingsdone.com/product/2025-gtd-calendar/), each a week-at-a-glance in the style of GTD.  Each page has the page's date range displayed at the top left, two mini-month calendars in the top right, one for last month and one for the following month, and then space for you to record what’s going to happen on each of the days, again in GTD style.
 
 ![image](/assets/images/image-GTDsheettop.png)
 
