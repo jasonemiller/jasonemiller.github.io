@@ -12,7 +12,7 @@ The Getting Things Done (TM) ecosystem has a rich marketplace of doodads and daw
 |:--:|
 | A picture of the top of the GTD calendar page.|
 
-Last year, I found those pages useful as I tried to find a consistent way of organizing my daily and weekly work.  From time to time, though, I’d look at these two-page, GTD week-at-a-glance sheets and asked myself if I could use my meager coding skills to save &#36;19.	Could I do it in LaTeX?  Using AppleScript?  In HTML with some CSS and PHP?  Could I do it for less than &#36;19 of my time?
+Last year, I found those pages useful as I tried to find a consistent way of organizing my daily and weekly work.  From time to time, though, I’d look at these two-page, GTD week-at-a-glance sheets and asked myself if I could use my meager coding skills to save $$19.	Could I do it in LaTeX?  Using AppleScript?  In HTML with some CSS and PHP?  Could I do it for less than &#36;19 of my time?
 
 
 | ![https://xkcd.com/1205/](/assets/images/image-is_it_worth_the_time.png)|
