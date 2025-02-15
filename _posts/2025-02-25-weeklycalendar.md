@@ -8,11 +8,11 @@ tags: apple scripts
 
 The Getting Things Done (TM) ecosystem has a rich marketplace of doodads and dawdles that help support their productivity regime.  Last year, I paid them $19 for a [PDF that consisted of 52+ two-sided sheets](https://store.gettingthingsdone.com/product/2025-gtd-calendar/), each a week-at-a-glance in the style of GTD.  Each page has the page's date range displayed at the top left, two mini-month calendars in the top right, one for last month and one for the following month, and then space for you to record what’s going to happen on each of the days, again in GTD style.
 
-![[/assets/images/image-GTDsheettop.png]]
+![image](/assets/images/image-GTDsheettop.png)
 
 Last year, I found those pages useful as I tried to find a consistent way of organizing my daily and weekly work.  From time to time, though, I’d look at these two-page, GTD week-at-a-glance sheets and asked myself if I could use my meager coding skills to save \$19.  Could I do it in LaTeX?  Using AppleScript?  In HTML with some CSS and PHP?  Could I do it for less than \$19 of my time?  
 
-| ![/assets/images/image-is_it_worth_the_time.png]([https://xkcd.com/1205/](https://xkcd.com/1205)) |
+| ![https://xkcd.com/1205/](/assets/images/image-is_it_worth_the_time.png)|
 | :--------------------------------------------------------------------------------: |
 |                         XKCD Comic 'Is it Worth the Time?'                         |
 
@@ -21,6 +21,7 @@ When it came to springing \$19 for a second year of these pages, my thoughts aga
 My description will be organized according to the parts of the pages:  mini-calendars, the recording spaces for the days, and the date range label at the top of the first page.  I’ll start with some comments on a frameworks that supports all these elements.
 
 Note that this write-up goes into some detail about the functions I wrote for this project.  If you're only interested in the spreadsheet itself, you can download it [HERE](/assets/docs/Weekly-calendar-250210v3.numbers).
+
 ## Organization
 
 My spreadsheet is organized into two sheets.  The first is for settings that will determine the contents of the two-page calendars.  The second is for the output the I will print.  The parameter values on the settings sheet determine how the dates on the two-page calendar on the second sheet will appear.
@@ -62,6 +63,7 @@ To find the date of the Monday we want (cell D4), we start from the first week a
 Here the 'Ordinals' table in this formula gives each ordinal (*i.e.*, 'First', 'Second', *etc.*) an ordinal value from 1 to 5.  The ordinals refer to which week of the month we've selected.  
 
 These computations support the work to populate the week-long calendar.
+
 ## Mini-Calendars
 
 Also on the setting sheet, in the `Table for MINI-CALENDAR computations` table, is a region that calculates the start date and end date of the month of interest and for the two months on either side of it.  The computation of the current month's start day (in cell B4) uses the following formula
