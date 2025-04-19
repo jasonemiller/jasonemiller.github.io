@@ -10,9 +10,9 @@ One of the best ways to prepare to take and pass an FCC amateur radio licensing 
 
 To that end, I've created study guides for exam of the three exams.  Here they are:
 
-1. [Tech Exam](../assets/techpool-modified-230303.pdf)
-1. [General Exam](../assets/genpool-modified-240607.pdf)
-1. [Extra Exam](assets/extrapool-formatted.pdf)
+1. [Tech Exam](/assets/docs/techpool-modified-230303.pdf)
+1. [General Exam](/assets/docs/genpool-modified-240607.pdf)
+1. [Extra Exam](/assets/docs/extrapool-formatted.pdf)
 
 In each of these, for each question, I put the correct answer in bold face.  This allows the learner to ignore the distractifiers completely if they want to.
 
