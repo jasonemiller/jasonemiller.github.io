@@ -21,13 +21,12 @@ Meetings for Spring 2025 are at noon on the first and third Thursdays of the mon
 <dd>``How to talk on the radio.'' We'll have an hands-on activity that will show everyone how to use a hand-held amateur radio.  If you have a hand-held of your own, bring it to the meeting.  (Consider bringing its manual, too, if you can put your hands on it.)  If you don't have your own radio, the club can lend you one to use for the activities.  No amateur radio license is required for these activities.  We'll talk about the parts of a hand-held radio, how to change its frequency, setting squelch, how to send a message, and how you should hold the radio when you talk into it.  Then we'll practice what we learned by simulating what is called a radio net (or network) that is moderated by a net controller.  It's gonna be great.</dd>
 
 <dt><b>20 Mar:</b></dt>
-<dd>Topic is to be determined.  If you have ideas or requests, email <a href="mailto:neysi.reyes662@myci.csuci.edu">Neysi</a>, the club president.  (Note:  this is likely a Spring Break day, so we plan to shift the meeting up or back a week.)</dd>
-
-<dt><b>3 April:</b></dt>
-<dd>Topic is to be determined.  If you have ideas or requests, email <a href="mailto:neysi.reyes662@myci.csuci.edu">Neysi</a>, the club president.</dd>
+<dd>``Practice Fox Hunt.''  The club has acquired small battery powered transmitters called 'foxes' that are used in a radio-based game called a 'fox hunt'.  We are going to practice a fox hunt with simple handheld radios in the north quad.  Come join us.
+</dd>
 
 <dt><b>17 April:</b></dt>
-<dd>Topic is to be determined.  If you have ideas or requests, email <a href="mailto:neysi.reyes662@myci.csuci.edu">Neysi</a>, the club president.</dd>
+<dd>``Club Business and Exam Prep.''  We will talk about officers for the Fall semester and the 2025-2026 school year, and we'll talk about a Fox hunt event with the Veteran's Club.  There will also be talk about a club t-shirt.  Time permitting, we'll review some tesst taking strategies for taking an amateur radio licensing exam.  The club is trying to secure May 4th as a date to give the exam on campus.
+</dd>
 
 <dt><b>1 May:</b></dt>
 <dd>Topic is to be determined.  If you have ideas or requests, email <a href="mailto:neysi.reyes662@myci.csuci.edu">Neysi</a>, the club president.</dd>
