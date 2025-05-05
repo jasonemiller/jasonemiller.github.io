@@ -57,12 +57,12 @@ Note that it's OK to use the room to do homework or hangout between classes to l
 
 At present (16 August 2024), we have the following active licensed members:
 
-	Geoff Buhl (KK6NLR, group vice president, 2023-2024), geoffrey.buhl@csuci.edu
+	Geoff Buhl (N6GWB, group vice president, 2023-2024), geoffrey.buhl@csuci.edu
 	Carlos Enriquez (KO6FNP) carlos.enriquez637@myci.csuci.edu
 	Todd Van Epps (KN6SHK), t.vanepps@yahoo.com
 	Matthew Furmanski (KN6LTW), matthew.furmanski@csuci.edu
 	Matthew Gone (KN6QMZ), mattgone242@gmail.com
-	Jason Isaacs (KI6CDJ), jason.isaacs@csuci.edu
+	Jason Isaacs (KN6TYC), jason.isaacs@csuci.edu
 	Alan Jaeger(KJ6VZG), alan.jaeger@csuci.edu
 	Ben Kuo (AI6YR), Benjamin.kuo@csuci.edu
 	Jason Miller (KM6PSZ, group president 2023-2024), jason.miller@csuci.edu
