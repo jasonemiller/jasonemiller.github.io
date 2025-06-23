@@ -58,7 +58,7 @@ Note that it's OK to use the room to do homework or hangout between classes to l
 At present (23 July 2025), we have the following active licensed members:
 
 	Nancy Bran-Umana (Callsign TBD), nancy.bran-umana693@myci.csuci.edu
- 	Geoff Buhl (N6GWB, group vice president, 2023-2024), geoffrey.buhl@csuci.edu
+	Geoff Buhl (N6GWB, group vice president, 2023-2024), geoffrey.buhl@csuci.edu
 	Carlos Enriquez (KO6FNP) carlos.enriquez637@myci.csuci.edu
 	Todd Van Epps (KN6SHK), t.vanepps@yahoo.com
 	Matthew Furmanski (KN6LTW), matthew.furmanski@csuci.edu
