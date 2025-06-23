@@ -55,9 +55,10 @@ Note that it's OK to use the room to do homework or hangout between classes to l
 
 ## Licensed Members
 
-At present (16 August 2024), we have the following active licensed members:
+At present (23 July 2025), we have the following active licensed members:
 
-	Geoff Buhl (N6GWB, group vice president, 2023-2024), geoffrey.buhl@csuci.edu
+	Nancy Bran-Umana (Callsign TBD), nancy.bran-umana693@myci.csuci.edu
+ 	Geoff Buhl (N6GWB, group vice president, 2023-2024), geoffrey.buhl@csuci.edu
 	Carlos Enriquez (KO6FNP) carlos.enriquez637@myci.csuci.edu
 	Todd Van Epps (KN6SHK), t.vanepps@yahoo.com
 	Matthew Furmanski (KN6LTW), matthew.furmanski@csuci.edu
@@ -67,11 +68,12 @@ At present (16 August 2024), we have the following active licensed members:
 	Ben Kuo (AI6YR), Benjamin.kuo@csuci.edu
 	Jason Miller (KM6PSZ, group president 2023-2024), jason.miller@csuci.edu
 	Neysi Reyes (KO6FDD), neysi.reyes6632@myci.csuci.edu
+	Trent Ruiz (Callsign TBD), trent.ruiz@csuci.edu
 	Max Seligman (KM6WMZ), maximilian.seligman@csuci.edu
 	Michael Spencer (KM6EDQ), michael.spencer443@myci.csuci.edu
 	Adam Wilson (K06FCR), adam.wilson001@myci.csuci.edu
 
-Our email distribution list includes fifty-eight (58) other students, staff, and faculty along with some community supporters.
+Our email distribution list includes ninty-eight (98) other students, staff, and faculty along with some community supporters.
 
 We want to support others in their pursuit of a license, so let us know how we can support YOU.
 
