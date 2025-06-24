@@ -68,7 +68,7 @@ At present (23 July 2025), we have the following active licensed members:
 	Ben Kuo (AI6YR), Benjamin.kuo@csuci.edu
 	Jason Miller (KM6PSZ, group president 2023-2024), jason.miller@csuci.edu
 	Neysi Reyes (KO6FDD), neysi.reyes6632@myci.csuci.edu
-	Trent Ruiz (Callsign TBD), trent.ruiz@csuci.edu
+	Trent Ruiz (KO6JVL), trent.ruiz@csuci.edu
 	Max Seligman (KM6WMZ), maximilian.seligman@csuci.edu
 	Michael Spencer (KM6EDQ), michael.spencer443@myci.csuci.edu
 	Adam Wilson (K06FCR), adam.wilson001@myci.csuci.edu
