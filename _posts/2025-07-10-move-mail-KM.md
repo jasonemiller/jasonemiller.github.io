@@ -3,7 +3,7 @@ title: Sorting Email using Keyboard Maestro
 author: Jason
 layout: post
 date: 2025-07-10
-tags: computer, mail, keyboard maestro, productivity
+tags: computer mail keyboard-maestro productivity
 ---
 
 I get lots of email.  It will always be an unorganized mess.  What I want is that mess to be outside my Inbox.  It would help me to have a semi-automated way to move messages around to minimize the mess.
@@ -36,7 +36,25 @@ In the pull-down list below the triggers, choose `Or by script`.  Then click on 
 There are two pull-down selections here:  select `Execute Text Script` and `Display results in a notification`.  Now copy the Applescript.
 
 ```applescript
-try	tell application "Mail"		set msgs to selection		if length of msgs is not 0 then			repeat with msg in msgs				try					move msg to mailbox "Archive" in mailbox "Archive1" of account "Exchange"				on error errmsg					return errmsg				end try			end repeat			return "Moved" & length of msgs & " messages to Archive subfolder of Archive1 folder in Exchange account."		else			return "Please select a message or messages."		end if	end tellon error errmsg	return errmsgend try
+try
+	tell application "Mail"
+		set msgs to selection
+		if length of msgs is not 0 then
+			repeat with msg in msgs
+				try
+					move msg to mailbox "Archive" in mailbox "Archive1" of account "Exchange"
+				on error errmsg
+					return errmsg
+				end try
+			end repeat
+			return "Moved" & length of msgs & " messages to Archive subfolder of Archive1 folder in Exchange account."
+		else
+			return "Please select a message or messages."
+		end if
+	end tell
+on error errmsg
+	return errmsg
+end try
 ```
 That's it.  For each type of move, make a different macro action, revising the line `move msg to mailbox "Archive" in mailbox "Archive1" of account "Exchange"` to reflect the mailbox destination of choice.
 
