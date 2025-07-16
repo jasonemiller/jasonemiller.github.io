@@ -40,8 +40,6 @@ On the boat ride home, I beaconed again and set my radiot to beacon every five m
 
 [![APRS tracks of my travels](/assets/images/srirs-amateur-radio-250714-aprsmap-thumbnail.jpg)](/assets/images/srirs-amateur-radio-250714-aprsmap.jpg)
 
-![APRS tracks of my travels](srirs-amateur-radio50-7214aprsmap.png)
-
 I've copied all the APRS packet routes from the aprs.fi record of my route to and from the island and added thenm to an appendix of this post, below.
 
 ## Making VHF contacts
