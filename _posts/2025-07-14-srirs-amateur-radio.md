@@ -80,7 +80,7 @@ The next time we can get people to the island, we will test the following:
 
 
 
-<a name="appendix">### Appendix:  APRS Paths</a>
+### Appendix:  APRS Paths<a name="appendix"></a>
 
 Here are the APRS paths on the route from the harbor to the island.
 
