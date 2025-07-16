@@ -1,6 +1,7 @@
 ---
 title: Report on testing APRS and emergency comunication options on Santa Rosa Island
 author: jason
+layout: post
 date: 2025-07-14
 tags: amateur-radio, santa-rosa-island, undergraduate-research
 ---
