@@ -1,5 +1,5 @@
 ---
-title: TITLE
+title: Generative AI in Mathematics?  Some thoughts.
 author: Jason
 layout: post
 date: 2025-08-15
@@ -8,13 +8,13 @@ tags: teaching, AI
 
 In early 2025, the California State University system officiall [dove into the deep end of that AI pool](https://www.calstate.edu/csu-system/news/Pages/CSU-AI-Powered-Initiative.aspx) by declaring itself the country's first and largest `AI-empowered higher education system`.  This system-wide adoption surprised most of us in the system, and it took me a while to start to understand its implications.  To try to understand how this will effect me as an educator, I enrolled in a summer faculty development course aimed at helping faculty incorporate AI into their teaching.  This post shares a couple things I learned.
 
-##Tedious and Repetitive
+## Tedious and Repetitive
 
 First, I learned that our leaders in the campus Learning Resource Center (where our tutors are trained and supported) are trying to drink the AI coolaid, but they are informed enough to see the challenges teachers will have to grapple with.  Throughout the summer experience, the facilitator acknowledged the limitations of generative AI and encouraged us to explore AI tools to find those limitations ourselves.  The AI industry wants us to believe that AI is evolving quickly, leaving past problems behind.  We need to test those claims ourselves by using the tools and seeing AI capabilities with our own eyes.
 
 I've fiddled with AI in the past in a few ways.  I've used it to summarize large documents, suggest titles for an initiative, draft logos, and explain mathematical concepts.  Generative AI does better with some things (summarizing and brainstorming) than others (mathematics).  If educators are looking for a way to automate tedious repetitive tasks, AI might provide a solution.  Unfortunately, faculty members don't have many tasks like that.  Most require individual, creative attention at some level.  Instruction is like that.
 
-##Beware Mathematics
+## Beware Mathematics
 
 Generative AI hasn't been very good at mathematics.  It's getting better at solving mathematical problems and showing the steps in the solution.  This makes generative AI a great tool for students to get technology to do their thinking for them, unfortunately.  Educators need to find ways to teach that either embrace this reality or protect against it.
 
@@ -32,7 +32,7 @@ This suggests to me that the value in ChatGPT generating examples for students m
 
 I tried the same requests with another generative AI agent, [Claude](http://calude.ai) and had better mathematical results.  It didn't typeset the mathematics as nicely (which might confuse students), but it didn't make the same dumb graphing mistakes as ChatGPT.  I need to play with Claude a little more to see if it's better at generating examples for my Calculus students.
 
-##Images
+## Images
 
 Generative AI likes to boast that it can generate images as well as text.  As part of an assignment in my summer course, I asked ChatGPT to generate a social media post (for LinkedIn) that talked about the summer course and how I hoped to integrate AI into my Calculus courses this Fall.  ChatGPT easily produced a 150 uninspiring words.  I then asked ChatGPT to generate an image to go along with the post.
 
@@ -48,7 +48,7 @@ I initially liked this one more.  It had a stronger 'mathematical' appearance.  
 
 This generative limitation of ChatGPT is interesting, and it's good news for creative types!
 
-##Prompts
+## Prompts
 
 A person interacts with generative AI through written prompts.  How you write a prompt influences what the AI tool generates for you.  In my summer course, we spent a bunch of time thinking about this and practicing prompt writing.
 
@@ -58,7 +58,7 @@ Since a prompt to a genrative AI agent is essentially the expression of a questi
 
 Watch this space for any updates on how this works out for me.
 
-##Conclusion
+## Conclusion
 
 Generative AI has arrive, is available to students, and we educators need to figure out how to adapt.  We adapted how we taught mathematics when affordable graphing calculators hit the market in the early 1990s.  While some instructors 'adapted' by prohibilting their use, other instructors saw the new technology as making some old skills irrelevant (e.g., numerical computation) and creating new opportunities for understanding mathematics possible.  For example, graphing calculators made generating plots of function fast and easy because computing and drawing were two things that computers did faster than a human.  Mathematics educators are still wrestling with the impact of pervasive computing on learning, and generative AI is just a new facet of this old reality.  We'll figure out how to adapt and teach students what they need to know to be mathematically literate in the 21st century.
 
