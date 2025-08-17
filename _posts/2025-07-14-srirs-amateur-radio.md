@@ -3,7 +3,7 @@ title: Report on testing APRS and emergency comunication options on Santa Rosa I
 author: jason
 layout: post
 date: 2025-07-14
-tags: amateur-radio, santa-rosa-island, undergraduate-research
+tags: amateur-radio santa-rosa-island undergraduate-research
 ---
 
 This post is an update on some amateur radio work I did at the Santa Rosa Island Research Station in July 2025.  I'll talk about my attempts to reach the mainland on VHF and my use of APRS.
