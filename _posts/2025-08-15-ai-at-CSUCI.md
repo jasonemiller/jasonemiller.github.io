@@ -3,7 +3,7 @@ title: Generative AI in Mathematics?  Some thoughts.
 author: Jason
 layout: post
 date: 2025-08-15
-tags: teaching, AI
+tags: teaching AI
 ---
 
 In early 2025, the California State University system officiall [dove into the deep end of that AI pool](https://www.calstate.edu/csu-system/news/Pages/CSU-AI-Powered-Initiative.aspx) by declaring itself the country's first and largest "AI-empowered higher education system."  This system-wide adoption surprised most of us in the system, and it took me a while to start to understand its implications.  To try to understand how this will effect me as an educator, I enrolled in a summer faculty development course aimed at helping faculty incorporate AI into their teaching.  This post shares a couple things I learned.
