@@ -12,7 +12,7 @@ As usual, it was a great show.  We had a delightful location (in the shade, wher
 
 At the event, I took names and contact information for people who had questions or wanted information about amateur radio.  I'm posting the text of that email here so others can see it and share it around if they meet someone with questions.
 
-<<quote>>br>
+<hr>
 
 Dear PERSON,
 
@@ -24,24 +24,24 @@ The email starts with information about how to get an amateur radio license.  Th
 
 Becoming a ham or an amateur radio operator requires passing a Federal Communication Commission (FCC) exam.  There are three license levels (from entry level to highest):  Technician, General, Amateur Extra.  Each gives you increasing access to and responsibility for radio operations.
 
-Everyone has an opinion on how to prepare for taking and passing a licensing exam.  Through experience, we at the University have arrived at the following advice:  Use http://hamstudy.org or the HamStudy app to study the questions in the exam's question pool.  Then use the site or app to take practice exams.  Once you can consistently score 80% or better on practice exams, you are ready to take the licensing exam.
+Everyone has an opinion on how to prepare for taking and passing a licensing exam.  Through experience, we at the University have arrived at the following advice:  Use [http://hamstudy.org](http://hamstudy.org) or the HamStudy app to study the questions in the exam's question pool.  Then use the site or app to take practice exams.  Once you can consistently score 80% or better on practice exams, you are ready to take the licensing exam.
 
-Many amateur radio clubs offer in-person exam sessions (called VE sessions).  In the last few years, the ham community has learned how to offer licensing exams online, too.  Use the 'Find a Session' link on http://hamstudy.org to find a session that works for you.  Note that some groups (e.g., groups associated with GLAARG, the Greater Los Angeles Amateur Radio Group) waive the test taking fee for first-time test takers who are students or veterans.
+Many amateur radio clubs offer in-person exam sessions (called VE sessions).  In the last few years, the ham community has learned how to offer licensing exams online, too.  Use the 'Find a Session' link on [http://hamstudy.org](http://hamstudy.org) to find a session that works for you.  Note that some groups (*e.g.*, groups associated with GLAARG, the Greater Los Angeles Amateur Radio Group) waive the test taking fee for first-time test takers who are students or veterans.
 
-Expect a testing fee of about $10-15.  When you pass the test, the FCC will require a $35 processing fee (payable online) to assign you an amateur radio call sign and add you to the searchable database of license holders.
+Expect a testing fee of about &#36;10-15.  When you pass the test, the FCC will require a &#36;35 processing fee (payable online) to assign you an amateur radio call sign and add you to the searchable database of license holders.
 
 Many people enjoy taking a face-to-face course to prepare for the exam.  Taking a course allows you to ask instructors questions that the online study tools cannot.  In Ventura County, the Conejo Valley Amateur Radio Club is known for the free classes it regularly offers (see below).  
 
-For those who live or work in the North LA area, Norm Godkin regularly offers a one-day class for the Technician's exam in Van Nuys.  The class begins at 4pm, and they give an exam at 9pm.  According to the web site (below), the class fee is $50 on top of the testing fee of $10 and FCC fee of $35.  This class works best if you spend some effort to study ahead of time.
+For those who live or work in the North LA area, Norm Godkin regularly offers a one-day class for the Technician's exam in Van Nuys.  The class begins at 4pm, and they give an exam at 9pm.  According to the web site (below), the class fee is &#36;50 on top of the testing fee of &#36;10 and FCC fee of &#36;35.  This class works best if you spend some effort to study ahead of time.
 
-Norm Godkin's class:  https://www.qualitymatrix.com/hamclass/
+Norm Godkin's class:  [https://www.qualitymatrix.com/hamclass/](https://www.qualitymatrix.com/hamclass/)
 
 ## CVARC Licensing Courses (free)
 
 Conejo Valley Amateur Radio Club (CVARC) is offering free classes for amateur radio licensing in two different session:
 
-Session 1: September 6, 13, 20, 27, and October 4, and
-Session 2: November 1, 8, 15, 22, and 29. 
+**Session 1:** September 6, 13, 20, 27, and October 4, and <br>
+**Session 2:** November 1, 8, 15, 22, and 29. 
 
 The first session will include a class for the Technician and another for the General exam.  The second session will include a class for the Technician and another for the Amateur Extra exam.   
 
@@ -50,11 +50,12 @@ All classes are Saturday mornings from 8:00 am to noon, at the East County Sheri
 Each course will use the associated ARRL licensing textbook.  They are available directly from the ARRL and from online and brik-and-mortar booksellers.  Because the licensing exams change every few years, it is important that you get the correct edition of the textbook, so beware. 
 
 Here are Amazon links for the ARRL licensing textbooks:
-	Technicians:  https://a.co/d/39mYSMZ
-	General:  https://a.co/d/1mk0xGK
-	Amateur Extra:  https://a.co/d/3glisPN
 
-To reserve a free seat in any of these classes, email Keith Elliott (W6KME) at keith@w6kme.org.
+1. Technicians:  [https://a.co/d/39mYSMZ](https://a.co/d/39mYSMZ)
+2. General:  [https://a.co/d/1mk0xGK](https://a.co/d/1mk0xGK)
+3. Amateur Extra:  [https://a.co/d/3glisPN](https://a.co/d/3glisPN)
+
+To reserve a free seat in any of these classes, email Keith Elliott (W6KME) at [keith@w6kme.org](mailto:keith@w6kme.org$subject=Requesting a seat in CVARC's free licensing class).
 
 ## Events
 
@@ -120,6 +121,9 @@ If you ever have any other questions, don’t hesitate to reach out to me.  I’
 
 Jason
 
+<hr>
+
+Much of this information what on display through printed material at the booth.  Unfortunately, we didn't have anything announcing the micro Expo.  And we could have used more engagement activities.  But there's always next year!
 
 <!--
 SYNTAX FOR IMAGES
