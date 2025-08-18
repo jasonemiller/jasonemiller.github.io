@@ -12,7 +12,7 @@ As usual, it was a great show.  We had a delightful location (in the shade, wher
 
 At the event, I took names and contact information for people who had questions or wanted information about amateur radio.  I'm posting the text of that email here so others can see it and share it around if they meet someone with questions.
 
-<quote>
+<<quote>>br>
 
 Dear PERSON,
 
@@ -120,7 +120,6 @@ If you ever have any other questions, don’t hesitate to reach out to me.  I’
 
 Jason
 
-</quote>
 
 <!--
 SYNTAX FOR IMAGES
