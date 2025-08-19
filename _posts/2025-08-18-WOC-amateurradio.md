@@ -28,7 +28,7 @@ Everyone has an opinion on how to prepare for taking and passing a licensing exa
 
 Many amateur radio clubs offer in-person exam sessions (called VE sessions).  In the last few years, the ham community has learned how to offer licensing exams online, too.  Use the 'Find a Session' link on [http://hamstudy.org](http://hamstudy.org) to find a session that works for you.  Note that some groups (*e.g.*, groups associated with GLAARG, the Greater Los Angeles Amateur Radio Group) waive the test taking fee for first-time test takers who are students or veterans.
 
-Expect a testing fee of about 10-15.  When you pass the test, the FCC will require a 35 processing fee (payable online) to assign you an amateur radio call sign and add you to the searchable database of license holders.
+Expect a testing fee of about \$10-15.  When you pass the test, the FCC will require a 35 processing fee (payable online) to assign you an amateur radio call sign and add you to the searchable database of license holders.
 
 Many people enjoy taking a face-to-face course to prepare for the exam.  Taking a course allows you to ask instructors questions that the online study tools cannot.  In Ventura County, the Conejo Valley Amateur Radio Club is known for the free classes it regularly offers (see below).  
 
