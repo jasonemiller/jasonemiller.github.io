@@ -32,7 +32,7 @@ Expect a testing fee of about \\$10-15.  When you pass the test, the FCC will re
 
 Many people enjoy taking a face-to-face course to prepare for the exam.  Taking a course allows you to ask instructors questions that the online study tools cannot.  In Ventura County, the Conejo Valley Amateur Radio Club is known for the free classes it regularly offers (see below).  
 
-For those who live or work in the North LA area, Norm Godkin regularly offers a one-day class for the Technician's exam in Van Nuys.  The class begins at 4pm, and they give an exam at 9pm.  According to the web site (below), the class fee is 50 on top of the testing fee of 10 and FCC fee of 35.  This class works best if you spend some effort to study ahead of time.
+For those who live or work in the North LA area, Norm Godkin regularly offers a one-day class for the Technician's exam in Van Nuys.  The class begins at 4pm, and they give an exam at 9pm.  According to the web site (below), the class fee is \\$50 on top of the testing fee of \\$10 and FCC fee of \\$35.  This class works best if you spend some effort to study ahead of time.
 
 Norm Godkin's class:  [https://www.qualitymatrix.com/hamclass/](https://www.qualitymatrix.com/hamclass/)
 
