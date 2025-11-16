@@ -6,6 +6,13 @@ title: Research
 
 This page describes some of my past and current research interests.  Much of my work after my Ph.D. arose from interdisciplinary collaborations with life scientists and in service of undergraduates seeking high quality, faculty mentored research experiences.
 
+## Student Research ##
+
+For more information about my amateur radio project for Spring 2026, [\[click here\]](./research/research-M490S25.html).
+
+For more information about my bioacoustics project for Spring 2026, \[click here\].
+
+
 ## Current Research ##
 
 Research topics currently of interest to me are:
