@@ -53,7 +53,7 @@ To realize the goals and outcomes listed about, students will engage in the foll
 * practice fox hunting with radio, with directional antenna
 * build and test accelerometer for rocket, balloon, UAV payload
 * practice finding small rocket with radio transmitter (non-GPS)
-* practice finding small rocket with APRS transmitter (GPS) using directional antenna and using GPS app (e.g., aprs.fi)
+* practice finding small rocket with APRS transmitter (GPS) using directional antenna and using GPS app (e.g., [aprs.fi](http://www.aprs.fi))
 * practice actively tracking rocket/balloon/UAV with directional antenna(s) affixed with accelerometer to determine direction of antenna (with multiple antennas, can triangulate location of rocket, incl altitude - good practice working with data); compare with data from accelerometer on rocket
 * build radio transmitter for rocket
 * build APRS transmitter (with GPS) for rocket
@@ -65,6 +65,8 @@ To realize the goals and outcomes listed about, students will engage in the foll
 In addition, all students will participate in weekly team meetings where project participants will update one another, share successes and challenges, and share objectives for the coming week.  Occasionally, students will share with others written drafts of written reports on their project; feedback they receive will improve their final research report.
 
 ## Gear ##
+
+Below is a speculative list of gear for the project that we will try to acquire before the start of the semester.
 
 * impulse heat sealer (for sealing the balloon after filling and before launch)
 * Yokahama (clear) balloons ($250 for 10)
