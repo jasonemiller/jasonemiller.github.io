@@ -8,9 +8,9 @@ This page describes some of my past and current research interests.  Much of my
 
 ## Student Research ##
 
-For more information about my amateur radio project for Spring 2026, [\[click here\]](./research/research-M490S25.html).
+For more information about my amateur radio project for Spring 2026, [\[click here\]](./research/research-M490S25-radio.html).
 
-For more information about my bioacoustics project for Spring 2026, \[click here\].
+For more information about my bioacoustics project for Spring 2026, [\[click here\]](./research/research-M490S25-bioacoustics.html).
 
 
 ## Current Research ##
