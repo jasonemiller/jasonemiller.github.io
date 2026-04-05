@@ -25,7 +25,7 @@ The best resource for studying is [hamstudy.org](http://www.hamstudy.org) whic
 5. Every week take at least one practice test.
 6. Once you can consistently get 80% on the practice tests, you are ready to take the Technician licensing exam.
 
-** How to find an exam session**
+**How to find an exam session**
 
 There are two main ways to find an exam session.  The ARRL's web site has a "[Find an Exam Site](https://www.arrl.org/find-an-amateur-radio-license-exam-session)" link that helps you find an exam session near your area.  The "[Find a Session](https://hamstudy.org/sessions)" link on the HamStudy.org site is another way to find a local exam session.  Both pages should tell you about in-person and online options for taking the exam.
 
