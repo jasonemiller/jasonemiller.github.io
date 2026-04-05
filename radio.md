@@ -59,18 +59,23 @@ At present (23 July 2025), we have the following active licensed members:
 
 	Nancy Bran-Umana (KO6JVO), nancy.bran-umana693@myci.csuci.edu
 	Geoff Buhl (N6GWB, group vice president, 2023-2024), geoffrey.buhl@csuci.edu
+	Isaac Cisneros (KO6MZT), isaac.cisneros896@myci.csuci.edu
 	Carlos Enriquez (KO6FNP) carlos.enriquez637@myci.csuci.edu
 	Todd Van Epps (KN6SHK), t.vanepps@yahoo.com
+	Orlando FLores (KO6MRZ), orlando.flores403@myci.csuci.edu
 	Matthew Furmanski (KN6LTW), matthew.furmanski@csuci.edu
 	Matthew Gone (KN6QMZ), mattgone242@gmail.com
 	Jason Isaacs (KN6TYC), jason.isaacs@csuci.edu
 	Alan Jaeger(KJ6VZG), alan.jaeger@csuci.edu
 	Ben Kuo (AI6YR), Benjamin.kuo@csuci.edu
 	Jason Miller (KM6PSZ, group president 2023-2024), jason.miller@csuci.edu
+	Nick Parks (KO6MVV), nicholas.parks834@myci.csuci.edu
 	Neysi Reyes (KO6FDD), neysi.reyes6632@myci.csuci.edu
+	Gael Rivera (KO6MVU), gael.rivera459@myci.csuci.edu
 	Trent Ruiz (KO6JVL), trent.ruiz@csuci.edu
 	Max Seligman (KM6WMZ), maximilian.seligman@csuci.edu
 	Michael Spencer (KM6EDQ), michael.spencer443@myci.csuci.edu
+	Reggie Vasquez (KO6MVH), reggie.vasquez896@myci.csuci.edu
 	Adam Wilson (K06FCR), adam.wilson001@myci.csuci.edu
 
 Our email distribution list includes ninty-eight (98) other students, staff, and faculty along with some community supporters.
