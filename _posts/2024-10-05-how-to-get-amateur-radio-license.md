@@ -35,7 +35,7 @@ Note that some organizations (e.g., GLAARG) will waive the exam fee for students
 
 Yes it is!  But it takes consistent practice to prepare.  Forming the study habit is harder than mastering the material.  Often times it's helpful to have someone help you to be accountable.  Jason and I (emails below) are happy to help with this.  Just write us an email that you are starting to study, and we will send you weekly email (or even more frequent emails if you'd like) asking you to report on your studies to help you form the study habit and have an external sense of accountability.
 
-See [this post](https://www.jasonemiller.org/2025/05/05/share-hamstudy-progress.html) that describes how you can configure the HamStudy app to share your progress with others who can encoruage you or challenge you.  It's a great way to help stay motivated and to help motivate your friends.
+See [this post](https://www.jasonemiller.org/2025/05/05/share-hamstudy-progress.html) that describes how you can configure the HamStudy app to share your progress with others who can encourage you or challenge you.  It's a great way to help stay motivated and to help motivate your friends.
 
 Please reach out to Jason Miller (jason.miller@csuci.edu) or Geoffrey Buhl (geoffrey.buhl@csuci.edu) for more information on how to find an online Technician test, especially one that is free to current students. (Hint: it's the "Find a Session" button on the Ham Study website.
 
