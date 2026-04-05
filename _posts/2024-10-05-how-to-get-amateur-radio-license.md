@@ -20,18 +20,22 @@ The best resource for studying is [hamstudy.org](http://www.hamstudy.org) whic
 
 1. Buy and download the ham study app ($4)  
 2. Register an account on the app
-3. Get an FRN number from the FCC web site.
+3. Get an FRN number from the FCC web site.  (Go to the [FCC CORES site](https://apps.fcc.gov/cores/) and click on 'REGISTER' under "Need a Username?" to start that process.)
 4. Spend 10-15 minutes a day practicing Technician question
 5. Every week take at least one practice test.
-6. Once you can consistently meet the 74% standard, take the Technician licensing exam (which requires having an FRN number).
+6. Once you can consistently get 80% on the practice tests, you are ready to take the Technician licensing exam.
 
-The ARRL's web site has a "[Find and Exam Site](https://www.arrl.org/find-an-amateur-radio-license-exam-session)" link that helps you find an exam session near your area.  The "[Find a Session](https://hamstudy.org/sessions)" link on the HamStudy.org site is another way to find a local exam session.  Both pages should tell you about in-person and online options for taking the exam.
+** How to find an exam session**
 
-Note that some organizations will waive the exam fee for students, veterans, and individuals who are upgrading to the Amateur Extra license.  
+There are two main ways to find an exam session.  The ARRL's web site has a "[Find an Exam Site](https://www.arrl.org/find-an-amateur-radio-license-exam-session)" link that helps you find an exam session near your area.  The "[Find a Session](https://hamstudy.org/sessions)" link on the HamStudy.org site is another way to find a local exam session.  Both pages should tell you about in-person and online options for taking the exam.
+
+Note that some organizations (e.g., GLAARG) will waive the exam fee for students, veterans, and individuals who are upgrading to the Amateur Extra license.  
 
 **Is it really that easy?**
 
-Yes it is!  But it takes consistent practice.  Forming the study habit is harder than mastering the material.  Often times it's helpful to have someone help you to be accountable.  Jason and I (emails below) are happy to help with this.  Just write us an email that you are starting to study, and we will send you weekly email (or even more frequent emails if you'd like) asking you to report on your studies to help you form the study habit and have an external sense of accountability.
+Yes it is!  But it takes consistent practice to prepare.  Forming the study habit is harder than mastering the material.  Often times it's helpful to have someone help you to be accountable.  Jason and I (emails below) are happy to help with this.  Just write us an email that you are starting to study, and we will send you weekly email (or even more frequent emails if you'd like) asking you to report on your studies to help you form the study habit and have an external sense of accountability.
+
+See [this post](https://www.jasonemiller.org/2025/05/05/share-hamstudy-progress.html) that describes how you can configure the HamStudy app to share your progress with others who can encoruage you or challenge you.  It's a great way to help stay motivated and to help motivate your friends.
 
 Please reach out to Jason Miller (jason.miller@csuci.edu) or Geoffrey Buhl (geoffrey.buhl@csuci.edu) for more information on how to find an online Technician test, especially one that is free to current students. (Hint: it's the "Find a Session" button on the Ham Study website.
 
