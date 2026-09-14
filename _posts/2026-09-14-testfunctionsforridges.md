@@ -3,7 +3,7 @@ title: Three important examples of height-ridge behavior
 author: jason
 layout: post
 date: 2026-09-14
-tags: mathematics, undergraduate-research,ridges
+tags: mathematics, undergraduate-research, ridges, relative-critical-set
 ---
 
 Let $f(x)$ be a smooth real-valued function of $n$ real variables.  For what follows, $n=2$ and our variables are $y$ and $z$.  We will also use a parameter $u$.
