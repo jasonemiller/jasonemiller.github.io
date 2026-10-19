@@ -14,6 +14,13 @@ In Spring 2026, I am offering a section of Independent Research (MATH 494) to gi
 
 In summer 2025, I worked with some amateur radio students on building LoRa radio transeivers to transmit and receive sensor data.  This 2026 project builds on that experience by changing the focus from building transcievers to deploying 
 
+
+## Student Research ##
+
+For more information about my amateur radio project for Spring 2026, [\[click here\]](./research/research-M490S25-radio.html).
+
+For more information about my bioacoustics project for Spring 2026, [\[click here\]](./research/research-M490S25-bioacoustics.html).
+
 ## Current Research ##
 
 Research topics currently of interest to me are:
