@@ -6,6 +6,14 @@ title: Research
 
 This page describes some of my past and current research interests.  Much of my work after my Ph.D. arose from interdisciplinary collaborations with life scientists and in service of undergraduates seeking high quality, faculty mentored research experiences.
 
+## Independent Research course (Spring 2026)
+
+In Spring 2026, I am offering a section of Independent Research (MATH 494) to give students a chance ot work on a couple projects with me.  Here I describe the projects I have in mind.
+
+### Collecting Remote Sensor Data
+
+In summer 2025, I worked with some amateur radio students on building LoRa radio transeivers to transmit and receive sensor data.  This 2026 project builds on that experience by changing the focus from building transcievers to deploying 
+
 ## Current Research ##
 
 Research topics currently of interest to me are:

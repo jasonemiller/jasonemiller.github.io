@@ -4,9 +4,41 @@ title: Teaching
 permalink: /teaching/
 ---
 
-This page is for information about my teaching since 1998.
+This page is for information about the work I have done (and am doing) teaching.
+
+
+
 
 ## Mathematics at CSU Channel Islands
+
+|Fall 2025 | Spring 2026|
+
+|-----|-----|
+| Calculus I (MATH 150) |Calculus II (MATH 151)|
+| Calculus II (MATH 151) | Linear Algebra (MATH 240)|
+| Real Analysis (MATH 351) | Real Analysis (MATH 351)|
+| | Independent Research (MATH 494)|
+|-----|-----|
+
+
+|Fall 2024 | Spring 2025|
+
+On sabbatical for the year.
+
+|Fall 2023 | Spring 2024|
+|-----|-----|
+| Calculus I (MATH 150) |Calculus I (MATH 150)|
+| Modern Tools in Math (MATH 399) | |
+| Internship (MATH 492) | |
+|-----|-----|
+
+
+|Fall 2022 | Spring 2023|
+|-----|-----|
+| Calculus I (MATH 150) |Calculus I (MATH 150)|
+|  | Independent Research (MATH 494)|
+|-----|-----|
+
 
 |Fall 2021 | Spring 2022|
 |-----|-----|

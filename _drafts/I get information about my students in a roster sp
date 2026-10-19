@@ -1,0 +1,9 @@
+I get information about my students in a roster spreadsheet, and the full name of each student appears in a single column as "LName, Fname OtherNames".  Eveery semester, I want to tease this apart into a column for the Fname and a column for the Lname.  For example, I would want to use "Miller, Jason Earl" to put "Jason" in a Fname column and "Miller" in a Lname column.  (I'd ignore the middle name.)  There are spreadsheet commands for to do this, and each semester I need to recreate those from scratch.  This ends now.
+
+I'm writing this down for future reference, so I don't need to puzzle through the same syntax every semester.
+
+To get "Jason" from the A1 cell that contains "Miller, Jason Earl" I use the command LEFT(A1,FIND(",",A1)−1).
+
+To get "Miller" from the A1 cell that contains "Miller, Jason Earl" I use the command MID(B2,FIND(",",B2)+1,IFERROR(FIND(" ",RIGHT(B2,LEN(B2)−FIND(",",B2))),LEN(B2))).  Note that this command adapts to whether or not the Registrar puts a middle name in the A cell or not.  By using the IFERROR() command, I can use the location of a 'space' in my calculation if there is a space to the right of the comma; if there is no space and the FIND() command pukes, IFERROR() substitutes the output of the LEN() command.
+
+I'm sure I've done this different ways in past semesters.  This is the solution that comes to me today.  My future self thanks me.
