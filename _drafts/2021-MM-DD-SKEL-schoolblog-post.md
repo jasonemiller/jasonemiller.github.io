@@ -1,12 +1,12 @@
 ---
-title: TITLE
+title: Landing site preparations
 author: Jason
 layout: post
-date: 2021-MM-DD
-tags: tag
+date: 2026-10-19
+tags: amateur-radio
 ---
 
-BODY
+[![ALT-TEXT](/assets/images/filename-thumbnail.jpg)](/assets/images/filename.jpg)
 
 <!--
 SYNTAX FOR IMAGES
