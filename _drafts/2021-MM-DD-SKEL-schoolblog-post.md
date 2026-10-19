@@ -13,6 +13,10 @@ SYNTAX FOR IMAGES
 * use services to create JPG and to create thumbnail that is 720px wide
 
 [![ALT-TEXT](/assets/images/filename-thumbnail.jpg)](/assets/images/filename.jpg)
+
+LIQUID APPROACH
+<!-- Recommended Liquid Filter Approach -->
+![Alt]({{ '/assets/img/photo.jpg' | relative_url }})
 -->
 
 <!--
