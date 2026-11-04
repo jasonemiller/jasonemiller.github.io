@@ -32,3 +32,5 @@ If the iPad screen is appearing cropped or otherwise the wrong size try this:
 * Option-clicking on the bounding box lines or anchors in the OBS window allow you to adjust how OBS crops the image from the iPad.
 
 Then I like to do a quick test recording (just a few seconds) to see how the output will appear.  By default in macOS, the output is saved in your home folder's `Movies` subfolder.
+
+After I create screencasts in this way, I publish them to my YouTube channel as a public video that is not made for children under 18.  (This allows commenting, though nobody ever comments.)  If I need to edit my video before posting, I do that work in Apple's iMovie app.
