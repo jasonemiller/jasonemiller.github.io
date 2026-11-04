@@ -5,7 +5,6 @@ layout: post
 date: 2026-11-4
 tags: teaching
 ---
-# Note on making a screencast for teaching
 
 Each semester, I need to make a video for student asynchronous viewing.  This is a note about how I do this now.
 
