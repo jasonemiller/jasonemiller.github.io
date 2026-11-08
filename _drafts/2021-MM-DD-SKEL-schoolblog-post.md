@@ -1,9 +1,10 @@
 ---
-title: Landing site preparations
+title: Modifying tagging and posting in Jekyll
 author: Jason
 layout: post
-date: 2026-10-19
-tags: amateur-radio
+blogs: work
+date: 2026-11-08
+tags: jekyll
 ---
 
 [![ALT-TEXT](/assets/images/filename-thumbnail.jpg)](/assets/images/filename.jpg)
