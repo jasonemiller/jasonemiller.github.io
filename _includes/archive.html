@@ -45,3 +45,19 @@
       </li>
     {% endfor %}
     </ul>
+
+<h2>Diagnostic: Tag 1</h2>
+
+{% for tag in site.tags %}
+  {% assign tagname = tag[0] | append: "" %}
+  {% if tagname == "1" %}
+    <p>Found tag: {{ tag[0] }}</p>
+    <ul>
+      {% for post in tag[1] %}
+        <li>
+          {{ post.title }} — {{ post.path }}
+        </li>
+      {% endfor %}
+    </ul>
+  {% endif %}
+{% endfor %}
