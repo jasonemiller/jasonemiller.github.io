@@ -23,6 +23,8 @@ Here's the code I ended up using for each.
 
 
 Here is `tagpage.html`:
+
+{% raw %}
 ```liquid
 ---
 layout: default
@@ -40,12 +42,15 @@ layout: default
 <hr>
 {% include archive.html %}
 ```
+{% endraw %}
 
 For each tag, this generates the list of posts that have that tag along with the date of the post.  Each item in the list is hyperlinked to the original post.  UHere's an example of what's produced.
 
 [![Screenshot of teaching tag web page.](/assets/images/screenshot-261108-tags01-thumbnail.png)](/assets/images/screenshot-261108-tags01.png)
 
 Here is `archive.html`:
+
+{% raw %}
 ```liquid
 <h2>Archive</h2>
 
@@ -73,6 +78,7 @@ Here is `archive.html`:
   {% endif %}
 {% endfor %}
 ```
+{% endraw %}
 
 This produces a list of all the tags on the site with each tag hyperlinked to a page like the one generated using the `tagpage.html` template, above.  THis gives visitors a very nice was to explore all the posts.  And it gives me a way of finding a post I'm searching for.
 
