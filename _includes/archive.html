@@ -32,3 +32,16 @@
   </ul>
 
 {% endfor %}
+
+<h2>Posts tagged "1"</h2>
+    
+    <ul>
+    {% for post in site.tags["1"] %}
+      <li>
+        <a href="{{ post.url | relative_url }}">
+          {{ post.title }}
+        </a>
+        -- {{ post.path }}
+      </li>
+    {% endfor %}
+    </ul>
