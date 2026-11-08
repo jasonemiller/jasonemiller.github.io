@@ -1,54 +1,94 @@
+
 #!/usr/bin/env python3
 
-'''
-tag_generator.py
+"""
+Generate Jekyll tag pages from post YAML front matter.
+Requires: pip install pyyaml
+"""
 
-Copyright 2017 Long Qian
-Contact: lqian8@jhu.edu
+from pathlib import Path
+from collections import defaultdict
+import yaml
 
-This script creates tags for your Jekyll blog hosted by Github page.
-No plugins required.
-'''
+POST_DIR = Path("_posts")
+TAG_DIR = Path("tag")
 
-import glob
-import os
+tags_to_posts = defaultdict(list)
 
-post_dir = '_posts/'
-tag_dir = 'tag/'
+# Read post front matter
+for post in sorted(POST_DIR.glob("*.md")):
+    content = post.read_text(encoding="utf-8-sig")
+    lines = content.splitlines()
 
-filenames = glob.glob(post_dir + '*md')
+    if not lines or lines[0].strip() != "---":
+        continue
 
-total_tags = []
-for filename in filenames:
-    f = open(filename, 'r', encoding='utf8')
-    crawl = False
-    for line in f:
-        if crawl:
-            current_tags = line.strip().split()
-            if current_tags[0] == 'tags:':
-                total_tags.extend(current_tags[1:])
-                crawl = False
-                break
-        if line.strip() == '---':
-            if not crawl:
-                crawl = True
-            else:
-                crawl = False
-                break
-    f.close()
-total_tags = set(total_tags)
+    try:
+        end = next(
+            i for i in range(1, len(lines))
+            if lines[i].strip() == "---"
+        )
+    except StopIteration:
+        print(f"WARNING: Unclosed front matter: {post}")
+        continue
 
-old_tags = glob.glob(tag_dir + '*.md')
-for tag in old_tags:
-    os.remove(tag)
-    
-if not os.path.exists(tag_dir):
-    os.makedirs(tag_dir)
+    metadata = yaml.safe_load(
+        "\n".join(lines[1:end])
+    ) or {}
 
-for tag in total_tags:
-    tag_filename = tag_dir + tag + '.md'
-    f = open(tag_filename, 'a')
-    write_str = '---\nlayout: tagpage\ntitle: \"Tag: ' + tag + '\"\ntag: ' + tag + '\nrobots: noindex\n---\n'
-    f.write(write_str)
-    f.close()
-print("Tags generated, count", total_tags.__len__())
+    raw_tags = metadata.get("tags", [])
+
+    if isinstance(raw_tags, str):
+        tags = raw_tags.split()
+    elif isinstance(raw_tags, list):
+        tags = [str(t) for t in raw_tags]
+    else:
+        raise ValueError(f"Invalid tags in {post}")
+
+    for tag in tags:
+        tag = tag.strip()
+        if tag:
+            tags_to_posts[tag].append(post.name)
+
+# Display discovered tags
+print("\nTags discovered:\n")
+
+for tag, posts in sorted(tags_to_posts.items()):
+    print(f"{tag} ({len(posts)} posts)")
+    for post in posts:
+        print(f"    {post}")
+
+# Validate filenames before modifying anything
+for tag in tags_to_posts:
+    if tag in (".", "..") or "/" in tag or "\\" in tag:
+        raise ValueError(f"Unsafe tag filename: {tag!r}")
+
+# Remove old generated pages
+TAG_DIR.mkdir(exist_ok=True)
+
+for old_file in TAG_DIR.glob("*.md"):
+    old_file.unlink()
+
+# Generate new tag pages
+for tag in sorted(tags_to_posts):
+    output = TAG_DIR / f"{tag}.md"
+
+    front_matter = {
+        "layout": "tagpage",
+        "title": f"Tag: {tag}",
+        "tag": tag,
+        "robots": "noindex"
+    }
+
+    output.write_text(
+        "---\n"
+        + yaml.safe_dump(
+            front_matter,
+            sort_keys=False,
+            allow_unicode=True
+        )
+        + "---\n",
+        encoding="utf-8"
+    )
+
+print(f"\nGenerated {len(tags_to_posts)} tag pages.")
