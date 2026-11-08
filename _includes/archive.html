@@ -1,14 +1,23 @@
 
 <h2>Archive</h2>
 
-{% assign sorted_tags = site.tags | sort_natural %}
+{% capture tag_names %}
+  {% for tag in site.tags %}
+    {{ tag[0] | downcase }}|{{ tag[0] }}@@
+  {% endfor %}
+{% endcapture %}
 
-{% for tag in sorted_tags %}
-  {% assign tagname = tag[0] %}
+{% assign sorted_tags = tag_names | split: '@@' | sort %}
 
-  <a href="{{ '/tag/' | append: tagname | relative_url }}">
-    <code class="highlighter-rouge">
-      <nobr>{{ tagname }}</nobr>
-    </code>
-  </a>
+{% for entry in sorted_tags %}
+  {% assign parts = entry | strip | split: '|' %}
+  {% assign tagname = parts[1] %}
+
+  {% if tagname and tagname != "" %}
+    <a href="{{ '/tag/' | append: tagname | relative_url }}">
+      <code class="highlighter-rouge">
+        <nobr>{{ tagname }}</nobr>
+      </code>
+    </a>
+  {% endif %}
 {% endfor %}
