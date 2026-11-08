@@ -2,6 +2,7 @@
 title: Putting a Winch on a 100-series LandCruiser Isn't Easy
 author: Jason
 layout: post
+blogs: personal
 date: 2024-10-22
 tags: landcruiser
 ---
