@@ -20,3 +20,19 @@ Jason miller
   </li>
 {% endfor %}
 </ul>
+
+<h2>Phantom Tag Diagnostics</h2>
+
+{% for tag in site.tags %}
+  {% if tag[0] == "amateur-radio," or tag[0] == "1" %}
+    <h3>Tag: {{ tag[0] }}</h3>
+    <ul>
+      {% for post in tag[1] %}
+        <li>
+          {{ post.title }}
+          — {{ post.path }}
+        </li>
+      {% endfor %}
+    </ul>
+  {% endif %}
+{% endfor %}
