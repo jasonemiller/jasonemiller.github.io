@@ -3,7 +3,7 @@ title: Tools for a new Ham Radio Club
 author: Jason
 layout: post
 date: 2024-07-04
-tag:  amateur-radio, tools
+tag:  amateur-radio tools
 ---
 
 Our campus radio club has an ARDC grant that will allow us to get some tools.  A fundamental goal of our club is to be able to support students where their interests in radio might take them.  This means the club needs to be flexible.  Also, we don't have a lot of room, so large testing instruments like signal generators and oscilloscopes aren't really an option.  (We can go use those instruments in the physics labs.)   I'm a handy guy who could make up a decent shopping list for tools on my own, but I wanted my ideas to be validated.  And I wanted help to see around corners.  
