@@ -1,27 +1,21 @@
 
 <h2>Archive</h2>
 
-{% capture temptags %}
-  {% for tag in site.tags %}
-    {{ tag[1].size | plus: 1000 }}#{{ tag[0] }}#{{ tag[1].size }}
-  {% endfor %}
-{% endcapture %}
+{% assign sorted_tags = site.tags | sort %}
 
-{% assign sortedtemptags = temptags | split: ' ' | sort | reverse %}
-
-{% for temptag in sortedtemptags %}
-  {% assign tagitems = temptag | split: '#' %}
-  {% assign tagname = tagitems[1] %}
+{% for tag in sorted_tags %}
+  {% assign tagname = tag[0] %}
+  {% assign posts = tag[1] %}
 
   <h3>
     <a href="{{ '/tag/' | append: tagname | relative_url }}">
       {{ tagname }}
     </a>
-    ({{ site.tags[tagname].size }})
+    ({{ posts.size }})
   </h3>
 
   <ul>
-    {% for post in site.tags[tagname] %}
+    {% for post in posts %}
       <li>
         <a href="{{ post.url | relative_url }}">
           {{ post.title }}
@@ -31,33 +25,4 @@
     {% endfor %}
   </ul>
 
-{% endfor %}
-
-<h2>Posts tagged "1"</h2>
-    
-    <ul>
-    {% for post in site.tags["1"] %}
-      <li>
-        <a href="{{ post.url | relative_url }}">
-          {{ post.title }}
-        </a>
-        -- {{ post.path }}
-      </li>
-    {% endfor %}
-    </ul>
-
-<h2>Diagnostic: Tag 1</h2>
-
-{% for tag in site.tags %}
-  {% assign tagname = tag[0] | append: "" %}
-  {% if tagname == "1" %}
-    <p>Found tag: {{ tag[0] }}</p>
-    <ul>
-      {% for post in tag[1] %}
-        <li>
-          {{ post.title }} — {{ post.path }}
-        </li>
-      {% endfor %}
-    </ul>
-  {% endif %}
 {% endfor %}
