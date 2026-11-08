@@ -16,7 +16,7 @@
   {% if tagname and tagname != "" %}
     <a href="{{ '/tag/' | append: tagname | relative_url }}">
       <code class="highlighter-rouge">
-        <nobr>{{ tagname }}</nobr>
+        <nobr>{{ tagname }} ({{ site.tags[tagname].size }})</nobr>
       </code>
     </a>
   {% endif %}
