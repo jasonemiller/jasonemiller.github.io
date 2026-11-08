@@ -80,7 +80,9 @@ Here is `archive.html`:
 ```
 {% endraw %}
 
-This produces a list of all the tags on the site with each tag hyperlinked to a page like the one generated using the `tagpage.html` template, above.  THis gives visitors a very nice was to explore all the posts.  And it gives me a way of finding a post I'm searching for.
+This produces a list of all the tags on the site with each tag hyperlinked to a page like the one generated using the `tagpage.html` template, above.  This gives visitors a very nice was to explore all the posts.  And it gives me a way of finding a post I'm searching for.
+
+This also fixed the phantom tags.  They're no longer a problem.
 
 <!--
 

@@ -1,0 +1,50 @@
+
+---
+layout: default
+---
+
+<div class="blog-roll">
+
+  <h1>{{ page.title }}</h1>
+
+  {% if page.description %}
+    <p>{{ page.description }}</p>
+  {% endif %}
+
+  {% assign blog_posts = site.posts | where_exp: "post", "post.blogs contains page.blog" %}
+
+  {% for post in blog_posts %}
+
+    <article class="post">
+
+      <h2>
+        <a href="{{ post.url | relative_url }}">
+          {{ post.title }}
+        </a>
+      </h2>
+
+      <p class="post-meta">
+        {{ post.date | date: "%B %d, %Y" }}
+      </p>
+
+      {% if post.description %}
+        <p>{{ post.description }}</p>
+      {% endif %}
+
+      <div class="post-content">
+        {{ post.excerpt }}
+      </div>
+
+      <p>
+        <a href="{{ post.url | relative_url }}">
+          Read more &raquo;
+        </a>
+      </p>
+
+    </article>
+
+    <hr>
+
+  {% endfor %}
+
+</div>
