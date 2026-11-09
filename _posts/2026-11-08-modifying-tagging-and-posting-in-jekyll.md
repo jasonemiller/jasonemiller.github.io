@@ -84,7 +84,11 @@ This produces a list of all the tags on the site with each tag hyperlinked to a 
 
 This also fixed the phantom tags.  They're no longer a problem.
 
+## Multiple Blogrolls
 
+ChatGPT had me add a new field to the YAML header of posts called `blog:`.  Then setting this field value to `personal` or `amateur-radio` will populate a topic-specific blogroll.  It took a little work to get the layout of the blogrolls looking like the layout of the main page, but this was pretty simple in the end.
+
+I won't repeat the steps here becasue there was wo much back and forth, trial and (my) error in the process, that it'd be difficult to summarize what I did, here.  Suffice it to say that it's easy to do this natively in Jekyll with the creation of one of two files and fields.
 
 <!--
 
