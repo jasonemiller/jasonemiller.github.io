@@ -11,7 +11,7 @@ layout: default
     <p>{{ page.description }}</p>
   {% endif %}
 
-  {% assign blog_posts = site.posts | where_exp: "post", "post.blogs contains page.blog" %}
+  {% assign blog_posts = site.tags[page.blog] %}
 
   {% for post in blog_posts %}
 
