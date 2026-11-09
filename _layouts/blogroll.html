@@ -3,48 +3,51 @@
 layout: default
 ---
 
-<div class="blog-roll">
+<div class="home">
 
-  <h1>{{ page.title }}</h1>
+  {%- if page.title -%}
+    <h1 class="page-heading">{{ page.title }}</h1>
+  {%- endif -%}
 
-  {% if page.description %}
-    <p>{{ page.description }}</p>
-  {% endif %}
+  {{ content }}
 
-  {% assign blog_posts = site.tags[page.blog] %}
+  {% assign posts = site.posts | where_exp: "post", "post.blogs contains page.blog" %}
 
-  {% for post in blog_posts %}
+  {%- if posts.size > 0 -%}
 
-    <article class="post">
+    {%- if page.list_title -%}
+      <h2 class="post-list-heading">{{ page.list_title }}</h2>
+    {%- endif -%}
 
-      <h2>
-        <a href="{{ post.url | relative_url }}">
-          {{ post.title }}
-        </a>
-      </h2>
+    <ul class="post-list">
 
-      <p class="post-meta">
-        {{ post.date | date: "%B %d, %Y" }}
-      </p>
+      {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
 
-      {% if post.description %}
-        <p>{{ post.description }}</p>
-      {% endif %}
+      {%- for post in posts -%}
+      <li>
+        <span class="post-meta">
+          {{ post.date | date: date_format }}
+        </span>
 
-      <div class="post-content">
-        {{ post.excerpt }}
-      </div>
+        <h3>
+          <a class="post-link" href="{{ post.url | relative_url }}">
+            {{ post.title | escape }}
+          </a>
+        </h3>
 
-      <p>
-        <a href="{{ post.url | relative_url }}">
-          Read more &raquo;
-        </a>
-      </p>
+        {%- if site.show_excerpts -%}
+          {{ post.excerpt }}
+        {%- endif -%}
 
-    </article>
+      </li>
+      {%- endfor -%}
 
-    <hr>
+    </ul>
 
-  {% endfor %}
+  {%- else -%}
+
+    <p>No posts found for this blog.</p>
+
+  {%- endif -%}
 
 </div>
