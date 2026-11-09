@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Amateur Radio
-permalink: /amateur-radio/
+permalink: /radio/
 ---
 
 This page is for information about the _CSUCI Amateur Radio Interest Group_ (KN6ZYB) and the <a href="https://csuci.campuslabs.com/engage/organization/studentamatureradio">_CSUCI Student Amateur Radio Club_</a>.
