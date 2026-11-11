@@ -30,7 +30,7 @@ Alternatively, instead of using a rectangle as an invisible object that blocks t
 
 If the top of your shape has a peak, then the text will wrap to it and have a very odd looking break that creates a reading discontinuity.  It's not an acceptable look.  So I set the top right side of the shape to be horizontal.  (See the pic below.). If the peak breaks the text, then the text wraps instead of skipping ahead and creating a horizontal gap.
 
-[![ALT-TEXT](/assets/images/screenshot-peakshapedinvisible-thumbnail.png)](/assets/images/screenshot-peakshapedinvisible.png)
+[![ALT-TEXT](/assets/images/screenshot-peakshapedinvisible.png)](/assets/images/screenshot-peakshapedinvisible.png)
 
 <!--
 SYNTAX FOR IMAGES
