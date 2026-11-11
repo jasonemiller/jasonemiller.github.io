@@ -30,24 +30,4 @@ Alternatively, instead of using a rectangle as an invisible object that blocks t
 
 If the top of your shape has a peak, then the text will wrap to it and have a very odd looking break that creates a reading discontinuity.  It's not an acceptable look.  So I set the top right side of the shape to be horizontal.  (See the pic below.). If the peak breaks the text, then the text wraps instead of skipping ahead and creating a horizontal gap.
 
-[![ALT-TEXT](/assets/images/screenshot-peakshapedinvisible.png)](/assets/images/screenshot-peakshapedinvisible.png)
-
-<!--
-SYNTAX FOR IMAGES
-* use services to create JPG and to create thumbnail that is 720px wide
-
-[![ALT-TEXT](/assets/images/filename-thumbnail.jpg)](/assets/images/filename.jpg)
-
-LIQUID APPROACH
-<!-- Recommended Liquid Filter Approach -->
-![Alt]({{ '/assets/img/photo.jpg' | relative_url }})
--->
-
-<!--
-SYNTAX FOR VIDEO
-* convert MOV to mp4 using VLC
-
-<video width="480" height="320" controls="controls">
-  <source src="/assets/media/filename.m4v" type="video/mp4">
-</video>
--->
+[![ALT-TEXT](/assets/images/screenshot-peakshapedinvisibleobject.png)](/assets/images/screenshot-peakshapedinvisibleobject.png)
