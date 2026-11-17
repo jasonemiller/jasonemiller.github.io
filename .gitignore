@@ -40,4 +40,4 @@ _site/
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
-_posts/.DS_Store
+_posts/.DS_Store**/.DS_Store
