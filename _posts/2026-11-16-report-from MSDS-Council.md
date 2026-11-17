@@ -105,12 +105,41 @@ One way that the Council could support the strategic plan is to promote the effe
 
 We also asked for CO support for a system-wide mathematics conference; past conferences had been a great success.
 
-Finally, we asked the CO to support efforts to allow job seekeers in the mathematical sciences to use [Mathjobs](mathjobs.org) to submit applications for positions in the CSU.  At present, the CSU requires all applications to go through CHRS.  We asked for equitable treatment, noting that Mathjobs is the primary portal for our profession, and lowering a barrier to applying for employment would benefit the CSU.
+Then, we asked the CO to support efforts to allow job seekeers in the mathematical sciences to use [Mathjobs](mathjobs.org) to submit applications for positions in the CSU.  At present, the CSU requires all applications to go through CHRS.  We asked for equitable treatment, noting that Mathjobs is the primary portal for our profession, and lowering a barrier to applying for employment would benefit the CSU.
 
 ## AI
 
-*TL;DR - We had a lengthy conversation about how generative AI was affecting our work.*
+*TL;DR - We had a lengthy conversation about how generative AI was affecting our work.  There was enthusiasm about looking at this as a sociological problem solved by doing mathematics in community.  No solutions were identified.*
 
+Some professors are no longer collecting homework.
+
+Some professors assign homework problems and give quizzes over the problems.
+
+Some faculty have taken a "if I don't see you write it, I don't grade it" approach to assessing student work.
+
+At Bakersfield, they are reviewing their RTP policies to accont for AI; one member of the mathematics faculty submitted 20 single-authored papers last year with the assitance of AI, and their AI-generated RTP portfolio was consisted of 700+ folders and subfolders of information that the committee had to sort through.
+
+At East Bay, their Masters comprehensive exam has reverted to paper and pencil (from online).
+
+At Monterey Bay, faculty had a retreat where they examind program and course learning outcomes and how AI would affect them.  Program outcomes didn't change, but they revised many course outcomes.
+
+One person pointed out that the MAA has published a [statement on AI in higher education](https://maa.org/resource/statement-on-ai-in-higher-education/).
+
+Then the conversation turned to framing the impact of AI as a sociological problem, one of needing to convince students to do the work.
+
+Someone referred to [Dave Kung's MAA article](https://maa.org/math-values/less-time-less-learning-lessons-from-research-of-ai-on-student-learning/) on Ai and time-on-task.
+
+San Jose has a Community Room dedicated to having students (and faculty) come hang out and do homework.  It's an enjoyable experience for those who use it, and it gets a lot of use.
+
+The idea of promoting the idea of doing math in community reverberated with the group.
+
+## Potpourri
+
+The Council asked for ways that it could support the departments in the CSU.
+
+One person expressed interest in additional measurements of student readiness for mathematics, noting that 'category 4' is a botomless category - they'd like to see sub-cataegories (e.g., category 5, category 6)and how students in those categories are successful
+
+The topic of using Aleks to place students into mathematics coruses came up.  One campus said they only use it for placement into Calculus.
 
 
 <!--
