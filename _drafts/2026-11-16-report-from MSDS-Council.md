@@ -91,6 +91,28 @@ The Council was beside itself with dismay at these changes.
 
 At present, the revisions to the Single Subject Certification requirements in mathematics are beforethe CA Office of Administrative Law.  The changes will also have a public hearing where comments will be heard.  There is still a chance for revisions.  (This happened with the Early Childhood requirements went through a similar process.)
 
+## Chancellor's Office
+
+*TL;DR - We had what felt like a first conversation with the Council's liaison at the CO.*
+
+The Council has a liaison at the Chancellor's Office in David Song-Ruiter, Associate Vice Chancellor for Academic Programs, Innovation, and Faculty Excellence.
+
+We spoke with him about the above issues.
+
+We also spoke with him about ways that the Council could support the new [CSU Formard](https://www.calstate.edu/Strategic-Planning-for-the-CSU) strategic initiative.
+
+One way that the Council could support the strategic plan is to promote the effective use of advisory boards to MSDS departments.  The systewm could leverage its network to provide guidance to departments across the state.
+
+We also asked for CO support for a system-wide mathematics conference; past conferences had been a great success.
+
+Finally, we asked the CO to support efforts to allow job seekeers in the mathematical sciences to use [Mathjobs](mathjobs.org) to submit applications for positions in the CSU.  At present, the CSU requires all applications to go through CHRS.  We asked for equitable treatment, noting that Mathjobs is the primary portal for our profession, and lowering a barrier to applying for employment would benefit the CSU.
+
+## AI
+
+*TL;DR - We had a lengthy conversation about how generative AI was affecting our work.*
+
+
+
 <!--
 SYNTAX FOR IMAGES
 * use services to create JPG and to create thumbnail that is 720px wide
