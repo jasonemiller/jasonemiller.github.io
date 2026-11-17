@@ -19,7 +19,7 @@ The Council changed its name from 'Math Council' to 'MSDS Council' to reflect ex
 
 Cal-Bridge is seeking students who are eager to earn a Ph.D. and be talented in ways that have been historically overlooked by the establishment.  It's a program that began with a focus on physics students, and then it added computer science.  A few years ago, Cal-Bridge added mathematics students.  The last couple cohorts have have about 10 students.
 
-It is a partnership between the California Community Colleges, the CSU, and the UCs that is funded by state appropriations.  Students selected received two years of scholarship support and, when they matriculate to a Ph.D program they get a one-time $40k fellowship.m Because the funds are from the state (and not federal), Cal-Bridge can support AB540 and DACA students.
+It is a partnership between the California Community Colleges, the CSU, and the UCs that is funded by state appropriations.  Students selected received two years of scholarship support and, when they matriculate to a Ph.D program they get a one-time $40k fellowship. Because the funds are from the state (and not federal), Cal-Bridge can support AB540 and DACA students.
 
 The next cohort of students will be the class of 2029.  Applications will be due in March/April of 2027. To be eligible, mathematics students have to be interested in something 'mathy' (e.g., have had students go on to earn Ph.D.s in finance, theoretic chemistry, in addition to mathematics.). And students must be motivated to succeeed; they have weekly meetings with mentors, wsork iwht tutors, and participate in workshops with other Cal-Bridge students.
 
@@ -53,7 +53,7 @@ Adam Glesser, Chair of the Mathematics Department at CSU Fullerton, shared
 
 Several times people pointed out that many programs hadn't rolled back accommodations that were put into place to make learning during COVID possible.  Progress in equitable learning requires that we roll back these changes.
 
-The resolution points out the relatity of the system we're operating in and how it needs to change.
+The resolution points out the realtity of the system we're operating in and how it needs to change.
 
 Some time was spent talking about the need for state support for testing centers that would allow students to take online courses and have authentic assessment experiences, too.
 
@@ -73,7 +73,7 @@ Perhaps the Council should pass a resolution and pass it on to ASCSU through APE
 
 At the meeting, Dr. Juliet Wahleither (CTC Division Director, Research, Evaluation, and Assessment)and Dr. Mary Vixie Sandy (CTC Executive Director) spoke and described how changes to the Single Subject Certification in Mathematics had come about.  Changes flow from AB 130 (in 2021) and AB 126 (in 2026).
 
-The former widened options for demonstrating a student met the single subject requirements.  The latter allowed a student in a `closely related area` to meet the subject requirements as if they were in mathematics.
+The former widened options for demonstrating a student met the single subject requirements.  The latter allowed a student in a 'closely related area' to meet the subject requirements as if they were in mathematics.
 
 An area is 'closely related' if it has three required courses in common with those requires of the mathematics major.  This mean, for example, a major that requires precalculus, introductory statistics, and another mathematics course (perhaps Calculus 1) would be classified as 'closely related' to mathematics.
 
@@ -117,7 +117,7 @@ Some professors assign homework problems and give quizzes over the problems.
 
 Some faculty have taken a "if I don't see you write it, I don't grade it" approach to assessing student work.
 
-At Bakersfield, they are reviewing their RTP policies to accont for AI; one member of the mathematics faculty submitted 20 single-authored papers last year with the assitance of AI, and their AI-generated RTP portfolio was consisted of 700+ folders and subfolders of information that the committee had to sort through.
+At Bakersfield, they are reviewing their RTP policies to account for AI; one member of the mathematics faculty submitted 20 single-authored papers last year with the assitance of AI, and their AI-generated RTP portfolio consisted of 700+ folders and subfolders of information that the committee had to sort through.
 
 At East Bay, their Masters comprehensive exam has reverted to paper and pencil (from online).
 
@@ -125,9 +125,9 @@ At Monterey Bay, faculty had a retreat where they examind program and course lea
 
 One person pointed out that the MAA has published a [statement on AI in higher education](https://maa.org/resource/statement-on-ai-in-higher-education/).
 
-Then the conversation turned to framing the impact of AI as a sociological problem, one of needing to convince students to do the work.
+Someone referred to [Dave Kung's MAA article](https://maa.org/math-values/less-time-less-learning-lessons-from-research-of-ai-on-student-learning/) on AI and time-on-task.
 
-Someone referred to [Dave Kung's MAA article](https://maa.org/math-values/less-time-less-learning-lessons-from-research-of-ai-on-student-learning/) on Ai and time-on-task.
+Then the conversation turned to framing the impact of AI as a sociological problem, one of needing to convince students to do the work.
 
 San Jose has a Community Room dedicated to having students (and faculty) come hang out and do homework.  It's an enjoyable experience for those who use it, and it gets a lot of use.
 
@@ -137,7 +137,7 @@ The idea of promoting the idea of doing math in community reverberated with the 
 
 The Council asked for ways that it could support the departments in the CSU.
 
-One person expressed interest in additional measurements of student readiness for mathematics, noting that 'category 4' is a botomless category - they'd like to see sub-cataegories (e.g., category 5, category 6)and how students in those categories are successful
+One person expressed interest in additional measurements of student readiness for mathematics, noting that 'category 4' is a bottomless category - they'd like to see sub-categories (e.g., category 5, category 6) and how students in those categories are successful
 
 The topic of using Aleks to place students into mathematics coruses came up.  One campus said they only use it for placement into Calculus.
 
