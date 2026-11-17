@@ -4,7 +4,7 @@ author: Jason
 layout: post
 blogs: work
 date: 2026-11-16
-tags: chair, teaching, learning, AI, department, credentials, articulation
+tags: chair teaching learning AI department credentials articulation
 ---
 
 On Friday, November 13th, chairs of departments of mathematics, data science, and statistics met together at Fresno State to talk about some important issues facing the mathematics in higher education.  This is a short report on those conversations.  Each section begins with a TL;DR summary followed by a more detailed description of the conversations we had.
