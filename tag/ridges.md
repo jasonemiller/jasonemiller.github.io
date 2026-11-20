@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: "Tag: ridges"
+title: 'Tag: ridges'
 tag: ridges
 robots: noindex
 ---

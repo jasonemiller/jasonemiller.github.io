@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: "Tag: nawcwd"
+title: 'Tag: nawcwd'
 tag: nawcwd
 robots: noindex
 ---

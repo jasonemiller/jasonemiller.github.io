@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: "Tag: markdown"
+title: 'Tag: markdown'
 tag: markdown
 robots: noindex
 ---

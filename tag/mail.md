@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: "Tag: mail"
+title: 'Tag: mail'
 tag: mail
 robots: noindex
 ---

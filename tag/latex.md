@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: "Tag: latex"
+title: 'Tag: latex'
 tag: latex
 robots: noindex
 ---

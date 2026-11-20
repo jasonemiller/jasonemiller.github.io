@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: "Tag: EPA"
+title: 'Tag: EPA'
 tag: EPA
 robots: noindex
 ---

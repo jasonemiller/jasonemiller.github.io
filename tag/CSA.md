@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: "Tag: CSA"
+title: 'Tag: CSA'
 tag: CSA
 robots: noindex
 ---

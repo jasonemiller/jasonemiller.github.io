@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: "Tag: makers"
+title: 'Tag: makers'
 tag: makers
 robots: noindex
 ---

@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: "Tag: drones"
+title: 'Tag: drones'
 tag: drones
 robots: noindex
 ---

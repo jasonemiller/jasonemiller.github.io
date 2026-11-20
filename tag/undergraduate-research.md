@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: "Tag: undergraduate-research"
+title: 'Tag: undergraduate-research'
 tag: undergraduate-research
 robots: noindex
 ---

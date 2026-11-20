@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: "Tag: EXWC"
+title: 'Tag: EXWC'
 tag: EXWC
 robots: noindex
 ---

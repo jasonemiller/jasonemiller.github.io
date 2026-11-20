@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: "Tag: version-control"
+title: 'Tag: version-control'
 tag: version-control
 robots: noindex
 ---

@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: "Tag: CRADA"
+title: 'Tag: CRADA'
 tag: CRADA
 robots: noindex
 ---

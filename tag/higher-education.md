@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: "Tag: higher-education"
+title: 'Tag: higher-education'
 tag: higher-education
 robots: noindex
 ---

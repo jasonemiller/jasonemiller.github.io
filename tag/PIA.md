@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: "Tag: PIA"
+title: 'Tag: PIA'
 tag: PIA
 robots: noindex
 ---

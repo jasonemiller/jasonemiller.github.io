@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: "Tag: teaching"
+title: 'Tag: teaching'
 tag: teaching
 robots: noindex
 ---

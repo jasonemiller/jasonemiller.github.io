@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: "Tag: regex"
+title: 'Tag: regex'
 tag: regex
 robots: noindex
 ---
