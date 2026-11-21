@@ -32,12 +32,6 @@ I wanted that.
 
 The American Healthcare System is not built to deliver Mayo clinic quality for everyone.  The American Healthcare System is Big Business, and it's selling its wares to its customers.  Blood tests, Xrays, MRIs, biopsies, appointments with specialists.  These all have a veneer of medical magic, but they're mainly generate income for those inside the system.  If you want quality care, you have to work to find it and you must be prepared to reject a doctor if you think they are compromised by something that's not in your interest.  It's not personal.  It's your health.  So you can be brutal in the process you use to find the right doctor.
 
-As my appointment with Dr. Poon was approaching, I racked my brain for friends and acquaintances who could give me advice on good doctors.  How could I find the best urologist in the area that's covered by my insurance?  The insurance company has a web site that will tell me who is in my network, but the site gives very little information that would help a person choose a doctor for the right reasons.   I have a friendly neighbor who is a UCLA-trained cardiologist.  I texted him on August 10th.
-
-[![Screenshot of text messages with a neighbor](/assets/images/screenshot-cananconvo260810.jpeg)](/assets/images/screenshot-cananconvo260810-original.png)
-
-This primed my research pump.  He recommended two urologists he knew about.  I called the UCLA urology department and learned that neither were taking patients at the time.  Bummer.
-
 The next day, I had my appointment with Dr. Poon.  That meeting didn't go great.  Dr. Poon had the aura of having been a frat boy, and when he learned I was a mathematics professor, he laughed and smiled as told me that he cheated in college Calculus using a roommate's girl friend's homework.   I can't remember if that was before or after he told me that the MRI showed some abnormalities (or lesions) on my prostate.  Those lesions merited a biopsy.  After he said there was a 30%-50% chance they would turn out to be cancerous, he tried to shuffle me into an appointment with his clinic for the ultrasound-guided biopsy in a couple weeks.  I demurred, saying I'd have to talk with my wife first. 
 
 Was this me saying that I didn't know what to do about my health at that point?  No.  I didn't doubt that I'd need a biopsy.  Was this me saying I couldn't make a decision about my healthcare without my wife's input?  No.  It was me having a gut feeling that Dr. Poon, the biopsy salesman, was positioning me to open a spigot of insurance money and pour it into his clinic .  In America, health care is a business.  And I'm was about to become a valuable customer for someone.  I wonder if physicians get bonuses for lining up patients like me.
@@ -45,5 +39,15 @@ Was this me saying that I didn't know what to do about my health at that point? 
 Before I even made it to my car in the parking lot, I had decided to find a different urologist.
 
 (Fast forward to November 2026.  I'm in an exam room with my primary physician, Dr. Foud.  As I update him on my prostate journey, I share that I really don't like Dr. Poon.  "You're not the first," he replied drily.[^3])
+
+How does a person like me find an excellent doctor?  The answer almost always lies in a personal and professional network of people.  I racked my brain for friends and acquaintances who could give me advice on good doctors.  How could I find the best urologist in the area that's covered by my insurance?  The insurance company has a web site that will tell me who is in my network, but the site gives very little information that would help a person choose a doctor for the right reasons.   
+
+I have a friendly neighbor who is a UCLA-trained cardiologist.  I texted him on August 10th.
+
+[![Screenshot of text messages with a neighbor](/assets/images/screenshot-cananconvo260810.jpeg)](/assets/images/screenshot-cananconvo260810-original.png)
+
+This primed my research pump.  He recommended two urologists he knew about.  I called the UCLA urology department and learned that neither were taking patients at the time.  Bummer.
+
+
 
 [^3]:  Then why does Dr. Fouad refer patients to Dr. Poon?  Could it be that Dr. Poon is in the same medical organization as Dr. Fouad, and there's an expectation that Dr. Fouad refer patients to Dr. Poon for business reasons?  This is the way the American Medical System works.  So we patients need to be ever vigilant and exercise complete control over our care decisions.  *Caveat emptor.* 
