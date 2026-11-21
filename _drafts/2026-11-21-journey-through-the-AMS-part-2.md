@@ -16,13 +16,33 @@ I've learned the hard way that proof of insurance is important.  A few months ag
 I learned to verify ahead of time that a medical visit is covered by insurance.  If I got this urology thing wrong, it would be a lot more expensive than going to urgent care. 
 
 [^1]: My wife actually took a screenshot of the Blue Cross web page that showed the Urgent Care to be in-network.  That screenshot probably helped us when we appealed the insurance company's coverage decision.
+
+
 ## Visiting UCLA
 
-The moment my faith in my insurance company exceeded my fear of the American Medical System, I made that September 2nd appointment with Dr. Reiter.  He looked great on paper.  And the meeting met my expectations.
+The moment that my research allowed my faith in my insurance company to exceeded my fear of the American Medical System, I made that September 2nd appointment with Dr. Reiter.  He looked great on paper.  And the meeting met my expectations.
 
-Yes, he said, there are abnormalities on your prostate.  Yes, you should get a biopsy so we know more.  I think he referred to the abnormalities as pyrad 4, saying they merited serious attention.  He then described what the biopsy would be like.  Comparing his biopsy description to what Dr. Poon had told me would only make Dr. Poon look worse, so I won't do it.  But I will say that Dr. Reiter spoke like a scientist physician and he spoke with calm assurance.  He used words like *anterior* and *posteromedial*.  He explained that the biopsy would be [transperineal](https://www.mayoclinic.org/medical-professionals/urology/news/ultrasound-guided-transperineal-prostate-biopsy/mac-20473283) because that gave the best access to the lesions.   "We can reach them more easliy," he said.  Poon had said the biopsy would be transrectal, making it sound like that's "just the way it's done."   I guess this shows one value of getting a second opinion.
+The drive to the the main UCLA Medical Center[^1] campus in Westwood, just west of LA, took about an hour.  My truck's rood-top that makes parking ramps treacherous, so I found street parking near a Whole Foods and walked to the hospital.
+
+[^1]:  I can't allow me to call it by its proper name.
+
+The urology department was easy to find on the first floor, right inside the building's main doors.  The spacious wood paneled waiting room was softer and quieter than the hard tile hallway outside, and the staff at the check-in desk were efficient and kind.  There was a water machine in the corner of the waiting room with a stack of paper cups.
+
+I sat in a wood and fabric chair as I waited with with a score of other older men and women.  Am I that old, now?  I didn't feel that old.
+
+Before long, someone came out of a side doorway and called my name.  They ushered me down a back hallway to a small exam room that felt too normal and plain to be at UCLA.  I expected it to be fancier.  But I have little experience with this kind of care.
+
+I think I remember a nurse taking my vitals, and I can't remember if I was then taken to another exam room to meet Dr. Reiter or he came in mine.  It all seemed to happen right away.
+
+I remember feeling like Dr. Reiter sorta [resembled his photo](https://www.uclahealth.org/providers/robert-reiter), but I expected someone bigger and beefier.  Through our meeting, he sat comfortably on a stool and spoke to me kindly.  First, he asked if a patient advocate could join us.  I said yes and a young woman come in, introduced herself, and stood by the far wall, fading into the background.
+
+Yes, he said, there are abnormalities on your prostate.  Yes, you should get a biopsy so we know more.  I think he referred to the abnormalities as "pyrad 4", saying they merited serious attention.  He then described what the biopsy would be like.  Comparing his biopsy description to what Dr. Poon had told me would only make Dr. Poon look worse, so I won't do it.  But I will say that Dr. Reiter spoke like a scientist physician and he spoke with calm assurance.  He used words like *anterior* and *posteromedial*.  I let them wash over me.  He explained that the biopsy would be [transperineal](https://www.mayoclinic.org/medical-professionals/urology/news/ultrasound-guided-transperineal-prostate-biopsy/mac-20473283) because that gave the best access to the lesions.   "We can reach them more easliy," he said.  Poon had said the biopsy would be transrectal, making it sound like that's "just the way it's done."   I guess this shows one value of getting a second opinion.
 
 My meeting with Dr. Reiter was shorter than I expected.  He was going to set me up with his biopsy team.  "They're great.  They've done thousands of these."  Then he mentioned that I might be a good candidate for [the UCLA BEACON clinical trial](https://www.allclinicaltrials.com/study/NCT07164027).  It's for middle-aged men with my type of lesion.  Would I be interested?  I said I'd be willing to learn more, and he set up a time for me to meet the trial's lead doctor, Dr. Wayne Brisbane.
+
+I said I was willing to learn more.  He said he'd set up a meeting with the study lead.  he then bid me farewell, and I left our exam roomm with the patient advocate.  In the small talk that passed between me and her as we walked down the clinic hallway, I said I was driving back to Camarillo.  "Oh," she said, lowering her voice a bit and stepping closed.  "If you like pastries, you just *must* try Carrar Cafe in Old Town."  I thanked her for her recommendation, and we parted.
+
+
 
 My meeting with Brisbane was via teleconference a week later.  He was driving his Tesla home from work.  His camera was on the dash, above the steering column.  I could tell me was driving North on the 405.  We had a good conversation about the trial.  I had prepared questions.  Some about risk to me.  Some about how the trial would differ from a normal biopsy.  Some about recovery from the biopsy.  I was able to throw around some ideas and words I'd picked up while I was doing some work in mathematical biology.  His answers were straightforward.  He made me feel like I was asking good questions.
 
