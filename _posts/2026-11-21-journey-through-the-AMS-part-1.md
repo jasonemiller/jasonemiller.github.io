@@ -38,7 +38,7 @@ I met with Dr. Poon on August 11.  That meeting didn't go great.  Dr. Poon had t
 
 After he said there was a 30%-50% chance they would turn out to be cancerous, he tried to shuffle me into an appointment with his clinic for the ultrasound-guided biopsy in a couple weeks.  I demurred, saying I'd have to talk with my wife first. 
 
-Was this me saying that I didn't know what to do about my health at that point?  No.  I didn't doubt that I'd need a biopsy.  Was this me saying I couldn't make a decision about my healthcare without my wife's input?  No.  It was me having a gut feeling that Dr. Poon was a the biopsy salesman who was positioning me to open a spigot of insurance money to  pour into his clinic.  I was about to become a valuable customer.  Do physicians get bonuses for lining up patients like me?  Do they have biopsy quotas they need to meet?
+Was this me saying that I didn't know what to do about my health at that point?  No.  I didn't doubt that I'd need a biopsy.  Was this me saying I couldn't make a decision about my healthcare without my wife's input?  No.  It was me having a gut feeling that Dr. Poon was a biopsy salesman who was positioning me to open a spigot of insurance money to  pour into his clinic.  I was about to become a valuable customer.  Do physicians get bonuses for lining up patients like me?  Do they have biopsy quotas they need to meet?
 
 After the consultation and before I even made it to my car, I decided to find a different urologist.
 
