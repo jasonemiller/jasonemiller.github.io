@@ -48,8 +48,9 @@ I have a friendly neighbor who is a UCLA-trained cardiologist.  I texted him on 
 
 [![Screenshot of text messages with a neighbor](/assets/images/screenshot-cananconvo260810.jpeg)](/assets/images/screenshot-cananconvo260810-original.png)
 
-This primed my research pump.  He recommended two urologists he knew about.  I called the UCLA urology department and learned that neither were taking patients at the time.  Bummer.
+He recommended two urologists he knew about at UCLA.  I called the UCLA urology department and learned that neither were taking patients at the time.  Bummer.
 
+<hr>
 
 
 [^3]:  Then why does Dr. Fouad refer patients to Dr. Poon?  Could it be that Dr. Poon is in the same medical organization as Dr. Fouad, and there's an expectation that Dr. Fouad refer patients to Dr. Poon for business reasons?  This is the way the American Medical System works.  So we patients need to be ever vigilant and exercise complete control over our care decisions.  *Caveat emptor.* 
