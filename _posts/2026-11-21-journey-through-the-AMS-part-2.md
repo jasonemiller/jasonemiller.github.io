@@ -11,7 +11,7 @@ Check back soon.
 
 <hr>
 
-The [next post]({% link _posts/2026-11-21-journey-through-the-AMS-part-3.md %}) is on its way.  Check back here after a bit.
+The next post is on its way.  Check back here after a bit.
 
 <hr>
 
