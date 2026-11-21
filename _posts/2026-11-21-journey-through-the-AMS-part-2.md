@@ -15,16 +15,16 @@ I've learned the hard way that proof of insurance is important.  A few months ag
 
 I learned to verify ahead of time that a medical visit is covered by insurance.  If I got this urology thing wrong, it would be a lot more expensive than going to urgent care. 
 
-[^1]: My wife actually took a screenshot of the Blue Cross web page that showed the Urgent Care to be in-network.  That screenshot probably helped us when we appealed the insurance company's coverage decision.
+
 
 
 ## Visiting UCLA
 
 The moment that my research allowed my faith in my insurance company to exceeded my fear of the American Medical System, I made that September 2nd appointment with Dr. Reiter.  He looked great on paper.  And the meeting met my expectations.
 
-The drive to the the main UCLA Medical Center[^1] campus in Westwood, just west of LA, took about an hour.  My truck's rood-top that makes parking ramps treacherous, so I found street parking near a Whole Foods and walked to the hospital.
+The drive to the the main UCLA Medical Center[^2] campus in Westwood, just west of LA, took about an hour.  My truck's rood-top that makes parking ramps treacherous, so I found street parking near a Whole Foods and walked to the hospital.
 
-[^1]:  I can't allow me to call it by its proper name.
+
 
 The urology department was easy to find on the first floor, right inside the building's main doors.  The spacious wood paneled waiting room was softer and quieter than the hard tile hallway outside, and the staff at the check-in desk were efficient and kind.  There was a water machine in the corner of the waiting room with a stack of paper cups.
 
@@ -59,4 +59,10 @@ It all sounded good and safe to me, so I verbally volunteered for the trial befo
 The next post is on its way.  Check back here after a bit.
 
 <hr>
+
+[^1]: My wife actually took a screenshot of the Blue Cross web page that showed the Urgent Care to be in-network.  That screenshot probably helped us when we appealed the insurance company's coverage decision.
+
+[^2]:  I can't allow me to call it by its proper name.
+
+
 
