@@ -54,7 +54,7 @@ He recommended two urologists he knew about at UCLA.  I called the UCLA urology 
 
 <hr>
 
-Part 2 is on its way.  Check back here after a bit.
+The [next post]({% link _posts/2026-11-21-journey-through-the-AMS-part-2.md %}) is on its way.  Check back here after a bit.
 
 <hr>
 
