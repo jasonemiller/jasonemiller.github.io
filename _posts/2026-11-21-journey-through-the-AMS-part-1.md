@@ -47,23 +47,3 @@ Before I even made it to my car in the parking lot, I had decided to find a diff
 (Fast forward to November 2026.  I'm in an exam room with my primary physician, Dr. Foud.  As I update him on my prostate journey, I share that I really don't like Dr. Poon.  "You're not the first," he replied drily.[^3])
 
 [^3]:  Then why does Dr. Fouad refer patients to Dr. Poon?  Could it be that Dr. Poon is in the same medical organization as Dr. Fouad, and there's an expectation that Dr. Fouad refer patients to Dr. Poon for business reasons?  This is the way the American Medical System works.  So we patients need to be ever vigilant and exercise complete control over our care decisions.  *Caveat emptor.* 
-
-<!--
-SYNTAX FOR IMAGES
-* use services to create JPG and to create thumbnail that is 720px wide
-
-[![ALT-TEXT](/assets/images/filename-thumbnail.jpg)](/assets/images/filename.jpg)
-
-LIQUID APPROACH
-<!-- Recommended Liquid Filter Approach -->
-![Alt]({{ '/assets/img/photo.jpg' | relative_url }})
--->
-
-<!--
-SYNTAX FOR VIDEO
-* convert MOV to mp4 using VLC
-
-<video width="480" height="320" controls="controls">
-  <source src="/assets/media/filename.m4v" type="video/mp4">
-</video>
--->
