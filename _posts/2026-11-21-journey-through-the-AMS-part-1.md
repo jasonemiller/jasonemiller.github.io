@@ -54,5 +54,8 @@ He recommended two urologists he knew about at UCLA.  I called the UCLA urology 
 
 <hr>
 
+Part 2 is on its way.  Check back here after a bit.
+
+<hr>
 
 [^3]:  Then why does Dr. Fouad refer patients to Dr. Poon?  Could it be that Dr. Poon is in the same medical organization as Dr. Fouad, and there's an expectation that Dr. Fouad refer patients to Dr. Poon for business reasons?  This is the way the American Medical System works.  So we patients need to be ever vigilant and exercise complete control over our care decisions.  *Caveat emptor.* 
