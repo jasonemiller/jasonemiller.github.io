@@ -40,7 +40,7 @@ Was this me saying that I didn't know what to do about my health at that point? 
 
 Before I even made it to my car in the parking lot, I had decided to find a different urologist.
 
-(Fast forward to November 2026.  I'm in an exam room with my primary physician, Dr. Foud.  As I update him on my prostate journey, I share that I really don't like Dr. Poon.  "You're not the first," he replied drily.[^3])
+(Fast forward to November 2026.  I'm in an exam room with my primary physician, Dr. Fouad.  As I update him on my prostate journey, I share that I really don't like Dr. Poon.  "You're not the first," he replied drily.[^3])
 
 How does a person like me find an excellent doctor?  The answer almost always lies in a personal and professional network of people.  I racked my brain for friends and acquaintances who could give me advice on good doctors.  How could I find the best urologist in the area that's covered by my insurance?  The insurance company has a web site that will tell me who is in my network, but the site gives very little information that would help a person choose a doctor for the right reasons.   
 
