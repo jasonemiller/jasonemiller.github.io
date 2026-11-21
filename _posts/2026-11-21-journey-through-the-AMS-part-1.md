@@ -4,7 +4,7 @@ author: Jason
 layout: post
 blogs: [personal]
 date: 2026-11-21
-tags: prostate BEACON insurance
+tags: prostate insurance
 ---
 
 In 2009, author and journalist Jeff Jarvis began using Twitter to share his experiences as he dealt with a diagnosis of prostate cancer.  He led people on his arc through treatment and recovery.  His micro-blogging was described by some as 'radical oversharing'.  For others, his narrative revealed a medical reality for many men in the U.S.  For many (not just men), it reduced the mystery and stigma of cancer battles and recovery.
