@@ -4,7 +4,7 @@ author: Jason
 layout: post
 blogs: [personal]
 date: 2026-11-21
-tags: prostate insurance
+tags: prostate insurance BEACON UCLA
 ---
 
 Within hours of getting home, I resumed researching urologists.  My thoughts kept turning to my neighbor's enthusiasm for UCLA, and I kept checking the Blue Cross web site to verify that UCLA doctors were in-network for me.  There were a few.  I called UCLA.  The person I spoke with suggested that [Dr. Robert E. Reiter](https://www.uclahealth.org/providers/robert-reiter) could see me.  He was available on September 2nd.  His bona fides on his web site looked stellar. 
