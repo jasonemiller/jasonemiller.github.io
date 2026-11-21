@@ -34,7 +34,7 @@ The American Healthcare System is not built to deliver Mayo clinic quality for e
 
 As my appointment with Dr. Poon was approaching, I racked my brain for friends and acquaintances who could give me advice on good doctors.  How could I find the best urologist in the area that's covered by my insurance?  The insurance company has a web site that will tell me who is in my network, but the site gives very little information that would help a person choose a doctor for the right reasons.   I have a friendly neighbor who is a UCLA-trained cardiologist.  I texted him on August 10th.
 
-[![Screenshot of text messages with a neighbor](/assets/images/screenshot-cananconvo260810.jpeg)](/assets/images/screenshot-cananconvo260810-original.jpeg)
+[![Screenshot of text messages with a neighbor](/assets/images/screenshot-cananconvo260810.jpeg)](/assets/images/screenshot-cananconvo260810-original.png)
 
 This primed my research pump.  He recommended two urologists he knew about.  I called the UCLA urology department and learned that neither were taking patients at the time.  Bummer.
 
