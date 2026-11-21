@@ -1,5 +1,5 @@
 ---
-title: My Journey Through the American Medical System, part 1
+title: A Journey Through the American Medical System, part 1
 author: Jason
 layout: post
 blogs: personal

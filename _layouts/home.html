@@ -17,7 +17,9 @@ layout: default
 {% else %}
   {% assign posts = site.posts %}
 {% endif %}
-
+{% unless page.blog %}
+  {% assign posts = posts | where_exp: "post", "post.blogs contains 'personal' == false" %}
+{% endunless %}
 
   {%- if posts.size > 0 -%}
     {%- if page.list_title -%}
@@ -26,6 +28,7 @@ layout: default
     <ul class="post-list">
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
       {%- for post in posts -%}
+      {% unless page.blog == nil and post.blogs contains "personal" %}
       <li>
         <span class="post-meta">{{ post.date | date: date_format }}</span>
         <h3>
@@ -37,6 +40,7 @@ layout: default
           {{ post.excerpt }}
         {%- endif -%}
       </li>
+      {% endunless %}
       {%- endfor -%}
     </ul>
 
