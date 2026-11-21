@@ -2,7 +2,7 @@
 title: A Journey Through the American Medical System, part 1
 author: Jason
 layout: post
-blogs: personal
+blogs: [personal]
 date: 2026-11-21
 tags: prostate BEACON insurance
 ---
